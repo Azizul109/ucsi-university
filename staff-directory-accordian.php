@@ -273,6 +273,10 @@
                                         <div class="staff-col">Director</div>
                                     </li>
                                     <li class="clearfix">
+                                        <div class="staff-col">Major Enamul Karim</div>
+                                        <div class="staff-col">Deputy Director, Public Relations</div>
+                                    </li>
+                                    <li class="clearfix">
                                         <div class="staff-col">Mr Md Rafid Sobhan</div>
                                         <div class="staff-col">Senior Event & Digital Content Executive</div>
                                     </li>

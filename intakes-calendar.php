@@ -4,24 +4,23 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="item-box">
-                        <h4>Application Deadline, Summer 2024:</h4>
-                        <p>30<sup>th</sup> May 2024</p>
+                        <h4>Application Deadline, Fall 2024:</h4>
+                        <p>12<sup>th</sup> Sep 2024</p>
                     </div>
                 </div>
                 <div class="col-md-12">
                     <div class="item-box">
                         <h4>Orientation Programme:</h4>
-                        <p>04<sup>th</sup> May 2024</p>
+                        <p>14<sup>th</sup> Sep 2024</p>
                     </div>
                 </div>
                 <div class="col-md-12">
                     <div class="item-box">
                         <h4>Class Start:</h4>
                         <p><b>(Undergraduate)</b></p>
-                        <p>12<sup>th</sup> May 2024</p>
+                        <p>15<sup>th</sup> Sep 2024</p>
     
-                        <p class="pt-20"><b>(Postgraduate)</b></p>
-                        <p>11<sup>th</sup> May 2024</p>
+                     
                     </div>
                 </div>
             </div>

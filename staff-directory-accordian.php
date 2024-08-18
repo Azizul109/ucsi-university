@@ -381,6 +381,10 @@
                                         <div class="staff-col">Consultant</div>
                                     </li>
                                     <li class="clearfix">
+                                        <div class="staff-col">Mr Yasin Bari</div>
+                                        <div class="staff-col">Team Leader (Marketing)</div>
+                                    </li>
+                                    <li class="clearfix">
                                         <div class="staff-col">Ms Rukhsana Akter</div>
                                         <div class="staff-col">Executive Officer</div>
                                     </li>
@@ -493,10 +497,6 @@
                             <!-- widget-title -->
                             <div class="widget-content">
                                 <ul class="table-list staff">
-                                    <li class="clearfix">
-                                        <div class="staff-col">Professor Dr Atiur Rahman</div>
-                                        <div class="staff-col">Academic Advisor</div>
-                                    </li>
                                     <li class="clearfix">
                                         <div class="staff-col">Professor Dr Mohammad Musa</div>
                                         <div class="staff-col">Academic Advisor</div>
@@ -754,10 +754,6 @@
                                         <div class="staff-col">Adjunct Professor</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Ms Mashiat Noor Prapti</div>
-                                        <div class="staff-col">Lecturer</div>
-                                    </li>
-                                    <li class="clearfix">
                                         <div class="staff-col">Ms Maisha Karim</div>
                                         <div class="staff-col">Lecturer</div>
                                     </li>
@@ -905,6 +901,10 @@
                                     </li>
                                     <li class="clearfix">
                                         <div class="staff-col">Ms Nuzhat Ahmad</div>
+                                        <div class="staff-col">Lecturer</div>
+                                    </li>
+                                    <li class="clearfix">
+                                        <div class="staff-col">Ms Mashiat Noor Prapti</div>
                                         <div class="staff-col">Lecturer</div>
                                     </li>
                                 </ul>

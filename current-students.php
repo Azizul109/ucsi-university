@@ -48,7 +48,7 @@
                                 </article>
                             </div>
 
-                            <div class="col-md-6">
+                            <div class="col-md-6" style="margin-bottom: 20px;">
                                 <article class="entry-item clearfix">
                                     <i class="fa fa-envelope pull-left"></i>
                                     <div class="entry-content">
@@ -58,6 +58,15 @@
                                 </article>
                             </div>
 
+                            <div class="col-md-6">
+                                <article class="entry-item clearfix"> <i class="fa fa-user pull-left"></i>
+                                    <div class="entry-content">
+                                        <h5><a target="_blank" href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/student_handbook_smaller_bd_branch.pdf">Student Handbook</a></h5>
+                                        The UCSI University Student Handbook serves as a guide to academic policies, campus resources, and student responsibilities, ensuring students have the necessary information to succeed both academically and personally.<br> <br>
+                                        <a target="_blank" href="https://www.bangladesh.ucsiuniversity.edu.my/downloads" class="kopa-button blue-button small-button kopa-button-icon mb-5">MORE DOWNLOADS</a><br>
+                                    </div>
+                                </article>
+                            </div>
                         </div>
 
                         <div class="row">

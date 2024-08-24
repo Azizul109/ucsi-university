@@ -6,7 +6,7 @@
                 <h4 class="panel-title">
                     <a href="https://www.bangladesh.ucsiuniversity.edu.my/staff-directory/bangladesh/board-of-directors-and-top-management?display=ul" class="collapsed" aria-expanded="false">
                         <span class="btn-title"></span>
-                        <span class="tab-title">Members of Board of Directors and Management</span>
+                        <span class="tab-title">Members of Board of Directors</span>
                     </a>
                 </h4>
             </div>
@@ -273,7 +273,7 @@
                                         <div class="staff-col">Director</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Major Enamul Karim</div>
+                                        <div class="staff-col">Major Enamul Karim (Retd)</div>
                                         <div class="staff-col">Deputy Director, Public Relations</div>
                                     </li>
                                     <li class="clearfix">

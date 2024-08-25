@@ -39,10 +39,6 @@
                                         <div class="staff-col">Senior Vice President</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Ms Bantee Rahman</div>
-                                        <div class="staff-col">Executive Officer - Academic Coordinator</div>
-                                    </li>
-                                    <li class="clearfix">
                                         <div class="staff-col">Ms Ummay Habiba</div>
                                         <div class="staff-col">Executive Officer - Administrative and HR Coordinator</div>
                                     </li>
@@ -125,10 +121,6 @@
                                     <li class="clearfix">
                                         <div class="staff-col">Mr K M Niaz Mahmud</div>
                                         <div class="staff-col">Deputy Director - Administration</div>
-                                    </li>
-                                    <li class="clearfix">
-                                        <div class="staff-col">Mr Md. Safiul Alam</div>
-                                        <div class="staff-col">Assistant Director - Administration</div>
                                     </li>
                                     <li class="clearfix">
                                         <div class="staff-col">Mr Md. Shakil Mannan, PhD (UNIMAS, Malaysia)</div>
@@ -696,7 +688,7 @@
                                         <div class="staff-col">Distinguished Dean (Postgraduate Studies)</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Professor Dr Noor Azman Ali</div>
+                                        <div class="staff-col">Professor Dr Cham Tat Huei</div>
                                         <div class="staff-col">Affiliate Professor</div>
                                     </li>
                                     <li class="clearfix">
@@ -704,7 +696,7 @@
                                         <div class="staff-col">Affiliate Professor</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Professor Dr Cham Tat Huei</div>
+                                        <div class="staff-col">Professor Dr Noor Azman Ali</div>
                                         <div class="staff-col">Affiliate Professor</div>
                                     </li>
                                     <li class="clearfix">
@@ -862,6 +854,22 @@
                                         <div class="staff-col">Affiliate Lecturer</div>
                                     </li>
                                     <li class="clearfix">
+                                        <div class="staff-col">Dr Seyedeh Shiva Hashem</div>
+                                        <div class="staff-col">Affiliate Lecturer</div>
+                                    </li>
+                                    <li class="clearfix">
+                                        <div class="staff-col">Dr Aladin Mahmod Ibrahim</div>
+                                        <div class="staff-col">Affiliate Lecturer</div>
+                                    </li>
+                                    <li class="clearfix">
+                                        <div class="staff-col">Dr Nur-Iman Bin Hashim</div>
+                                        <div class="staff-col">Affiliate Lecturer</div>
+                                    </li>
+                                    <li class="clearfix">
+                                        <div class="staff-col">Assistant Professor Mohamad Fadzly Bin Che Omar</div>
+                                        <div class="staff-col">Affiliate Lecturer</div>
+                                    </li>
+                                    <li class="clearfix">
                                         <div class="staff-col">Mr Muhammad Sohel Ahmed</div>
                                         <div class="staff-col">Adjunct Lecturer</div>
                                     </li>
@@ -911,6 +919,18 @@
                                         <div class="staff-col">Ms Mashiat Noor Prapti</div>
                                         <div class="staff-col">Lecturer</div>
                                     </li>
+                                    <li class="clearfix">
+                                        <div class="staff-col">Dr Sri Azra Attan</div>
+                                        <div class="staff-col">Affiliate Lecturer</div>
+                                    </li>
+                                    <li class="clearfix">
+                                        <div class="staff-col">Dr Shanthiah A/P Rajagopal</div>
+                                        <div class="staff-col">Affiliate Lecturer</div>
+                                    </li>
+                                    <li class="clearfix">
+                                        <div class="staff-col">Arman Bin Imran Ashok</div>
+                                        <div class="staff-col">Affiliate Lecturer</div>
+                                    </li>
                                 </ul>
                             </div>
                         </div><!-- kopa-course-list-table -->
@@ -942,7 +962,15 @@
                             <div class="widget-content">
                                 <ul class="table-list staff">
                                     <li class="clearfix">
+                                        <div class="staff-col">Professor Dato' Ir Dr Mohd Saleh Bin Jaafar</div>
+                                        <div class="staff-col">Dean</div>
+                                    </li>
+                                    <li class="clearfix">
                                         <div class="staff-col">Professor Dr Nangkula Utaberta</div>
+                                        <div class="staff-col">Affiliate Dean</div>
+                                    </li>
+                                    <li class="clearfix">
+                                        <div class="staff-col">Assistant Professor Dr Siti Fatimah Binti Hashim</div>
                                         <div class="staff-col">Affiliate Dean</div>
                                     </li>
                                     <li class="clearfix">
@@ -952,10 +980,6 @@
                                     <li class="clearfix">
                                         <div class="staff-col">Associate Prof. Ts. Dr. Nazlina bt. Shaari</div>
                                         <div class="staff-col">Affiliate Associate Professor</div>
-                                    </li>
-                                    <li class="clearfix">
-                                        <div class="staff-col">Ms Urmi Sarkar</div>
-                                        <div class="staff-col">Lecturer</div>
                                     </li>
                                     <li class="clearfix">
                                         <div class="staff-col">Ts Dr Khairul Zahreen Bin Mohd Arof</div>

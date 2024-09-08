@@ -11,7 +11,7 @@
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">
                             <header>
                                 <h2 class="entry-title" style="padding-bottom:3px"><a
-                                        href="/professor-dr-golam-ahmed-faruqui">Professor Dr Golam Ahmed Faruqui</a>
+                                        href="/professor-dr-golam-ahmed-faruqui">Professor Golam Ahmed Faruqui, PhD</a>
                                 </h2>
                                 <div class="designation-box">Dean</div>
                             </header>
@@ -29,8 +29,8 @@
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">
                             <header>
                                 <h2 class="entry-title" style="padding-bottom:3px"><a
-                                        href="/professor-dr-mohammed-mizanur-rahman">Professor Dr. Mohammed Mizanur
-                                        Rahman </a></h2>
+                                        href="/professor-dr-mohammed-mizanur-rahman">Professor Mohammed Mizanur
+                                        Rahman, PhD </a></h2>
                                 <div class="designation-box">Professor</div>
                             </header>
                         </div>
@@ -47,8 +47,8 @@
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">
                             <header>
                                 <h2 class="entry-title" style="padding-bottom:3px"><a
-                                        href="/assistant-professor-dr-hasbollah-bin-mat-saad">Assistant Professor Dr
-                                        Hasbollah Bin Mat Saad</a></h2>
+                                        href="/assistant-professor-dr-hasbollah-bin-mat-saad">Assistant Professor
+                                        Hasbollah Bin Mat Saad, PhD</a></h2>
                                 <div class="designation-box">Affiliate Dean</div>
                             </header>
                         </div>
@@ -82,7 +82,7 @@
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">
                             <header>
                                 <h2 class="entry-title" style="padding-bottom:3px"><a
-                                        href="/professor-dr-md-abdul-momen">Professor Dr Md Abdul Momen</a></h2>
+                                        href="/professor-dr-md-abdul-momen">Professor Md Abdul Momen, PhD</a></h2>
                                 <div class="designation-box">Adjunct Professor</div>
                             </header>
                         </div>

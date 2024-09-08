@@ -22,7 +22,7 @@
             <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/mohd-faisal-bin-isa-res.png" alt="Person 2">
             <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin-top: 18px; line-height: 10px;">
                 <p><strong>Mr Mohd Faisal Bin Isa</strong></p>
-                <p>Deputy Registrar</p>
+                <p>Affiliate Deputy Registrar</p>
                 <p style="color: #bf0007; font-size: small;">faisal@ucsiuniversity.edu.my</p>
             </div>
         </div>

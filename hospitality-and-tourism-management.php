@@ -11,8 +11,8 @@
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">
                             <header>
                                 <h2 class="entry-title" style="padding-bottom:3px"><a
-                                        href="/associate-professor-dr-hanafi-bin-hamzah">Associate Professor Dr Hanafi
-                                        Bin Hamzah</a></h2>
+                                        href="/associate-professor-dr-hanafi-bin-hamzah">Associate Professor Hanafi
+                                        Bin Hamzah, PhD</a></h2>
                                 <div class="designation-box">Affiliate Dean</div>
                             </header>
                         </div>
@@ -79,8 +79,8 @@
                                 width="117" height="124"></div>
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">
                             <header>
-                                <h2 class="entry-title" style="padding-bottom:3px"><a href="/dr-seyedeh-shiva-hashem">Dr
-                                        Seyedeh Shiva Hashem</a></h2>
+                                <h2 class="entry-title" style="padding-bottom:3px"><a href="/dr-seyedeh-shiva-hashem">
+                                        Seyedeh Shiva Hashem, PhD</a></h2>
                                 <div class="designation-box">Affiliate Lecturer</div>
                             </header>
                         </div>
@@ -97,7 +97,7 @@
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">
                             <header>
                                 <h2 class="entry-title" style="padding-bottom:3px"><a
-                                        href="/dr-aladin-mahmod-ibrahim">Dr Aladin Mahmod Ibrahim</a></h2>
+                                        href="/dr-aladin-mahmod-ibrahim">Aladin Mahmod Ibrahim, PhD</a></h2>
                                 <div class="designation-box">Affiliate Lecturer</div>
                             </header>
                         </div>
@@ -113,8 +113,8 @@
                                 width="117" height="124"></div>
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">
                             <header>
-                                <h2 class="entry-title" style="padding-bottom:3px"><a href="/dr-nur-iman-bin-hashim">Dr
-                                        Nur-Iman Bin Hashim</a></h2>
+                                <h2 class="entry-title" style="padding-bottom:3px"><a href="/dr-nur-iman-bin-hashim">
+                                        Nur-Iman Bin Hashim, PhD</a></h2>
                                 <div class="designation-box">Affiliate Lecturer</div>
                             </header>
                         </div>

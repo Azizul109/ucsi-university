@@ -22,35 +22,27 @@
             </div>
         </div>
     </a> -->
-    <a href="https://www.bangladesh.ucsiuniversity.edu.my/professor-dr-atiur-rahman" class="advisory-card-link">
-        <div class="advisory-card">
-            <img class="advisory-card-image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/dr-atiur-advisor.jpg" alt="Card Image">
-            <div class="advisory-card-label">
-                <p>Professor Dr Atiur Rahman</p>
-            </div>
-        </div>
-    </a>
     <a href="https://www.bangladesh.ucsiuniversity.edu.my/professor-dr-mohammad-musa" class="advisory-card-link">
         <div class="advisory-card">
             <img class="advisory-card-image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/musa_mohammad-advisor-2.png" alt="Card Image">
             <div class="advisory-card-label">
-                <p>Professor Dr Mohammad Musa</p>
+                <p>Professor Mohammad Musa, PhD</p>
             </div>
         </div>
     </a>
-    <a href="https://www.bangladesh.ucsiuniversity.edu.my/professor-dr-ak-enamul-haque" class="advisory-card-link">
+    <!--<a href="https://www.bangladesh.ucsiuniversity.edu.my/professor-dr-ak-enamul-haque" class="advisory-card-link">
         <div class="advisory-card">
             <img class="advisory-card-image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/ak-enamul-advisor.jpg" alt="Card Image">
             <div class="advisory-card-label">
-                <p>Professor Dr AK Enamul Haque</p>
+                <p>Professor AK Enamul Haque, PhD</p>
             </div>
         </div>
-    </a>
+    </a>-->
     <a href="https://www.bangladesh.ucsiuniversity.edu.my/professor-dr-syed-akhter-hossain-0" class="advisory-card-link">
         <div class="advisory-card">
             <img class="advisory-card-image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/akhter-sir-res-advisor.jpg" alt="Card Image">
             <div class="advisory-card-label">
-                <p>Professor Dr Syed Akhter Hossain</p>
+                <p>Professor Syed Akhter Hossain, PhD</p>
             </div>
         </div>
     </a>
@@ -58,7 +50,7 @@
         <div class="advisory-card">
             <img class="advisory-card-image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/dr_tal4.png" alt="Card Image">
             <div class="advisory-card-label">
-                <p>Professor Dr Talal Yusaf</p>
+                <p>Professor Talal Yusaf, PhD</p>
             </div>
         </div>
     </a>
@@ -66,7 +58,7 @@
         <div class="advisory-card">
             <img class="advisory-card-image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/dr-aini-advisor.png" alt="Card Image">
             <div class="advisory-card-label">
-                <p>Datin Paduka Setia Dato’ Dr Aini Ideris</p>
+                <p>Datin Paduka Setia Dato’ Aini Ideris, PhD</p>
             </div>
         </div>
     </a>
@@ -78,11 +70,11 @@
             </div>
         </div>
     </a>
-    <a href="https://www.bangladesh.ucsiuniversity.edu.my/anm_meshquat_uddin" class="advisory-card-link">
+    <a href="https://www.bangladesh.ucsiuniversity.edu.my/professor-dr-anm-meshquat-uddin" class="advisory-card-link">
         <div class="advisory-card">
             <img class="advisory-card-image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/meshquat-uddin.jpeg" alt="Card Image">
             <div class="advisory-card-label">
-                <p>Professor Dr. ANM Meshquat Uddin</p>
+                <p>Professor ANM Meshquat Uddin, PhD</p>
             </div>
         </div>
     </a>
@@ -90,7 +82,7 @@
         <div class="advisory-card">
             <img class="advisory-card-image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/sm-shameem-reza.jpg" alt="Card Image">
             <div class="advisory-card-label">
-                <p>Professor Dr S M Shamim Reza</p>
+                <p>Professor S M Shameem Reza, PhD</p>
             </div>
         </div>
     </a>

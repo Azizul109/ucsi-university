@@ -8,7 +8,7 @@
                         <div class="col-md-3 col-sm-3 col-xs-12"> <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/styles/facultylistnew/public/img_0763.jpg?itok=Wum4FUOq" width="117" height="124" alt="Dr. Faruqui "></div>
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">
                             <header>
-                                <h2 class="entry-title" style="padding-bottom:3px"><a href="/professor-dr-golam-ahmed-faruqui-0">Professor Dr Golam Ahmed Faruqui</a></h2>
+                                <h2 class="entry-title" style="padding-bottom:3px"><a href="/professor-dr-golam-ahmed-faruqui-0">Professor Golam Ahmed Faruqui, PhD</a></h2>
                                 <div class="designation-box">Dean</div>
                             </header>
                         </div>
@@ -22,7 +22,7 @@
                         <div class="col-md-3 col-sm-3 col-xs-12"> <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/styles/facultylistnew/public/dr._rogayah.jpg?itok=bo76yUfe" width="117" height="124" alt="dr._rogayah"></div>
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">
                             <header>
-                                <h2 class="entry-title" style="padding-bottom:3px"><a href="/professor-dr-rogayah-bt-razak">Professor Dr Rogayah Bt A Razak</a></h2>
+                                <h2 class="entry-title" style="padding-bottom:3px"><a href="/professor-dr-rogayah-bt-razak">Professor Rogayah Bt A Razak, PhD</a></h2>
                                 <div class="designation-box">Affiliate Dean</div>
                             </header>
                         </div>
@@ -64,7 +64,7 @@
                         <div class="col-md-3 col-sm-3 col-xs-12"> <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/styles/facultylistnew/public/dr_sri_azra_attan.jpg?itok=PYzh6XAz" width="117" height="124"></div>
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">
                             <header>
-                                <h2 class="entry-title" style="padding-bottom:3px"><a href="/dr-sri-azra-attan">Dr Sri Azra Attan</a></h2>
+                                <h2 class="entry-title" style="padding-bottom:3px"><a href="/dr-sri-azra-attan">Sri Azra Attan, PhD</a></h2>
                                 <div class="designation-box">Affiliate Lecturer</div>
                             </header>
                         </div>
@@ -78,7 +78,7 @@
                         <div class="col-md-3 col-sm-3 col-xs-12"> <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/styles/facultylistnew/public/drshanthiah.png?itok=iIKoNA6q" width="117" height="124"></div>
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">
                             <header>
-                                <h2 class="entry-title" style="padding-bottom:3px"><a href="/dr-shanthiah-ap-rajagopal">Dr Shanthiah A/P Rajagopal</a></h2>
+                                <h2 class="entry-title" style="padding-bottom:3px"><a href="/dr-shanthiah-ap-rajagopal">Shanthiah A/P Rajagopal, PhD</a></h2>
                                 <div class="designation-box">Affiliate Lecturer</div>
                             </header>
                         </div>

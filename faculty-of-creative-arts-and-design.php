@@ -11,8 +11,8 @@
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">
                             <header>
                                 <h2 class="entry-title" style="padding-bottom:3px"><a
-                                        href="/professor-dato-ir-dr-mohd-saleh-bin-jaafar-1">Professor Dato' Ir Dr Mohd
-                                        Saleh Bin Jaafar</a></h2>
+                                        href="/professor-dato-ir-dr-mohd-saleh-bin-jaafar-1">Professor Dato' Ir Mohd
+                                        Saleh Bin Jaafar, PhD</a></h2>
                                 <div class="designation-box">Dean</div>
                             </header>
                         </div>
@@ -29,7 +29,7 @@
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">
                             <header>
                                 <h2 class="entry-title" style="padding-bottom:3px"><a
-                                        href="/professor-dr-nangkula-utaberta">Professor Dr Nangkula Utaberta</a></h2>
+                                        href="/professor-dr-nangkula-utaberta">Professor Nangkula Utaberta, PhD</a></h2>
                                 <div class="designation-box">Affiliate Dean</div>
                             </header>
                         </div>
@@ -46,8 +46,8 @@
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">
                             <header>
                                 <h2 class="entry-title" style="padding-bottom:3px"><a
-                                        href="/assistant-professor-dr-siti-fatimah-binti-hashim">Assistant Professor Dr
-                                        Siti Fatimah Binti Hashim</a></h2>
+                                        href="/assistant-professor-dr-siti-fatimah-binti-hashim">Assistant Professor
+                                        Siti Fatimah Binti Hashim, PhD</a></h2>
                                 <div class="designation-box">Affiliate Dean</div>
                             </header>
                         </div>
@@ -64,8 +64,8 @@
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">
                             <header>
                                 <h2 class="entry-title" style="padding-bottom:3px"><a
-                                        href="/professor-ts-dr-khairul-aidil-azlin-bin-abd-rahman">Professor Ts Dr
-                                        Khairul Aidil Azlin Bin Abd Rahman</a></h2>
+                                        href="/professor-ts-dr-khairul-aidil-azlin-bin-abd-rahman">Professor Ts
+                                        Khairul Aidil Azlin Bin Abd Rahman, PhD</a></h2>
                                 <div class="designation-box">Affiliate Professor</div>
                             </header>
                         </div>
@@ -82,8 +82,8 @@
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">
                             <header>
                                 <h2 class="entry-title" style="padding-bottom:3px"><a
-                                        href="/associate-prof-ts-dr-nazlina-bt-shaari">Associate Prof. Ts. Dr. Nazlina
-                                        bt. Shaari</a></h2>
+                                        href="/associate-prof-ts-dr-nazlina-bt-shaari">Associate Prof. Ts. Nazlina
+                                        bt. Shaari, PhD</a></h2>
                                 <div class="designation-box">Affiliate Associate Professor</div>
                             </header>
                         </div>
@@ -100,8 +100,8 @@
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">
                             <header>
                                 <h2 class="entry-title" style="padding-bottom:3px"><a
-                                        href="/ts-dr-khairul-zahreen-bin-mohd-arof">Ts Dr Khairul Zahreen Bin Mohd
-                                        Arof</a></h2>
+                                        href="/ts-dr-khairul-zahreen-bin-mohd-arof">Ts Khairul Zahreen Bin Mohd
+                                        Arof, PhD</a></h2>
                                 <div class="designation-box">Affiliate Lecturer</div>
                             </header>
                         </div>
@@ -117,8 +117,8 @@
                                 width="117" height="124" alt="noor-azizi-asp-wbg-res"></div>
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">
                             <header>
-                                <h2 class="entry-title" style="padding-bottom:3px"><a href="/dr-noor-azizi-mohd-ali">Dr.
-                                        Noor Azizi Mohd. Ali</a></h2>
+                                <h2 class="entry-title" style="padding-bottom:3px"><a href="/dr-noor-azizi-mohd-ali">
+                                        Noor Azizi Mohd. Ali, PhD</a></h2>
                                 <div class="designation-box">Affiliate Lecturer</div>
                             </header>
                         </div>

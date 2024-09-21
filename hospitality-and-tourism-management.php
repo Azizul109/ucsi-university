@@ -58,19 +58,20 @@
                 <li>
                     <article class="entry-item row clearfix">
                         <div class="col-md-3 col-sm-3 col-xs-12"> <img typeof="foaf:Image"
-                                src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/styles/facultylistnew/public/riza-samsuddin.png?itok=zYLynXME"
-                                width="117" height="124" alt="riza-samsuddin"></div>
+                                src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/styles/facultylistnew/public/mohamad_fadzly.png?itok=0EtkQj3B"
+                                width="117" height="124"></div>
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">
                             <header>
                                 <h2 class="entry-title" style="padding-bottom:3px"><a
-                                        href="/ms-riza-munira-shamsudin">Ms Riza Munira Shamsudin</a></h2>
+                                        href="/assistant-professor-mohamad-fadzly-bin-che-omar">Assistant Professor
+                                        Mohamad Fadzly Bin Che Omar</a></h2>
                                 <div class="designation-box">Affiliate Lecturer</div>
                             </header>
                         </div>
                     </article>
                 </li>
                 <hr>
-            </span>
+            </span> 
             <span class="field-content">
                 <li>
                     <article class="entry-item row clearfix">
@@ -80,7 +81,7 @@
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">
                             <header>
                                 <h2 class="entry-title" style="padding-bottom:3px"><a href="/dr-seyedeh-shiva-hashem">
-                                        Seyedeh Shiva Hashem, PhD</a></h2>
+                                        Ms Seyedeh Shiva Hashem, PhD</a></h2>
                                 <div class="designation-box">Affiliate Lecturer</div>
                             </header>
                         </div>
@@ -97,7 +98,7 @@
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">
                             <header>
                                 <h2 class="entry-title" style="padding-bottom:3px"><a
-                                        href="/dr-aladin-mahmod-ibrahim">Aladin Mahmod Ibrahim, PhD</a></h2>
+                                        href="/dr-aladin-mahmod-ibrahim">Mr Aladin Mahmod Ibrahim, PhD</a></h2>
                                 <div class="designation-box">Affiliate Lecturer</div>
                             </header>
                         </div>
@@ -114,32 +115,31 @@
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">
                             <header>
                                 <h2 class="entry-title" style="padding-bottom:3px"><a href="/dr-nur-iman-bin-hashim">
-                                        Nur-Iman Bin Hashim, PhD</a></h2>
+                                        Mr Nur-Iman Bin Hashim, PhD</a></h2>
                                 <div class="designation-box">Affiliate Lecturer</div>
                             </header>
                         </div>
                     </article>
                 </li>
                 <hr>
-            </span> 
+            </span>
             <span class="field-content">
                 <li>
                     <article class="entry-item row clearfix">
                         <div class="col-md-3 col-sm-3 col-xs-12"> <img typeof="foaf:Image"
-                                src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/styles/facultylistnew/public/mohamad_fadzly.png?itok=0EtkQj3B"
-                                width="117" height="124"></div>
+                                src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/styles/facultylistnew/public/riza-samsuddin.png?itok=zYLynXME"
+                                width="117" height="124" alt="riza-samsuddin"></div>
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">
                             <header>
                                 <h2 class="entry-title" style="padding-bottom:3px"><a
-                                        href="/assistant-professor-mohamad-fadzly-bin-che-omar">Assistant Professor
-                                        Mohamad Fadzly Bin Che Omar</a></h2>
+                                        href="/ms-riza-munira-shamsudin">Ms Riza Munira Shamsudin</a></h2>
                                 <div class="designation-box">Affiliate Lecturer</div>
                             </header>
                         </div>
                     </article>
                 </li>
                 <hr>
-            </span> 
+            </span>
             <span class="field-content">
                 <li>
                     <article class="entry-item row clearfix">

@@ -64,7 +64,7 @@
                         <div class="col-md-3 col-sm-3 col-xs-12"> <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/styles/facultylistnew/public/dr_sri_azra_attan.jpg?itok=PYzh6XAz" width="117" height="124"></div>
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">
                             <header>
-                                <h2 class="entry-title" style="padding-bottom:3px"><a href="/dr-sri-azra-attan">Sri Azra Attan, PhD</a></h2>
+                                <h2 class="entry-title" style="padding-bottom:3px"><a href="/dr-sri-azra-attan">Ms Sri Azra Attan, PhD</a></h2>
                                 <div class="designation-box">Affiliate Lecturer</div>
                             </header>
                         </div>
@@ -78,7 +78,7 @@
                         <div class="col-md-3 col-sm-3 col-xs-12"> <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/styles/facultylistnew/public/drshanthiah.png?itok=iIKoNA6q" width="117" height="124"></div>
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">
                             <header>
-                                <h2 class="entry-title" style="padding-bottom:3px"><a href="/dr-shanthiah-ap-rajagopal">Shanthiah A/P Rajagopal, PhD</a></h2>
+                                <h2 class="entry-title" style="padding-bottom:3px"><a href="/dr-shanthiah-ap-rajagopal">Ms Shanthiah A/P Rajagopal, PhD</a></h2>
                                 <div class="designation-box">Affiliate Lecturer</div>
                             </header>
                         </div>
@@ -92,7 +92,7 @@
                         <div class="col-md-3 col-sm-3 col-xs-12"> <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/styles/facultylistnew/public/arman-bin-imran-ashok.jpg?itok=nW1UYXJH" width="117" height="124"></div>
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">
                             <header>
-                                <h2 class="entry-title" style="padding-bottom:3px"><a href="/arman-bin-imran-ashok">Arman Bin Imran Ashok</a></h2>
+                                <h2 class="entry-title" style="padding-bottom:3px"><a href="/arman-bin-imran-ashok">Mr Arman Bin Imran Ashok</a></h2>
                                 <div class="designation-box">Affiliate Lecturer</div>
                             </header>
                         </div>

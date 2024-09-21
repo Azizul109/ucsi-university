@@ -100,7 +100,7 @@
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">
                             <header>
                                 <h2 class="entry-title" style="padding-bottom:3px"><a
-                                        href="/ts-dr-khairul-zahreen-bin-mohd-arof">Ts Khairul Zahreen Bin Mohd
+                                        href="/ts-dr-khairul-zahreen-bin-mohd-arof">Mr Ts Khairul Zahreen Bin Mohd
                                         Arof, PhD</a></h2>
                                 <div class="designation-box">Affiliate Lecturer</div>
                             </header>
@@ -118,7 +118,7 @@
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">
                             <header>
                                 <h2 class="entry-title" style="padding-bottom:3px"><a href="/dr-noor-azizi-mohd-ali">
-                                        Noor Azizi Mohd. Ali, PhD</a></h2>
+                                        Mr Noor Azizi Mohd. Ali, PhD</a></h2>
                                 <div class="designation-box">Affiliate Lecturer</div>
                             </header>
                         </div>

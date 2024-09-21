@@ -10,21 +10,39 @@
 <div class="main-container">
     <div class="top-level">
         <div class="grid-item">
-            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/new-registrar.png" alt="Person 1">
-            <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin-top: 18px; line-height: 10px;">
+            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/new-registrar.png"
+                alt="Person 1">
+            <div
+                style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin-top: 18px; line-height: 10px;">
                 <p><strong>Professor Shah Samiur Rashid, PhD</strong></p>
                 <p>Registrar</p>
                 <p style="color: #bf0007; font-size: small;">shahsamiur@ucsiuniversity.edu.my</p>
             </div>
         </div>
 
-        <div class="grid-item">
-            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/mohd-faisal-bin-isa-res.png" alt="Person 2">
-            <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin-top: 18px; line-height: 10px;">
-                <p><strong>Mr Mohd Faisal Bin Isa</strong></p>
-                <p>Affiliate Deputy Registrar</p>
-                <p style="color: #bf0007; font-size: small;">faisal@ucsiuniversity.edu.my</p>
+        <div class="second-row">
+
+            <div class="grid-item">
+                <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/coe.jpg" alt="Person 2">
+                <div
+                    style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin-top: 18px; line-height: 10px;">
+                    <p><strong>Sqn Ldr K M Niaz Mahmud (Retd)</strong></p>
+                    <p>Controller of Examinations</p>
+                    <p style="color: #bf0007; font-size: small;">KMMahmud@ucsiuniversity.edu.my</p>
+                </div>
             </div>
+
+            <div class="grid-item">
+                <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/mohd-faisal-bin-isa-res.png"
+                    alt="Person 2">
+                <div
+                    style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin-top: 18px; line-height: 10px;">
+                    <p><strong>Mr Mohd Faisal Bin Isa</strong></p>
+                    <p>Affiliate Deputy Registrar</p>
+                    <p style="color: #bf0007; font-size: small;">faisal@ucsiuniversity.edu.my</p>
+                </div>
+            </div>
+            
         </div>
     </div>
     <div class="mid-level">
@@ -32,8 +50,10 @@
     </div>
     <div class="grid-container">
         <div class="grid-item">
-            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/syed_shariful_haque.png" alt="Person 5">
-            <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin-top: 18px; line-height: 10px;">
+            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/syed_shariful_haque.png"
+                alt="Person 5">
+            <div
+                style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin-top: 18px; line-height: 10px;">
                 <p><strong>Mr Syed Shariful Haque</strong></p>
                 <p>IT Administrator</p>
                 <p>(Head of IT)</p>
@@ -43,7 +63,8 @@
 
         <div class="grid-item">
             <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/mr_nikhil_w.jpg" alt="Person 5">
-            <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin-top: 18px; line-height: 10px;">
+            <div
+                style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin-top: 18px; line-height: 10px;">
                 <p><strong>Mr Nikhil Chandra Sarker, PhD</strong></p>
                 <p>Librarian</p>
                 <p style="color: #bf0007; font-size: small;">Nikhil@ucsiuniversity.edu.my</p>
@@ -51,8 +72,10 @@
         </div>
 
         <div class="grid-item">
-            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/abdul-aziz-res.jpg" alt="Person 5">
-            <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin-top: 18px; line-height: 10px;">
+            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/abdul-aziz-res.jpg"
+                alt="Person 5">
+            <div
+                style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin-top: 18px; line-height: 10px;">
                 <p><strong>Mr Md Abdul Aziz</strong></p>
                 <p>Executive Officer</p>
                 <p>(Computer Services)</p>
@@ -61,28 +84,10 @@
         </div>
 
         <div class="grid-item">
-            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/hasibur-rahman-res-asp-background-register.png" alt="Person 3">
-            <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin-top: 18px; line-height: 10px;">
-                <p><strong>Mr Hashibur Rahman</strong></p>
-                <p>Executive Officer</p>
-                <p>(Library Services)</p>
-                <p style="color: #bf0007; font-size: small;">hashibur@ucsiuniversity.edu.my</p>
-            </div>
-        </div>
-
-        <div class="grid-item">
-            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/maksudur-rabbi-ratio-register-2.png" alt="Person 3">
-            <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin-top: 18px; line-height: 10px;">
-                <p><strong>Mr Maksudur Rabby</strong></p>
-                <p>Executive Officer</p>
-                <p>(Student Central Coordinator)</p>
-                <p style="color: #bf0007; font-size: small;">maksudur.rabby@ucsiuniversity.edu.my</p>
-            </div>
-        </div>
-
-        <div class="grid-item">
-            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/mahejabin-alam-ratio-res-register2.jpg" alt="Person 3">
-            <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin-top: 18px; line-height: 10px;">
+            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/mahejabin-alam-ratio-res-register2.jpg"
+                alt="Person 3">
+            <div
+                style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin-top: 18px; line-height: 10px;">
                 <p><strong>Ms Mehejabin Alam</strong></p>
                 <p>Executive Officer</p>
                 <p>(AMO Coordinator)</p>
@@ -91,8 +96,10 @@
         </div>
 
         <div class="grid-item">
-            <img style="height:156px;" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/ms-wamia.jpg" alt="Person 3">
-            <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin-top: 18px; line-height: 10px;">
+            <img style="height:156px;"
+                src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/ms-wamia.jpg" alt="Person 3">
+            <div
+                style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin-top: 18px; line-height: 10px;">
                 <p><strong>Wamia Ahanaf Haider</strong></p>
                 <p>Junior Executive Officer</p>
                 <p>(Student Affairs and Alumni)</p>
@@ -102,7 +109,8 @@
 
         <div class="grid-item">
             <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/ms-mili.png" alt="Person 3">
-            <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin-top: 18px; line-height: 10px;">
+            <div
+                style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin-top: 18px; line-height: 10px;">
                 <p><strong>Marina Tanzin Mili</strong></p>
                 <p>Junior Executive Officer</p>
                 <p style="color: #bf0007; font-size: small;">MarinaTanzin@ucsiuniversity.edu.my</p>
@@ -117,11 +125,16 @@
         margin-left: 80px;
     }
 
-
-
     .top-level {
         display: flex;
         flex-direction: column;
+        gap: 20px;
+        align-items: center;
+    }
+
+    .second-row {
+        display: flex;
+        justify-content: center;
         gap: 20px;
     }
 

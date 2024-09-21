@@ -119,8 +119,16 @@
                                         <div class="staff-col">Director</div>
                                     </li>
                                     <li class="clearfix">
+                                        <div class="staff-col">Major Enamul Karim (Retd)</div>
+                                        <div class="staff-col">Deputy Director, Human Resources</div>
+                                    </li>
+                                    <li class="clearfix">
                                         <div class="staff-col">Mr K M Niaz Mahmud</div>
                                         <div class="staff-col">Deputy Director - Administration</div>
+                                    </li>
+                                    <li class="clearfix">
+                                        <div class="staff-col">Mr Md Amjad Hossain</div>
+                                        <div class="staff-col">Assistant Director - Legal Affairs</div>
                                     </li>
                                     <li class="clearfix">
                                         <div class="staff-col">Mr Md. Shakil Mannan, PhD (UNIMAS, Malaysia)</div>
@@ -219,7 +227,7 @@
                                         <div class="staff-col">Security</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Fatema Tuj Johora</div>
+                                        <div class="staff-col">Ms Fatema Tuj Johora</div>
                                         <div class="staff-col">Security</div>
                                     </li>
                                     <li class="clearfix">
@@ -267,10 +275,6 @@
                                     <li class="clearfix">
                                         <div class="staff-col">Mr Ahmed Suman Subhan</div>
                                         <div class="staff-col">Director</div>
-                                    </li>
-                                    <li class="clearfix">
-                                        <div class="staff-col">Major Enamul Karim (Retd)</div>
-                                        <div class="staff-col">Deputy Director, Public Relations</div>
                                     </li>
                                     <li class="clearfix">
                                         <div class="staff-col">Mr Md Rafid Sobhan</div>
@@ -339,7 +343,7 @@
                                         <div class="staff-col">Executive Officer</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Md. Nurul Islam</div>
+                                        <div class="staff-col">Mr Md. Nurul Islam</div>
                                         <div class="staff-col">Junior Executive Officer</div>
                                     </li>
                                 </ul>
@@ -389,11 +393,11 @@
                                         <div class="staff-col">Executive Officer</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Ms. Maisha Ali</div>
+                                        <div class="staff-col">Ms Maisha Ali</div>
                                         <div class="staff-col">Executive Officer</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Ms. Dipa Dutta</div>
+                                        <div class="staff-col">Ms Dipa Dutta</div>
                                         <div class="staff-col">Executive Officer</div>
                                     </li>
                                     <li class="clearfix">
@@ -449,14 +453,6 @@
                                         <div class="staff-col">Librarian</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Mr Hashibur Rahman</div>
-                                        <div class="staff-col">Executive Officer (Library Services)</div>
-                                    </li>
-                                    <li class="clearfix">
-                                        <div class="staff-col">Mr Maksudur Rabby</div>
-                                        <div class="staff-col">Executive Officer (Student Central Coordinator)</div>
-                                    </li>
-                                    <li class="clearfix">
                                         <div class="staff-col">Mr Md Abdul Aziz</div>
                                         <div class="staff-col">Executive Officer (Computer Services)</div>
                                     </li>
@@ -465,11 +461,11 @@
                                         <div class="staff-col">Executive Officer (AMO Coordinator)</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Wamia Ahanaf Haider</div>
+                                        <div class="staff-col">Ms Wamia Ahanaf Haider</div>
                                         <div class="staff-col">Junior Executive Officer (Student Affairs and Alumni)</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Marina Tanzin Mili</div>
+                                        <div class="staff-col">Ms Marina Tanzin Mili</div>
                                         <div class="staff-col">Junior Executive Officer</div>
                                     </li>
                                 </ul>
@@ -505,6 +501,10 @@
                             <!-- widget-title -->
                             <div class="widget-content">
                                 <ul class="table-list staff">
+                                    <li class="clearfix">
+                                        <div class="staff-col">Professor Dato’ Ir Mohd Saleh Bin Jaafar, PhD</div>
+                                        <div class="staff-col">Academic Advisor</div>
+                                    </li>
                                     <li class="clearfix">
                                         <div class="staff-col">Professor Mohammad Musa, PhD</div>
                                         <div class="staff-col">Academic Advisor</div>
@@ -580,6 +580,7 @@
             </div>
         </div>
 
+        <!-- Omitted due to no pro-vc
         <div class="panel panel-default">
             <div class="panel-heading">
                 <h4 class="panel-title">
@@ -591,15 +592,12 @@
             </div>
             <div id="collapse319" class="panel-collapse collapse" aria-expanded="false" style="height: 0px;">
                 <div class="panel-body">
-                    <!-- staff table -->
                     <div class="widget kopa-course-list-3-widget">
                         <div class="kopa-course-list-table">
                             <div class="table-header clearfix">
                                 <div class="staff-col">Staff</div>
                                 <div class="staff-col">Designation</div>
                             </div>
-                            <!-- table-header -->
-                            <!-- widget-title -->
                             <div class="widget-content">
                                 <ul class="table-list staff">
                                     <li class="clearfix">
@@ -608,11 +606,11 @@
                                     </li>
                                 </ul>
                             </div>
-                        </div><!-- kopa-course-list-table -->
-                    </div><!-- kopa-course-list-3-widget -->
+                        </div>
+                    </div>
                 </div>
             </div>
-        </div>
+        </div>-->
 
 
         <div class="panel panel-default">
@@ -680,7 +678,7 @@
                             <div class="widget-content">
                                 <ul class="table-list staff">
                                     <li class="clearfix">
-                                        <div class="staff-col">Ms. Saifun Naher Samoly</div>
+                                        <div class="staff-col">Ms Saifun Naher Samoly</div>
                                         <div class="staff-col">Academic Coordinator</div>
                                     </li>
                                     <li class="clearfix">
@@ -688,15 +686,11 @@
                                         <div class="staff-col">Executive Officer</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Mr Maksudur Rabby</div>
-                                        <div class="staff-col">Executive Officer</div>
-                                    </li>
-                                    <li class="clearfix">
-                                        <div class="staff-col">Wamia Ahanaf Haider</div>
+                                        <div class="staff-col">Ms Wamia Ahanaf Haider</div>
                                         <div class="staff-col">Junior Executive Officer</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Marina Tanzin Mili</div>
+                                        <div class="staff-col">Ms Marina Tanzin Mili</div>
                                         <div class="staff-col">Junior Executive Officer</div>
                                     </li>
                                 </ul>
@@ -734,12 +728,12 @@
                                         <div class="staff-col">Dean</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Distinguished Professor Ts Ooi Keng Boon, FASc, PhD</div>
-                                        <div class="staff-col">Distinguished Dean (Postgraduate Studies)</div>
+                                        <div class="staff-col">Professor Cham Tat Huei, PhD</div>
+                                        <div class="staff-col">Affiliate Dean</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Professor Cham Tat Huei, PhD</div>
-                                        <div class="staff-col">Affiliate Professor</div>
+                                        <div class="staff-col">Distinguished Professor Ts Ooi Keng Boon, FASc, PhD</div>
+                                        <div class="staff-col">Distinguished Dean (Postgraduate Studies)</div>
                                     </li>
                                     <li class="clearfix">
                                         <div class="staff-col">Senior Professor Garry Tan Wei Han, PhD</div>
@@ -750,7 +744,7 @@
                                         <div class="staff-col">Affiliate Professor</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Mosharrof Hosen, PhD</div>
+                                        <div class="staff-col">Mr Mosharrof Hosen, PhD</div>
                                         <div class="staff-col">Affiliate Lecturer</div>
                                     </li>
                                 </ul>
@@ -850,12 +844,8 @@
                                         <div class="staff-col">Affiliate Dean</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Jamalul-lail Ab. Manan, PhD</div>
+                                        <div class="staff-col">Mr Jamalul-lail Ab. Manan, PhD</div>
                                         <div class="staff-col">Affiliate Fellow</div>
-                                    </li>
-                                    <li class="clearfix">
-                                        <div class="staff-col">Associate Professor EUR ING Ir Ts Ang Chun Kit, PhD</div>
-                                        <div class="staff-col">Affiliate Associate Professor</div>
                                     </li>
                                 </ul>
                             </div>
@@ -900,23 +890,23 @@
                                         <div class="staff-col">Lecturer</div>
                                     </li>
                                     <li class="clearfix">
+                                        <div class="staff-col">Assistant Professor Mohamad Fadzly Bin Che Omar</div>
+                                        <div class="staff-col">Affiliate Lecturer</div>
+                                    </li>
+                                    <li class="clearfix">
                                         <div class="staff-col">Ms Riza Munira Shamsudin</div>
                                         <div class="staff-col">Affiliate Lecturer</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Seyedeh Shiva Hashem, PhD</div>
+                                        <div class="staff-col">Ms Seyedeh Shiva Hashem, PhD</div>
                                         <div class="staff-col">Affiliate Lecturer</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Aladin Mahmod Ibrahim, PhD</div>
+                                        <div class="staff-col">Mr Aladin Mahmod Ibrahim, PhD</div>
                                         <div class="staff-col">Affiliate Lecturer</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Nur-Iman Bin Hashim, PhD</div>
-                                        <div class="staff-col">Affiliate Lecturer</div>
-                                    </li>
-                                    <li class="clearfix">
-                                        <div class="staff-col">Assistant Professor Mohamad Fadzly Bin Che Omar</div>
+                                        <div class="staff-col">Mr Nur-Iman Bin Hashim, PhD</div>
                                         <div class="staff-col">Affiliate Lecturer</div>
                                     </li>
                                     <li class="clearfix">
@@ -970,15 +960,15 @@
                                         <div class="staff-col">Lecturer</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Sri Azra Attan, PhD</div>
+                                        <div class="staff-col">Ms Sri Azra Attan, PhD</div>
                                         <div class="staff-col">Affiliate Lecturer</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Shanthiah A/P Rajagopal, PhD</div>
+                                        <div class="staff-col">Ms Shanthiah A/P Rajagopal, PhD</div>
                                         <div class="staff-col">Affiliate Lecturer</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Arman Bin Imran Ashok</div>
+                                        <div class="staff-col">Mr Arman Bin Imran Ashok</div>
                                         <div class="staff-col">Affiliate Lecturer</div>
                                     </li>
                                 </ul>
@@ -1032,11 +1022,11 @@
                                         <div class="staff-col">Affiliate Associate Professor</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Ts Khairul Zahreen Bin Mohd Arof, PhD</div>
+                                        <div class="staff-col">Mr Ts Khairul Zahreen Bin Mohd Arof, PhD</div>
                                         <div class="staff-col">Affiliate Lecturer</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Noor Azizi Mohd. Ali, PhD</div>
+                                        <div class="staff-col">Mr Noor Azizi Mohd. Ali, PhD</div>
                                         <div class="staff-col">Affiliate Lecturer</div>
                                     </li>
                                     <li class="clearfix">
@@ -1090,7 +1080,7 @@
                                         <div class="staff-col">Affiliate Associate Professor</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Ts Abu Bakar Ngah</div>
+                                        <div class="staff-col">Mr Ts Abu Bakar Ngah</div>
                                         <div class="staff-col">Affiliate Fellow</div>
                                     </li>
                                     <li class="clearfix">

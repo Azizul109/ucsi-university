@@ -15,20 +15,6 @@
                     </article>
                 </li>
                 <hr>
-            </span> 
-            <span class="field-content">
-                <li>
-                    <article class="entry-item row clearfix">
-                        <div class="col-md-3 col-sm-3 col-xs-12"> <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/styles/facultylistnew/public/43d66b57-2683-4112-8abf-4c913eb65430_1_-removebg-preview1.png?itok=HLQDpluX" width="117" height="124" alt="43d66b57-2683-4112-8abf-4c913eb65430_1_-removebg-preview1"></div>
-                        <div class="entry-content col-md-9 col-sm-9 col-xs-12">
-                            <header>
-                                <h2 class="entry-title" style="padding-bottom:3px"><a href="/distinguished-professor-ts-dr-ooi-keng-boon-fasc">Distinguished Professor Ts Ooi Keng Boon, FASc, PhD</a></h2>
-                                <div class="designation-box">Distinguished Dean (Postgraduate Studies)</div>
-                            </header>
-                        </div>
-                    </article>
-                </li>
-                <hr>
             </span>
             <span class="field-content">
                 <li>
@@ -44,6 +30,20 @@
                 </li>
                 <hr>
             </span> 
+            <span class="field-content">
+                <li>
+                    <article class="entry-item row clearfix">
+                        <div class="col-md-3 col-sm-3 col-xs-12"> <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/styles/facultylistnew/public/43d66b57-2683-4112-8abf-4c913eb65430_1_-removebg-preview1.png?itok=HLQDpluX" width="117" height="124" alt="43d66b57-2683-4112-8abf-4c913eb65430_1_-removebg-preview1"></div>
+                        <div class="entry-content col-md-9 col-sm-9 col-xs-12">
+                            <header>
+                                <h2 class="entry-title" style="padding-bottom:3px"><a href="/distinguished-professor-ts-dr-ooi-keng-boon-fasc">Distinguished Professor Ts Ooi Keng Boon, FASc, PhD</a></h2>
+                                <div class="designation-box">Distinguished Dean (Postgraduate Studies)</div>
+                            </header>
+                        </div>
+                    </article>
+                </li>
+                <hr>
+            </span>
             <span class="field-content">
                 <li>
                     <article class="entry-item row clearfix">
@@ -84,7 +84,7 @@
                         <div class="col-md-3 col-sm-3 col-xs-12"> <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/styles/facultylistnew/public/fbmkl-40995-dr_mosharrof_hosen.png?itok=GIi0CELW" width="117" height="124" alt="Dr Mosharrof Hosen"></div>
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">
                             <header>
-                                <h2 class="entry-title" style="padding-bottom:3px"><a href="/dr-mosharrof-hosen">Mosharrof Hosen, PhD</a></h2>
+                                <h2 class="entry-title" style="padding-bottom:3px"><a href="/dr-mosharrof-hosen">Mr Mosharrof Hosen, PhD</a></h2>
                                 <div class="designation-box">Affiliate Lecturer</div>
                             </header>
                         </div>

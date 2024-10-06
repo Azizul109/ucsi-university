@@ -43,17 +43,11 @@
                             <div class="col-md-6">
                                 <article class="entry-item clearfix"> <i class="fa fa-user pull-left"></i>
                                     <div class="entry-content">
-                                        <h5>IIS Student/Guardian</h5> IIS (Integrated Information System) is a web-based portal allowing Student access to internal systems and workflows.<br> <br> <a target="_blank" href="https://iisv2.ucsiuniversity.edu.my/apex/iisv2/r/iis2-student-portal-login" class="kopa-button blue-button small-button kopa-button-icon mb-5">IISv2 STUDENT PORTAL</a><br><a target="_blank" href="https://iisv2bd.ucsiuniversity.edu.my/bgd/iisv2bgd/r/iis2-student-portal-login/login?session=332799292372" class="kopa-button red-button small-button kopa-button-icon mb-5">IISV2 STUDENT BANGLADESH</a><br><a target="_blank" href="https://iisv2.ucsiuniversity.edu.my/apex/iisv2/r/parent/" class="kopa-button blue-button small-button kopa-button-icon mb-5">IISv2 PARENT PORTAL </a><br><a target="_blank" href="https://iisv2bd.ucsiuniversity.edu.my/bgd/iisv2bgd/r/parent" class="kopa-button red-button small-button kopa-button-icon mb-5">IISV2 PARENT BANGLADESH </a>
-                                    </div>
-                                </article>
-                            </div>
-
-                            <div class="col-md-6" style="margin-bottom: 20px;">
-                                <article class="entry-item clearfix">
-                                    <i class="fa fa-envelope pull-left"></i>
-                                    <div class="entry-content">
-                                        <h5><a target="_blank" href="https://login.microsoftonline.com">UCSI University Student Email System</a></h5>
-                                        Connect to your email from anywhere in the world with the UCSI University Student Email System powered by Microsoft.
+                                        <h5>IIS Student/Guardian</h5> IIS (Integrated Information System) is a web-based portal allowing Student access to internal systems and workflows.<br> <br> 
+                                        <!--<a target="_blank" href="https://iisv2.ucsiuniversity.edu.my/apex/iisv2/r/iis2-student-portal-login" class="kopa-button blue-button small-button kopa-button-icon mb-5">IISv2 STUDENT PORTAL</a><br>-->
+                                        <a target="_blank" href="https://iisv2bd.ucsiuniversity.edu.my/bgd/iisv2bgd/r/iis2-student-portal-login/login?session=332799292372" class="kopa-button red-button small-button kopa-button-icon mb-5">IISV2 STUDENT BANGLADESH</a><br>
+                                        <!--<a target="_blank" href="https://iisv2.ucsiuniversity.edu.my/apex/iisv2/r/parent/" class="kopa-button blue-button small-button kopa-button-icon mb-5">IISv2 PARENT PORTAL </a><br>-->
+                                        <a target="_blank" href="https://iisv2bd.ucsiuniversity.edu.my/bgd/iisv2bgd/r/parent" class="kopa-button blue-button small-button kopa-button-icon mb-5">IISV2 PARENT BANGLADESH </a>
                                     </div>
                                 </article>
                             </div>
@@ -91,12 +85,22 @@
                                 </article>
                             </div>
 
-                            <div class="col-md-6">
+                            <!--<div class="col-md-6">
                                 <article class="entry-item clearfix">
                                     <i class="fa fa-server pull-left"></i>
                                     <div class="entry-content">
                                         <h5><a target="_blank" href="http://lms2.ucsiuniversity.edu.my">UCSI LMS CN</a></h5>
                                         A social learning platform that allows students to access academic-related information in an engaging environment (effective Jan 2018)
+                                    </div>
+                                </article>
+                            </div>-->
+
+                            <div class="col-md-6" style="margin-bottom: 20px;">
+                                <article class="entry-item clearfix">
+                                    <i class="fa fa-envelope pull-left"></i>
+                                    <div class="entry-content">
+                                        <h5><a target="_blank" href="https://login.microsoftonline.com">UCSI University Student Email System</a></h5>
+                                        Connect to your email from anywhere in the world with the UCSI University Student Email System powered by Microsoft. <br> <br>
                                     </div>
                                 </article>
                             </div>
@@ -197,7 +201,7 @@
                                     <i class="fa fa-desktop pull-left"></i>
                                     <div class="entry-content">
                                         <h5><a target="_blank" href="http://m.me/ucsisaa">Student Helpdesk</a></h5>
-                                        Online helpdesk by Student Affairs & Alumni to help students enquiry. Available from 10am to 6pm Saturday – Thursday.
+                                        Online helpdesk by Student Affairs & Alumni to help students enquiry. Available from 10am to 6pm Saturday – Thursday. <br> <br>
                                     </div>
                                 </article>
                             </div>

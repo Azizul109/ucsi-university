@@ -20,7 +20,7 @@
                 </li>
                 <hr>
             </span> 
-            <span class="field-content">
+            <!--<span class="field-content">
                 <li>
                     <article class="entry-item row clearfix">
                         <div class="col-md-3 col-sm-3 col-xs-12"> <img typeof="foaf:Image"
@@ -36,7 +36,7 @@
                     </article>
                 </li>
                 <hr>
-            </span> 
+            </span> -->
             <span class="field-content">
                 <li>
                     <article class="entry-item row clearfix">
@@ -47,7 +47,7 @@
                             <header>
                                 <h2 class="entry-title" style="padding-bottom:3px"><a href="/mr-md-ejharul-haque">Mr MD
                                         Ejharul Haque</a></h2>
-                                <div class="designation-box">Lecturer</div>
+                                <div class="designation-box">Lecturer & Coordinator</div>
                             </header>
                         </div>
                     </article>

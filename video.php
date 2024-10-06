@@ -10,20 +10,20 @@
 
         <div class="video-grid">
             <div class="video-element">
-                <h5 class="iframe-heading">Remembering 1-year journey of our university</h5>
-                <iframe style="border: 2px solid rgb(184, 12, 12);" width="530" height="299" src="https://www.youtube.com/embed/Lr37Nc4YBPc?si=FaU0Smc8BwfP_3ov" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <h5 class="iframe-heading">Message from Deputy Vice-Chancellor</h5>
+                <iframe style="border: 2px solid rgb(184, 12, 12);" width="530" height="299" src="https://www.youtube.com/embed/A2yRpDUUFUo?si=LkLpD693MNykinO9" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
             <div class="video-element">
                 <h5 class="iframe-heading">Prime Location, Premier Education</h5>
-                <iframe style="border: 2px solid rgb(184, 12, 12);" width="530" height="299" src="https://www.youtube.com/embed/YrA9Y0MtIv0?si=ETX7-z16Hn5HsZ4k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe style="border: 2px solid rgb(184, 12, 12);" width="530" height="299" src="https://www.youtube.com/embed/dwkRi05DO5s?si=p_8ANDRHLJzq7iNC" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
             <div class="video-element">
                 <h5 class="iframe-heading">World-Class Learning Environment</h5>
-                <iframe style="border: 2px solid rgb(184, 12, 12);" width="530" height="299" src="https://www.youtube.com/embed/rcCraz73VQI?si=sw4VscaqXv0kTVcb" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe style="border: 2px solid rgb(184, 12, 12);" width="530" height="299" src="https://www.youtube.com/embed/pR8hHIP6rvA?si=9TJHZbODpvZQbnNb" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
             <div class="video-element">
-                <h5 class="iframe-heading">Special Messages from UCSI University</h5>
-                <iframe style="border: 2px solid rgb(184, 12, 12);" width="530" height="299" src="https://www.youtube.com/embed/GanClnWz8D8?si=UNdavd_mSpfgJNsd" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <h5 class="iframe-heading">Remembering 1-year journey of our university</h5>
+                <iframe style="border: 2px solid rgb(184, 12, 12);" width="530" height="299" src="https://www.youtube.com/embed/y6F1txZyW0A?si=74ItX9AFA6C-Ui5T" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
         </div>
 

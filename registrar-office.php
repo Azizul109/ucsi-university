@@ -84,6 +84,18 @@
         </div>
 
         <div class="grid-item">
+            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/maksudur-rabbi-ratio-register.jpg"
+                alt="Person 5">
+            <div
+                style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin-top: 18px; line-height: 10px;">
+                <p><strong>Mr Maksudur Rabby</strong></p>
+                <p>Executive Officer</p>
+                <p>(Student Central Coordinator)</p>
+                <p style="color: #bf0007; font-size: small;">Maksudur.Rabby@ucsiuniversity.edu.my</p>
+            </div>
+        </div>
+
+        <div class="grid-item">
             <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/mahejabin-alam-ratio-res-register2.jpg"
                 alt="Person 3">
             <div

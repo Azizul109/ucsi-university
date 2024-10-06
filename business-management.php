@@ -13,7 +13,7 @@
                                 <h2 class="entry-title" style="padding-bottom:3px"><a
                                         href="/professor-dr-golam-ahmed-faruqui">Professor Golam Ahmed Faruqui, PhD</a>
                                 </h2>
-                                <div class="designation-box">Dean</div>
+                                <div class="designation-box">Dean & Coordinator</div>
                             </header>
                         </div>
                     </article>

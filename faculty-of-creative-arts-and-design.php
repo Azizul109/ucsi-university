@@ -95,6 +95,23 @@
                 <li>
                     <article class="entry-item row clearfix">
                         <div class="col-md-3 col-sm-3 col-xs-12"> <img typeof="foaf:Image"
+                                src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/styles/facultylistnew/public/ejharul-haque-asp-2.jpg?itok=hRyzHdwF"
+                                width="117" height="124" alt="ejharul-haque-asp-2"></div>
+                        <div class="entry-content col-md-9 col-sm-9 col-xs-12">
+                            <header>
+                                <h2 class="entry-title" style="padding-bottom:3px"><a href="/mr-md-ejharul-haque">Mr MD
+                                        Ejharul Haque</a></h2>
+                                <div class="designation-box">Coordinator</div>
+                            </header>
+                        </div>
+                    </article>
+                </li>
+                <hr>
+            </span> 
+            <span class="field-content">
+                <li>
+                    <article class="entry-item row clearfix">
+                        <div class="col-md-3 col-sm-3 col-xs-12"> <img typeof="foaf:Image"
                                 src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/styles/facultylistnew/public/dr_khairul_zahreen.png?itok=5ykW97Yl"
                                 width="117" height="124" alt="dr_khairul_zahreen"></div>
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">

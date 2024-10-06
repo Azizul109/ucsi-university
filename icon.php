@@ -3,7 +3,16 @@
         <div class="row">
             <div class="col-md-6 col-sm-9 col-xs-10 panel-col-left">
                 <div class="inside">
-                    <div class="main-logo"> <span><a href="https://www.bangladesh.ucsiuniversity.edu.my/"><img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/logo-new-2-bangladesh-ucsi.png" alt="UCSI University"></a></span> <span><img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/qs_world_ranking_2024.png" alt="QS Ranking" class="QS_logo"></span></div>
+                    <div class="main-logo"> 
+                        <span>
+                            <a href="https://www.bangladesh.ucsiuniversity.edu.my/">
+                                <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/logo-new-2-bangladesh-ucsi.png" alt="UCSI University">
+                            </a>
+                        </span> 
+                        <span>
+                            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/qs_world_ranking_2024.png" alt="QS Ranking" class="QS_logo">
+                        </span>
+                    </div>
                 </div>
             </div>
             <div class="col-md-6 col-sm-3 col-xs-2 panel-col-right">

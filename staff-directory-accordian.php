@@ -123,7 +123,7 @@
                                         <div class="staff-col">Deputy Director, Human Resources</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Mr K M Niaz Mahmud</div>
+                                        <div class="staff-col">Sqn Ldr K M Niaz Mahmud (Retd)</div>
                                         <div class="staff-col">Deputy Director - Administration</div>
                                     </li>
                                     <li class="clearfix">
@@ -457,6 +457,10 @@
                                         <div class="staff-col">Executive Officer (Computer Services)</div>
                                     </li>
                                     <li class="clearfix">
+                                        <div class="staff-col">Mr Maksudur Rabby</div>
+                                        <div class="staff-col">Executive Officer (Student Central Coordinator)</div>
+                                    </li>
+                                    <li class="clearfix">
                                         <div class="staff-col">Ms Mehejabin Alam</div>
                                         <div class="staff-col">Executive Officer (AMO Coordinator)</div>
                                     </li>
@@ -732,8 +736,8 @@
                                         <div class="staff-col">Affiliate Dean</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Distinguished Professor Ts Ooi Keng Boon, FASc, PhD</div>
-                                        <div class="staff-col">Distinguished Dean (Postgraduate Studies)</div>
+                                        <div class="staff-col">Affiliate Distinguished Professor Ts Ooi Keng Boon, FASc, PhD</div>
+                                        <div class="staff-col">Affiliate Distinguished Professor</div>
                                     </li>
                                     <li class="clearfix">
                                         <div class="staff-col">Senior Professor Garry Tan Wei Han, PhD</div>
@@ -742,6 +746,10 @@
                                     <li class="clearfix">
                                         <div class="staff-col">Professor Noor Azman Ali, PhD</div>
                                         <div class="staff-col">Affiliate Professor</div>
+                                    </li>
+                                    <li class="clearfix">
+                                        <div class="staff-col">Professor Mohammed Mizanur Rahman, PhD</div>
+                                        <div class="staff-col">Coordinator</div>
                                     </li>
                                     <li class="clearfix">
                                         <div class="staff-col">Mr Mosharrof Hosen, PhD</div>
@@ -779,7 +787,11 @@
                                 <ul class="table-list staff">
                                     <li class="clearfix">
                                         <div class="staff-col">Professor Golam Ahmed Faruqui, PhD</div>
-                                        <div class="staff-col">Dean</div>
+                                        <div class="staff-col">Dean & Coordinator</div>
+                                    </li>
+                                    <li class="clearfix">
+                                        <div class="staff-col">Professor Mohammed Mizanur Rahman, PhD</div>
+                                        <div class="staff-col">Professor</div>
                                     </li>
                                     <li class="clearfix">
                                         <div class="staff-col">Assistant Professor Hasbollah Bin Mat Saad, PhD</div>
@@ -882,12 +894,8 @@
                                         <div class="staff-col">Affiliate Dean</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Mr Chan Joe Jim</div>
-                                        <div class="staff-col">Coordinator</div>
-                                    </li>
-                                    <li class="clearfix">
                                         <div class="staff-col">Mr MD Ejharul Haque</div>
-                                        <div class="staff-col">Lecturer</div>
+                                        <div class="staff-col">Lecturer & Coordinator</div>
                                     </li>
                                     <li class="clearfix">
                                         <div class="staff-col">Assistant Professor Mohamad Fadzly Bin Che Omar</div>
@@ -952,11 +960,11 @@
                                         <div class="staff-col">Affiliate Dean</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Ms Nuzhat Ahmad</div>
-                                        <div class="staff-col">Lecturer</div>
+                                        <div class="staff-col">Ms Mashiat Noor Prapti</div>
+                                        <div class="staff-col">Lecturer & Coordinator</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Ms Mashiat Noor Prapti</div>
+                                        <div class="staff-col">Ms Nuzhat Ahmad</div>
                                         <div class="staff-col">Lecturer</div>
                                     </li>
                                     <li class="clearfix">
@@ -1020,6 +1028,10 @@
                                     <li class="clearfix">
                                         <div class="staff-col">Associate Prof. Ts. Nazlina bt. Shaari, PhD</div>
                                         <div class="staff-col">Affiliate Associate Professor</div>
+                                    </li>
+                                    <li class="clearfix">
+                                        <div class="staff-col">Mr MD Ejharul Haque</div>
+                                        <div class="staff-col">Coordinator</div>
                                     </li>
                                     <li class="clearfix">
                                         <div class="staff-col">Mr Ts Khairul Zahreen Bin Mohd Arof, PhD</div>

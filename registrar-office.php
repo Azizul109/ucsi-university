@@ -84,7 +84,7 @@
         </div>
 
         <div class="grid-item">
-            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/maksudur-rabbi-ratio-register.jpg"
+            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/maksudur-rabbi-executive.png"
                 alt="Person 5">
             <div
                 style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin-top: 18px; line-height: 10px;">

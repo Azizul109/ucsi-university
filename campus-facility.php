@@ -60,7 +60,7 @@
                         <p class="facility-paragraph">The Computer Laboratory is a modern and technologically advanced hub for computer science students. They have access to programming language softwares, development tools, simulation software, and databases, allowing them to write code, develop software applications, and conduct experiments.</p>
                     </div>
                 </div>
-                <div class="facility-div">
+                <!--<div class="facility-div">
                     <div class="facility-video">
                         <div class="fluid-width-video-wrapper" style="padding-top: 56.3348%;"><iframe src="https://www.youtube.com/embed/8jptBQexHbA?si=DLIbGGwvwXGFKXPm" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="fitvid5"></iframe></div>
                     </div>
@@ -68,7 +68,7 @@
                         <h5>Interior Architecture Lab</h5>
                         <p class="facility-paragraph">The University Interior Architecture Lab is a creative and immersive space, designed to simulate real-world interior design environments and create functional and aesthetically pleasing spaces. Equipped with the latest software, hardware, and tools, the lab offers students ample opportunity to develop comprehensive design solutions.</p>
                     </div>
-                </div>
+                </div>-->
                 <div class="facility-div">
                     <div class="facility-video">
                         <div class="fluid-width-video-wrapper" style="padding-top: 56.3348%;"><iframe src="https://www.youtube.com/embed/PZE0Bw1Dw9s?si=04cYNpMA89J06kwT" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="fitvid6"></iframe></div>

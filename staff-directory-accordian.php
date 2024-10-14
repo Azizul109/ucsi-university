@@ -115,7 +115,7 @@
                             <div class="widget-content">
                                 <ul class="table-list staff">
                                     <li class="clearfix">
-                                        <div class="staff-col">Mr Nazim Uddin Ahmed</div>
+                                        <div class="staff-col">Lt Col Nazim Uddin Ahmed (Retd)</div>
                                         <div class="staff-col">Director</div>
                                     </li>
                                     <li class="clearfix">

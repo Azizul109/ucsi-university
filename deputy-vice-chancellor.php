@@ -60,7 +60,8 @@
     <div>
         <div class="cover">
             <div class="picture">
-                <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/farina.jpg" alt="pic">
+                <!--<img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/farina.jpg" alt="pic">-->
+                <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/farina_haque_latest.jpg" alt="pic">
             </div>
             <div class="border"></div>
             <div class="info">
@@ -68,7 +69,7 @@
                 <p><strong>Designation:</strong>Public Relation Officer (PRO)</p>
                 <p><strong>Email:</strong><a href="mailto:farina@ucsiuniversity.edu.my" target="_blank">
                         farina@ucsiuniversity.edu.my</a></p>
-                <p><strong>Phone:</strong> +8801903561050</p>
+                <p><strong>Phone:</strong> +8801844616500</p>
             </div>
         </div>
     </div>

@@ -120,11 +120,11 @@
                                     </li>
                                     <li class="clearfix">
                                         <div class="staff-col">Sqn Ldr K M Niaz Mahmud (Retd)</div>
-                                        <div class="staff-col">Deputy Director - Administration</div>
+                                        <div class="staff-col">Deputy Director, Administration</div>
                                     </li>
                                     <li class="clearfix">
                                         <div class="staff-col">Mr Md Amjad Hossain</div>
-                                        <div class="staff-col">Assistant Director - Legal Affairs</div>
+                                        <div class="staff-col">Assistant Director, Legal Affairs</div>
                                     </li>
                                     <li class="clearfix">
                                         <div class="staff-col">Mr Sirajus Salekeen Shuvo</div>
@@ -167,7 +167,7 @@
                                         <div class="staff-col">Office Assistant</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Mr Ali Azgor Shorif</div>
+                                        <div class="staff-col">Mr Ali Azgor Sobuj</div>
                                         <div class="staff-col">Office Assistant</div>
                                     </li>
                                     <li class="clearfix">
@@ -179,23 +179,31 @@
                                         <div class="staff-col">Office Assistant</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Mr Abdul Momen</div>
+                                        <div class="staff-col">Mr Hassan Al Mahmud</div>
                                         <div class="staff-col">Office Assistant</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Mr Md. Sohanur Rahman</div>
+                                        <div class="staff-col">Mr Md. Limon Hossain</div>
                                         <div class="staff-col">Office Assistant</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Hassan Al Mahmud</div>
+                                        <div class="staff-col">Mr Md. Yeasin</div>
                                         <div class="staff-col">Office Assistant</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Md. Limon Hossain</div>
+                                        <div class="staff-col">Mr Babul Mia</div>
                                         <div class="staff-col">Office Assistant</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Md. Yeasin</div>
+                                        <div class="staff-col">Mr Md. Sohag Mia</div>
+                                        <div class="staff-col">Office Assistant</div>
+                                    </li>
+                                    <li class="clearfix">
+                                        <div class="staff-col">Mr Joynal Abdin</div>
+                                        <div class="staff-col">Office Assistant</div>
+                                    </li>
+                                    <li class="clearfix">
+                                        <div class="staff-col">Mr Ratul Sheikh</div>
                                         <div class="staff-col">Office Assistant</div>
                                     </li>
                                     <li class="clearfix">
@@ -203,23 +211,23 @@
                                         <div class="staff-col">Sr. Electrician</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Sgt Md. Din Islam</div>
-                                        <div class="staff-col">Security</div>
-                                    </li>
-                                    <li class="clearfix">
-                                        <div class="staff-col">LCPL Md. Mehir Miah (Rtd)</div>
-                                        <div class="staff-col">Security</div>
-                                    </li>
-                                    <li class="clearfix">
                                         <div class="staff-col">Snk Sumi Khatun</div>
                                         <div class="staff-col">Security</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">CPL Md. Ismail Hossain (Retd)</div>
+                                        <div class="staff-col">Mr Samsul Huq</div>
                                         <div class="staff-col">Security</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Ms Fatema Tuj Johora</div>
+                                        <div class="staff-col">Mr Shakil Ahmed</div>
+                                        <div class="staff-col">Security</div>
+                                    </li>
+                                    <li class="clearfix">
+                                        <div class="staff-col">Mr Shanto Miah</div>
+                                        <div class="staff-col">Security</div>
+                                    </li>
+                                    <li class="clearfix">
+                                        <div class="staff-col">Mr Md. Rifat Mia</div>
                                         <div class="staff-col">Security</div>
                                     </li>
                                     <li class="clearfix">
@@ -379,10 +387,6 @@
                                     <li class="clearfix">
                                         <div class="staff-col">Mr Yasin Bari</div>
                                         <div class="staff-col">Team Leader (Marketing)</div>
-                                    </li>
-                                    <li class="clearfix">
-                                        <div class="staff-col">Ms Rukhsana Akter</div>
-                                        <div class="staff-col">Executive Officer</div>
                                     </li>
                                     <li class="clearfix">
                                         <div class="staff-col">Ms Maisha Ali</div>

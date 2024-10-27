@@ -2,7 +2,7 @@
     <div class="widget-title widget-title-s2 clearfix" style="padding-left:15px;"></div>
     <div class="widget-content">
         <ul style="list-style-type:none; color:#000; padding-right:30px;"> 
-            <span class="field-content">
+            <!--<span class="field-content">
                 <li>
                     <article class="entry-item row clearfix">
                         <div class="col-md-3 col-sm-3 col-xs-12"> <img typeof="foaf:Image"
@@ -19,7 +19,7 @@
                     </article>
                 </li>
                 <hr>
-            </span> 
+            </span> -->
             <span class="field-content">
                 <li>
                     <article class="entry-item row clearfix">
@@ -91,7 +91,7 @@
                 </li>
                 <hr>
             </span>
-            <span class="field-content">
+            <!--<span class="field-content">
                 <li>
                     <article class="entry-item row clearfix">
                         <div class="col-md-3 col-sm-3 col-xs-12"> <img typeof="foaf:Image"
@@ -107,7 +107,7 @@
                     </article>
                 </li>
                 <hr>
-            </span> 
+            </span> -->
             <span class="field-content">
                 <li>
                     <article class="entry-item row clearfix">

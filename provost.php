@@ -35,21 +35,21 @@
     </div>
     
     <div class="center-cover">
-            <div>
-                <div class="cover">
-                    <div class="picture">
-                        <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/farina.jpg" alt="pic">
-                    </div>
-                    <div class="border"></div>
-                    <div class="info">
-                        <p><strong>Name:</strong> Ms Farina Haque</p>
-                        <p><strong>Designation:</strong> Coordinator</p>
-                        <p><strong>Email:</strong><a href="mailto:farina@ucsiuniversity.edu.my" target="_blank"> farina@ucsiuniversity.edu.my</a></p>
-                        <p><strong>Phone:</strong> +8801903561050</p>
-                    </div>
+        <div>
+            <div class="cover">
+                <div class="picture">
+                    <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/farina.jpg" alt="pic">
+                </div>
+                <div class="border"></div>
+                <div class="info">
+                    <p><strong>Name:</strong> Ms Farina Haque</p>
+                    <p><strong>Designation:</strong>Public Relation Officer (PRO)</p>
+                    <p><strong>Email:</strong><a href="mailto:farina@ucsiuniversity.edu.my" target="_blank"> farina@ucsiuniversity.edu.my</a></p>
+                    <p><strong>Phone:</strong> +8801903561050</p>
                 </div>
             </div>
         </div>
+    </div>
     
     <style>
     

@@ -42,10 +42,6 @@
                                         <div class="staff-col">Ms Ummay Habiba</div>
                                         <div class="staff-col">Executive Officer - Administrative and HR Coordinator</div>
                                     </li>
-                                    <li class="clearfix">
-                                        <div class="staff-col">Ms Farina Haque</div>
-                                        <div class="staff-col">Executive Officer - Admission Coordinator</div>
-                                    </li>
                                 </ul>
                             </div>
                         </div><!-- kopa-course-list-table -->
@@ -82,7 +78,7 @@
                                     </li>
                                     <li class="clearfix">
                                         <div class="staff-col">Ms Farina Haque</div>
-                                        <div class="staff-col">Executive Officer - Admission Coordinator</div>
+                                        <div class="staff-col">Public Relation Officer (PRO)</div>
                                     </li>
                                 </ul>
                             </div>
@@ -129,10 +125,6 @@
                                     <li class="clearfix">
                                         <div class="staff-col">Mr Md Amjad Hossain</div>
                                         <div class="staff-col">Assistant Director - Legal Affairs</div>
-                                    </li>
-                                    <li class="clearfix">
-                                        <div class="staff-col">Mr Md. Shakil Mannan, PhD (UNIMAS, Malaysia)</div>
-                                        <div class="staff-col">Deputy Registrar, Human Resources</div>
                                     </li>
                                     <li class="clearfix">
                                         <div class="staff-col">Mr Sirajus Salekeen Shuvo</div>
@@ -576,6 +568,10 @@
                                         <div class="staff-col">Professor A K Enamul Haque, PhD</div>
                                         <div class="staff-col">Deputy Vice-Chancellor</div>
                                     </li>
+                                    <li class="clearfix">
+                                        <div class="staff-col">Ms Farina Haque</div>
+                                        <div class="staff-col">Public Relation Officer (PRO)</div>
+                                    </li>
                                 </ul>
                             </div>
                         </div><!-- kopa-course-list-table -->
@@ -640,12 +636,12 @@
                             <div class="widget-content">
                                 <ul class="table-list staff">
                                     <li class="clearfix">
-                                        <div class="staff-col">Professor Dato’ Ir Mohd Saleh Bin Jaafar, PhD</div>
-                                        <div class="staff-col">Pro Vice-Chancellor</div>
+                                        <div class="staff-col">Professor A K Enamul Haque. PhD</div>
+                                        <div class="staff-col">Deputy Vice-Chancellor</div>
                                     </li>
                                     <li class="clearfix">
                                         <div class="staff-col">Mr Mohd Faisal Bin Isa</div>
-                                        <div class="staff-col">Affiliate Deputy Register</div>
+                                        <div class="staff-col">Affiliate Deputy Registrar</div>
                                     </li>
                                     <li class="clearfix">
                                         <div class="staff-col">Ms Mehejabin Alam</div>
@@ -683,7 +679,7 @@
                                 <ul class="table-list staff">
                                     <li class="clearfix">
                                         <div class="staff-col">Ms Saifun Naher Samoly</div>
-                                        <div class="staff-col">Academic Coordinator</div>
+                                        <div class="staff-col">Faculty Coordinator (FBM & FOSSLA)</div>
                                     </li>
                                     <li class="clearfix">
                                         <div class="staff-col">Ms Mehejabin Alam</div>
@@ -856,8 +852,20 @@
                                         <div class="staff-col">Affiliate Dean</div>
                                     </li>
                                     <li class="clearfix">
+                                        <div class="staff-col">Professor Nor Kamariah Noordin, PhD</div>
+                                        <div class="staff-col">Dean</div>
+                                    </li>
+                                    <li class="clearfix">
                                         <div class="staff-col">Mr Jamalul-lail Ab. Manan, PhD</div>
                                         <div class="staff-col">Affiliate Fellow</div>
+                                    </li>
+                                    <li class="clearfix">
+                                        <div class="staff-col">Assistant Professor Deiva Sigamani Subbramania Pattar, PhD</div>
+                                        <div class="staff-col">Affiliate Lecturer</div>
+                                    </li>
+                                    <li class="clearfix">
+                                        <div class="staff-col">Mr Shahid Manzoor, PhD</div>
+                                        <div class="staff-col">Affiliate Lecturer</div>
                                     </li>
                                 </ul>
                             </div>
@@ -1010,10 +1018,6 @@
                             <div class="widget-content">
                                 <ul class="table-list staff">
                                     <li class="clearfix">
-                                        <div class="staff-col">Professor Dato' Ir Mohd Saleh Bin Jaafar, PhD</div>
-                                        <div class="staff-col">Dean</div>
-                                    </li>
-                                    <li class="clearfix">
                                         <div class="staff-col">Professor Nangkula Utaberta, PhD</div>
                                         <div class="staff-col">Affiliate Dean</div>
                                     </li>
@@ -1028,10 +1032,6 @@
                                     <li class="clearfix">
                                         <div class="staff-col">Associate Prof. Ts. Nazlina bt. Shaari, PhD</div>
                                         <div class="staff-col">Affiliate Associate Professor</div>
-                                    </li>
-                                    <li class="clearfix">
-                                        <div class="staff-col">Mr MD Ejharul Haque</div>
-                                        <div class="staff-col">Coordinator</div>
                                     </li>
                                     <li class="clearfix">
                                         <div class="staff-col">Mr Ts Khairul Zahreen Bin Mohd Arof, PhD</div>
@@ -1075,10 +1075,6 @@
                             <!-- widget-title -->
                             <div class="widget-content">
                                 <ul class="table-list staff">
-                                    <li class="clearfix">
-                                        <div class="staff-col">Professor Dato' Ir Mohd Saleh Bin Jaafar, PhD</div>
-                                        <div class="staff-col">Dean</div>
-                                    </li>
                                     <li class="clearfix">
                                         <div class="staff-col">Professor Nor Kamariah Noordin, PhD</div>
                                         <div class="staff-col">Dean</div>

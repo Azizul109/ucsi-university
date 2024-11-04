@@ -42,6 +42,10 @@
                                         <div class="staff-col">Ms Ummay Habiba</div>
                                         <div class="staff-col">Executive Officer - Administrative and HR Coordinator</div>
                                     </li>
+                                    <li class="clearfix">
+                                        <div class="staff-col">Ms Fahrin Saif</div>
+                                        <div class="staff-col">Executive Officer</div>
+                                    </li>
                                 </ul>
                             </div>
                         </div><!-- kopa-course-list-table -->
@@ -133,6 +137,10 @@
                                     <li class="clearfix">
                                         <div class="staff-col">Mr S. Saif Siddique</div>
                                         <div class="staff-col">Executive Officer, HR & Admin</div>
+                                    </li>
+                                    <li class="clearfix">
+                                        <div class="staff-col">Ms Maisha Ali</div>
+                                        <div class="staff-col">Executive Officer</div>
                                     </li>
                                     <li class="clearfix">
                                         <div class="staff-col">Mr Md Rashedul Islam</div>
@@ -289,6 +297,10 @@
                                         <div class="staff-col">Web Developer</div>
                                     </li>
                                     <li class="clearfix">
+                                        <div class="staff-col">Ms Madhurja Mahrab Rumalee</div>
+                                        <div class="staff-col">Executive Officer (Events & SAA)</div>
+                                    </li>
+                                    <li class="clearfix">
                                         <div class="staff-col">Mr Bikash Chandra Das</div>
                                         <div class="staff-col">Assistant to the Director, Corporate Affairs Department</div>
                                     </li>
@@ -389,16 +401,8 @@
                                         <div class="staff-col">Team Leader (Marketing)</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Ms Maisha Ali</div>
-                                        <div class="staff-col">Executive Officer</div>
-                                    </li>
-                                    <li class="clearfix">
                                         <div class="staff-col">Ms Dipa Dutta</div>
                                         <div class="staff-col">Executive Officer</div>
-                                    </li>
-                                    <li class="clearfix">
-                                        <div class="staff-col">Mr Afrid Sarwar Khan</div>
-                                        <div class="staff-col">Junior Executive Officer</div>
                                     </li>
                                 </ul>
                             </div>
@@ -457,12 +461,12 @@
                                         <div class="staff-col">Executive Officer (Student Central Coordinator)</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Ms Mehejabin Alam</div>
-                                        <div class="staff-col">Executive Officer (AMO Coordinator)</div>
+                                        <div class="staff-col">Ms Tasfia Ibnat Tushi</div>
+                                        <div class="staff-col">Executive Officer</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Ms Wamia Ahanaf Haider</div>
-                                        <div class="staff-col">Junior Executive Officer (Student Affairs and Alumni)</div>
+                                        <div class="staff-col">Mr Afrid Sarwar Khan</div>
+                                        <div class="staff-col">Junior Executive Officer (AMO Coordinator)</div>
                                     </li>
                                     <li class="clearfix">
                                         <div class="staff-col">Ms Marina Tanzin Mili</div>
@@ -648,8 +652,8 @@
                                         <div class="staff-col">Affiliate Deputy Registrar</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Ms Mehejabin Alam</div>
-                                        <div class="staff-col">Executive Officer</div>
+                                        <div class="staff-col">Mr Afrid Sarwar Khan</div>
+                                        <div class="staff-col">Junior Executive Officer (AMO Coordinator)</div>
                                     </li>
                                 </ul>
                             </div>
@@ -681,18 +685,6 @@
                             <!-- widget-title -->
                             <div class="widget-content">
                                 <ul class="table-list staff">
-                                    <li class="clearfix">
-                                        <div class="staff-col">Ms Saifun Naher Samoly</div>
-                                        <div class="staff-col">Faculty Coordinator (FBM & FOSSLA)</div>
-                                    </li>
-                                    <li class="clearfix">
-                                        <div class="staff-col">Ms Mehejabin Alam</div>
-                                        <div class="staff-col">Executive Officer</div>
-                                    </li>
-                                    <li class="clearfix">
-                                        <div class="staff-col">Ms Wamia Ahanaf Haider</div>
-                                        <div class="staff-col">Junior Executive Officer</div>
-                                    </li>
                                     <li class="clearfix">
                                         <div class="staff-col">Ms Marina Tanzin Mili</div>
                                         <div class="staff-col">Junior Executive Officer</div>
@@ -820,6 +812,10 @@
                                     <li class="clearfix">
                                         <div class="staff-col">Barrister Faran Md Aaraf</div>
                                         <div class="staff-col">Adjunct Lecturer</div>
+                                    </li>
+                                    <li class="clearfix">
+                                        <div class="staff-col">Ms Saifun Naher Samoly</div>
+                                        <div class="staff-col">Faculty Coordinator</div>
                                     </li>
                                 </ul>
                             </div>
@@ -991,6 +987,10 @@
                                         <div class="staff-col">Mr Arman Bin Imran Ashok</div>
                                         <div class="staff-col">Affiliate Lecturer</div>
                                     </li>
+                                    <li class="clearfix">
+                                        <div class="staff-col">Ms Saifun Naher Samoly</div>
+                                        <div class="staff-col">Faculty Coordinator</div>
+                                    </li>
                                 </ul>
                             </div>
                         </div><!-- kopa-course-list-table -->
@@ -1106,6 +1106,10 @@
                                     <li class="clearfix">
                                         <div class="staff-col">Mr Rajibul Anam</div>
                                         <div class="staff-col">Adjunct Lecturer</div>
+                                    </li>
+                                    <li class="clearfix">
+                                        <div class="staff-col">Ms Mhamuda Yesmin</div>
+                                        <div class="staff-col">Faculty Coordinator</div>
                                     </li>
                                 </ul>
                             </div>

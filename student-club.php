@@ -8,7 +8,7 @@
             <div class="entry-content">
                 <header>
                     <h6>Ms Madhurja Mahrab Rumalee</h6>
-                    <p>Executive Officer (Student Affairs and Alumni)</p>
+                    <p>Executive Officer (Events & SAA)</p>
                     <p>Bachelor of Science (BSc.) in Biotechnology</p>
                     <p>UCSI University, Malaysia</p>
                 </header>

@@ -100,6 +100,34 @@
                 </li>
                 <hr>
             </span>
+            <span class="field-content">
+                <li>
+                    <article class="entry-item row clearfix">
+                        <div class="col-md-3 col-sm-3 col-xs-12"> <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/styles/facultylistnew/public/142_mr_mohammed_faruque.jpg?itok=pVqTfciS" width="117" height="124"></div>
+                        <div class="entry-content col-md-9 col-sm-9 col-xs-12">
+                            <header>
+                                <h2 class="entry-title" style="padding-bottom:3px"><a href="/mr-mohammed-faruque">Mr Mohammed Faruque</a></h2>
+                                <div class="designation-box">Adjunct Lecturer</div>
+                            </header>
+                        </div>
+                    </article>
+                </li>
+                <hr>
+            </span>
+            <span class="field-content">
+                <li>
+                    <article class="entry-item row clearfix">
+                        <div class="col-md-3 col-sm-3 col-xs-12"> <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/styles/facultylistnew/public/117_mr_md_rajib_ekhowan.jpg?itok=1TCS5YOZ" width="117" height="124"></div>
+                        <div class="entry-content col-md-9 col-sm-9 col-xs-12">
+                            <header>
+                                <h2 class="entry-title" style="padding-bottom:3px"><a href="/mr-md-ragib-ekhowan">Mr Md. Ragib Ekhowan</a></h2>
+                                <div class="designation-box">Adjunct Lecturer</div>
+                            </header>
+                        </div>
+                    </article>
+                </li>
+                <hr>
+            </span>
         </ul>
     </div>
 </div>

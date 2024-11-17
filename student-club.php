@@ -3,7 +3,7 @@
     <div class="col-md-4 col-sm-4 col-xs-12">
         <article class="entry-item">
             <div>
-                <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/madhurja_mahrab_rumalee_-_245x266.jpg" width="255" height="255" alt="Nikhil" title="Nikhil">
+                <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/saa_officer.jpg" width="255" height="255" alt="Nikhil" title="Nikhil">
             </div>
             <div class="entry-content">
                 <header>
@@ -13,7 +13,7 @@
                     <p>UCSI University, Malaysia</p>
                 </header>
                 <p></p>
-                <p><span style="font-size:12px">Email:&nbsp;<a href="mailto:WamiaAhanaf@ucsiuniversity.edu.my">madhurja.mahrab@ucsiuniversity.edu.my</a><br></span></p>
+                <p><span style="font-size:12px">Email:&nbsp;<a href="mailto:madhurja.mahrab@ucsiuniversity.edu.my">madhurja.mahrab@ucsiuniversity.edu.my</a><br></span></p>
                 <p></p>
             </div>
         </article>

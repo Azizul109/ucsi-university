@@ -120,15 +120,25 @@
                                 </article>
                             </div> -->
 
-                            <!-- <div class="col-md-6">
+                            <div class="col-md-6">
                                 <article class="entry-item clearfix">
                                     <i class="fa fa-laptop pull-left"></i>
                                     <div class="entry-content">
-                                        <h5><a target="_blank" href="https://apps.ucsiuniversity.edu.my/ecas">ELE Portal</a></h5>
-                                        The ELE Portal is a web based portal allowing students to access their extracurricular activities and reports.
+                                        <h5><a target="_blank" href="https://apps.ucsiuniversity.edu.my/ecas_bd">ELE Portal</a></h5>
+                                        The ELE Portal is a web based portal allowing students to access their extracurricular activities and reports. <br> <br> <br>
                                     </div>
                                 </article>
-                            </div> -->
+                            </div>
+
+                            <div class="col-md-6">
+                                <article class="entry-item clearfix">
+                                    <i class="fab fa-google pull-left"></i>
+                                    <div class="entry-content">
+                                        <h5><a target="_blank" href="https://mail.google.com/a/student.ucsiuniversity.edu.my">Google Apps</a></h5>
+                                        Google Apps facilitates the provision of Google applications powered by Google. These include Gmail, Google Drive, Google Meet, Google Calendar, Google Docs and more.
+                                    </div>
+                                </article>
+                            </div>
 
                         </div>
 
@@ -186,22 +196,22 @@
 
                         <div class="row">
 
-                            <div class="col-md-6">
-                                <article class="entry-item clearfix">
-                                    <i class="fab fa-google pull-left"></i>
-                                    <div class="entry-content">
-                                        <h5><a target="_blank" href="https://mail.google.com/a/student.ucsiuniversity.edu.my">Google Apps</a></h5>
-                                        Google Apps facilitates the provision of Google applications powered by Google. These include Gmail, Google Drive, Google Meet, Google Calendar, Google Docs and more.
-                                    </div>
-                                </article>
-                            </div>
-
-                            <div class="col-md-6">
+                            <!-- <div class="col-md-6">
                                 <article class="entry-item clearfix">
                                     <i class="fa fa-desktop pull-left"></i>
                                     <div class="entry-content">
                                         <h5><a target="_blank" href="http://m.me/ucsisaa">Student Helpdesk</a></h5>
                                         Online helpdesk by Student Affairs & Alumni to help students enquiry. Available from 10am to 6pm Saturday – Thursday. <br> <br>
+                                    </div>
+                                </article>
+                            </div> -->
+
+                            <div class="col-md-6">
+                                <article class="entry-item clearfix">
+                                    <i class="fa fa-desktop pull-left"></i>
+                                    <div class="entry-content">
+                                        <h5><a target="_blank" href="mailto:saa.ucsibd@ucsiuniversity.edu.my">Student Helpdesk</a></h5>
+                                        The Student Affairs & Alumni Office will assist with student-related enquiries. The office is open from 10am to 6pm, Saturday to Thursday.<br> <br>
                                     </div>
                                 </article>
                             </div>

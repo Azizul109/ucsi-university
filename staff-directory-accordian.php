@@ -744,6 +744,10 @@
                                         <div class="staff-col">Coordinator</div>
                                     </li>
                                     <li class="clearfix">
+                                        <div class="staff-col">Professor Md. Kashedul Wahab Tuhin, PhD</div>
+                                        <div class="staff-col">Adjunct Professor</div>
+                                    </li>
+                                    <li class="clearfix">
                                         <div class="staff-col">Mr Mosharrof Hosen, PhD</div>
                                         <div class="staff-col">Affiliate Lecturer</div>
                                     </li>
@@ -795,6 +799,10 @@
                                     </li>
                                     <li class="clearfix">
                                         <div class="staff-col">Professor Md Abdul Momen, PhD</div>
+                                        <div class="staff-col">Adjunct Professor</div>
+                                    </li>
+                                    <li class="clearfix">
+                                        <div class="staff-col">Professor Md. Nurun Nabi, PhD</div>
                                         <div class="staff-col">Adjunct Professor</div>
                                     </li>
                                     <li class="clearfix">
@@ -988,6 +996,14 @@
                                         <div class="staff-col">Affiliate Lecturer</div>
                                     </li>
                                     <li class="clearfix">
+                                        <div class="staff-col">Mr Mohammed Faruque</div>
+                                        <div class="staff-col">Adjunct Lecturer</div>
+                                    </li>
+                                    <li class="clearfix">
+                                        <div class="staff-col">Mr Md. Ragib Ekhowan</div>
+                                        <div class="staff-col">Adjunct Lecturer</div>
+                                    </li>
+                                    <li class="clearfix">
                                         <div class="staff-col">Ms Saifun Naher Samoly</div>
                                         <div class="staff-col">Faculty Coordinator</div>
                                     </li>
@@ -1090,10 +1106,6 @@
                                     <li class="clearfix">
                                         <div class="staff-col">Professor Ts Ghassan Saleh Hussein Al-Dharhani, PhD</div>
                                         <div class="staff-col">Affiliate Associate Professor</div>
-                                    </li>
-                                    <li class="clearfix">
-                                        <div class="staff-col">Mr Ts Abu Bakar Ngah</div>
-                                        <div class="staff-col">Affiliate Fellow</div>
                                     </li>
                                     <li class="clearfix">
                                         <div class="staff-col">Mr H M Mostafizur Rahman</div>

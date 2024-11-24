@@ -281,7 +281,7 @@
                             <div class="widget-content">
                                 <ul class="table-list staff">
                                     <li class="clearfix">
-                                        <div class="staff-col">Mr Ahmed Suman Subhan</div>
+                                        <div class="staff-col">Major Suman Subhan (Retd)</div>
                                         <div class="staff-col">Director</div>
                                     </li>
                                     <li class="clearfix">

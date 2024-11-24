@@ -57,7 +57,7 @@
                 <div class="panel-heading">
                     <h4 class="panel-title">
                         <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne1" class="payment">
-                            <span class="btn-title"></span> <span class="tab-title">Social Club</span>
+                            <span class="btn-title"></span> <span class="tab-title">Academic Club</span>
                         </a>
                     </h4>
                 </div>
@@ -86,14 +86,14 @@
                                                 <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/maisha_karim.jpg" alt="Person 3" style="max-width: 60%;">
                                                 <div style="text-align: center;">
                                                     <p><strong>Ms Maisha Karim</strong></p>
-                                                    <p>Lecturer</p>
+                                                    <p>Advisor</p>
                                                 </div>
                                             </div>
                                             <div class="grid-item" style="text-align:center;">
                                                 <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/tasmary_ahsan_tanjila.jpg" alt="Person 3" style="max-width: 60%;">
                                                 <div style="text-align: center;">
                                                     <p><strong>Tasmary Ahsan Tanjila</strong></p>
-                                                    <p>Summer 2023 Semester</p>
+                                                    <p>President</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -127,14 +127,14 @@
                                                 <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/niaz_makhdum.jpg" alt="Person 3" style="max-width: 60%;">
                                                 <div style="text-align: center;">
                                                     <p><strong>Mr Niaz Makhdum</strong></p>
-                                                    <p>Lecturer</p>
+                                                    <p>Advisor</p>
                                                 </div>
                                             </div>
                                             <div class="grid-item" style="text-align:center;">
                                                 <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/chowdhury_umme_honny.png" alt="Person 3" style="max-width: 60%;">
                                                 <div style="text-align: center;">
                                                     <p><strong>Chowdhury Umme Honny</strong></p>
-                                                    <p>Fall 2023 Semester</p>
+                                                    <p>President</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -159,7 +159,7 @@
                 <div class="panel-heading">
                     <h4 class="panel-title">
                         <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo1" class="payment">
-                            <span class="btn-title"></span> <span class="tab-title">Academic Club</span>
+                            <span class="btn-title"></span> <span class="tab-title">Social Club</span>
                         </a>
                     </h4>
                 </div>
@@ -180,14 +180,14 @@
                                             <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/mostafizur_rahman.jpg" alt="Person 3" style="max-width: 60%;">
                                             <div style="text-align: center;">
                                                 <p><strong>Mr H M Mostafizur Rahman</strong></p>
-                                                <p>Lecturer</p>
+                                                <p>Advisor</p>
                                             </div>
                                         </div>
                                         <div class="grid-item" style="text-align:center;">
                                             <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/shoshi_hossain.jpg" alt="Person 3" style="max-width: 60%;">
                                             <div style="text-align: center;">
                                                 <p><strong>Shoshi Hossain</strong></p>
-                                                <p>Summer 2023 Semester</p>
+                                                <p>President</p>
                                             </div>
                                         </div>
                                     </div>
@@ -217,14 +217,14 @@
                                             <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/mashiat_noor_prapti.jpg" alt="Person 3" style="max-width: 60%;">
                                             <div style="text-align: center;">
                                                 <p><strong>Ms Mashiat Noor Prapti</strong></p>
-                                                <p>Lecturer</p>
+                                                <p>Advisor</p>
                                             </div>
                                         </div>
                                         <div class="grid-item" style="text-align:center;">
                                             <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/ishmum_nawar_breehi.jpg" alt="Person 3" style="max-width: 60%;">
                                             <div style="text-align: center;">
                                                 <p><strong>Ishmum Nawar Breehi</strong></p>
-                                                <p>Summer 2023 Semester</p>
+                                                <p>President</p>
                                             </div>
                                         </div>
                                     </div>
@@ -270,7 +270,7 @@
                             <div class="panel-heading" style="background: #a7acbb;">
                                 <h4 class="panel-title">
                                     <a data-toggle="collapse" href="#collapseSix1" class="payment collapsed" data-parent="#collapseTwo1">
-                                        <span class="btn-title"></span> <span class="tab-title">Painting Club</span>
+                                        <span class="btn-title"></span> <span class="tab-title">Volunteer Club</span>
                                     </a>
                                 </h4>
                             </div>
@@ -278,24 +278,24 @@
                                 <div class="row" style="margin-top: 10px;">
                                     <div class="col-md-6">
                                         <div class="grid-item" style="text-align:center;">
-                                            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/ms-wamia_0.jpg" alt="Person 3" style="max-width: 60%;">
+                                            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/saa_officer.jpg" alt="Person 3" style="max-width: 60%;">
                                             <div style="text-align: center;">
-                                                <p><strong>Ms Wamia Ahanaf Haider</strong></p>
-                                                <p>Executive Officer</p>
+                                                <p><strong>Ms Madhurja Mahrab Rumalee</strong></p>
+                                                <p>Advisor</p>
                                             </div>
                                         </div>
                                         <div class="grid-item" style="text-align:center;">
-                                            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/ayman_syed_ziauddin.png" alt="Person 3" style="max-width: 60%;">
+                                            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/no-image.jpg" alt="Person 3" style="max-width: 60%;">
                                             <div style="text-align: center;">
-                                                <p><strong>Ayman Syed Ziauddin</strong></p>
-                                                <p>Fall 2023 Semester</p>
+                                                <p><strong>To be elected</strong></p>
+                                                <p>President</p>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-md-6">
-                                        <p class="text-center"> <!-- Center-align the text on mobile -->
-                                            The University Painting Club provides a creative sanctuary for students to unleash their artistic talents and explore the world of visual expression. Through painting sessions, workshops, and critiques, members hone their skills and experiment with various techniques and mediums. <br>
-                                            The Painting Club cultivates a supportive environment where beginners receive guidance and seasoned artists find inspiration. It’s a place where passion meets practice, nurturing a lifelong love for art and creativity among university students.
+                                        <p class="text-center">
+                                        Our university Volunteer Club is a student-led organization dedicated to creating a positive impact on the community through service and outreach. The club members aim to participate in diverse activities such as organizing charity events, tutoring underprivileged students, conducting environmental awareness, and supporting local shelters. <br>
+                                        The club fosters teamwork, leadership, and empathy, providing students with opportunities to develop valuable skills while addressing societal challenges. It serves as a platform for like-minded individuals to collaborate on meaningful projects, promote social responsibility, and make a difference both on campus and beyond. Joining the club offers a fulfilling way to contribute to the betterment of society.
                                         </p>
                                     </div>
                                 </div>
@@ -318,14 +318,14 @@
                                             <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/maisha_karim.jpg" alt="Person 3" style="max-width: 60%;">
                                             <div style="text-align: center;">
                                                 <p><strong>Ms Maisha Karim</strong></p>
-                                                <p>Lecturer</p>
+                                                <p>Advisor</p>
                                             </div>
                                         </div>
                                         <div class="grid-item" style="text-align:center;">
                                             <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/alvi_zahin.png" alt="Person 3" style="max-width: 60%;">
                                             <div style="text-align: center;">
                                                 <p><strong>Alvi Zahin</strong></p>
-                                                <p>Fall 2023 Semester</p>
+                                                <p>President</p>
                                             </div>
                                         </div>
                                     </div>
@@ -352,17 +352,17 @@
                                 <div class="row" style="margin-top: 10px;">
                                     <div class="col-md-6">
                                         <div class="grid-item" style="text-align:center;">
-                                            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/hasibur-rahman-res-asp-background-register.png" alt="Person 3" style="max-width: 60%;">
+                                            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/md._ejharul_haque.jpg" alt="Person 3" style="max-width: 60%;">
                                             <div style="text-align: center;">
-                                                <p><strong>Mr Hashibur Rahman</strong></p>
-                                                <p>Executive Officer</p>
+                                                <p><strong>Mr Md. Ejharul Haque</strong></p>
+                                                <p>Advisor</p>
                                             </div>
                                         </div>
                                         <div class="grid-item" style="text-align:center;">
                                             <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/abid_al_shahriar_beg.jpg" alt="Person 3" style="max-width: 60%;">
                                             <div style="text-align: center;">
                                                 <p><strong>Abid Al Shahriar</strong></p>
-                                                <p>Summer 2023 Semester</p>
+                                                <p>President</p>
                                             </div>
                                         </div>
                                     </div>
@@ -451,7 +451,7 @@
                             <div class="panel-heading" style="background: #a7acbb;">
                                 <h4 class="panel-title">
                                     <a data-toggle="collapse" href="#collapseEight1" class="payment collapsed" data-parent="#collapseThree1">
-                                        <span class="btn-title"></span> <span class="tab-title">Chess Club</span>
+                                        <span class="btn-title"></span> <span class="tab-title">Indoor Sports Club</span>
                                     </a>
                                 </h4>
                             </div>
@@ -459,24 +459,24 @@
                                 <div class="row" style="margin-top: 10px;">
                                     <div class="col-md-6">
                                         <div class="grid-item" style="text-align:center;">
-                                            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/nuzhat_ahmad.jpg" alt="Person 3" style="max-width: 60%;">
+                                            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/mostafizur_rahman.jpg" alt="Person 3" style="max-width: 60%;">
                                             <div style="text-align: center;">
-                                                <p><strong>Ms Nuzhat Ahmad</strong></p>
-                                                <p>Lecturer</p>
+                                                <p><strong>Mr H M Mostafizur Rahman</strong></p>
+                                                <p>Advisor</p>
                                             </div>
                                         </div>
                                         <div class="grid-item" style="text-align:center;">
-                                            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/an_najmus_saqib_muaaz.jpg" alt="Person 3" style="max-width: 60%;">
+                                            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/no-image.jpg" alt="Person 3" style="max-width: 60%;">
                                             <div style="text-align: center;">
-                                                <p><strong>An Nazmus Saqib Muaz</strong></p>
-                                                <p>Fall 2023 Semester</p>
+                                                <p><strong>To be elected</strong></p>
+                                                <p>President</p>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-md-6">
-                                        <p class="text-center"> <!-- Center-align the text on mobile -->
-                                            The University Chess Club practices strategic thinking, concentration, and camaraderie among students passionate about this ancient game. Through regular meetings, tournaments, and training sessions, members sharpen their skills and expand their understanding of chess theory and tactics. The club offers opportunities for players of all levels, from beginners to experts, to engage in friendly matches and competitive play in the chess boards of Sports Zone. <br>
-                                            The Chess Club fosters a sense of community, where members support each other's growth and share their love for the game. Beyond the board, the club promotes sportsmanship and intellectual growth, nurturing lifelong friendships and a deep appreciation for the timeless pursuit of chess.
+                                        <p class="text-center">
+                                            The Indoor Sports Club provides students with opportunities to engage in various indoor sports and recreational activities, fostering a sense of camaraderie and teamwork. The club organizes games such as Badminton, Table tennis, Billiard, Chess, and Carrom, catering to players of all skill levels. <br>
+                                            The members can participate in practice sessions, and friendly matches, creating a vibrant environment to stay active and unwind from academic pressures. The club promotes mental agility, and social interaction, making it a hub for sports enthusiasts. Joining the Indoor Sports Club is a great way to sharpen skills, make friends, and enjoy healthy competition.
                                         </p>
                                     </div>
                                 </div>
@@ -488,7 +488,7 @@
                             <div class="panel-heading" style="background: #a7acbb;">
                                 <h4 class="panel-title">
                                     <a data-toggle="collapse" href="#collapseNine1" class="payment collapsed" data-parent="#collapseThree1">
-                                        <span class="btn-title"></span> <span class="tab-title">Billiard Club</span>
+                                        <span class="btn-title"></span> <span class="tab-title">Outdoor Sports Club</span>
                                     </a>
                                 </h4>
                             </div>
@@ -496,24 +496,24 @@
                                 <div class="row" style="margin-top: 10px;">
                                     <div class="col-md-6">
                                         <div class="grid-item" style="text-align:center;">
-                                            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/mostafizur_rahman.jpg" alt="Person 3" style="max-width: 60%;">
+                                            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/maksudur_rabby.jpg" alt="Person 3" style="max-width: 60%;">
                                             <div style="text-align: center;">
-                                                <p><strong>Mr H M Mostafizur Rahman</strong></p>
-                                                <p>Lecturer</p>
+                                                <p><strong>Mr Maksudur Rabby</strong></p>
+                                                <p>Advisor</p>
                                             </div>
                                         </div>
                                         <div class="grid-item" style="text-align:center;">
-                                            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/sakib_ahmad.jpg" alt="Person 3" style="max-width: 60%;">
+                                            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/no-image.jpg" alt="Person 3" style="max-width: 60%;">
                                             <div style="text-align: center;">
-                                                <p><strong>Sakib Ahmad</strong></p>
-                                                <p>Fall 2023 Semester</p>
+                                                <p><strong>To be elected</strong></p>
+                                                <p>President</p>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-md-6">
-                                        <p class="text-center"> <!-- Center-align the text on mobile -->
-                                            The University Billiard Club provides a dynamic space for students to enjoy the strategic and social aspects of cue sports. <br>
-                                            Through regular meet-ups, practice sessions, and friendly games in the Sports Zone, members refine their skills in billiards, pool, and snooker, fostering a sense of friendly competition and camaraderie. The club offers a amicable environment for players of all levels to learn and improve, with experienced members offering guidance and tips. The Billiard Club promotes sportsmanship, concentration, and precision, while also serving as a hub for relaxation and social interaction on campus.
+                                        <p class="text-center">
+                                            The university Outdoor Sports Club is a dynamic organization that promotes physical activity, teamwork, and a passion for the outdoor games. The club organizes and facilitates a variety of sports, such as football, cricket, basketball, volleyball. <br>
+                                            It provides a platform for the club members to participate in practice sessions, competitions, and recreational matches. By encouraging an active lifestyle and fostering sportsmanship, the club helps students build fitness, resilience, and social connections. Joining the Outdoor Sports Club is a great way to enhance athletic abilities, make lifelong friendships, and enjoy the thrill of outdoor games.
                                         </p>
                                     </div>
                                 </div>
@@ -521,7 +521,7 @@
                             </div>
                         </div>
 
-                        <div class="panel panel-default">
+                        <!-- <div class="panel panel-default">
                             <div class="panel-heading" style="background: #a7acbb;">
                                 <h4 class="panel-title">
                                     <a data-toggle="collapse" href="#collapseTen1" class="payment collapsed" data-parent="#collapseThree1">
@@ -548,7 +548,7 @@
                                         </div>
                                     </div>
                                     <div class="col-md-6">
-                                        <p class="text-center"> <!-- Center-align the text on mobile -->
+                                        <p class="text-center">
                                             The University Badminton Club serves as a vibrant hub for students passionate about the fast-paced and exhilarating sport. Through regular practice sessions, drills, and friendly matches, members improve their skills, agility, and strategy on the court. <br>
                                             The club welcomes players of all levels, from beginners to advanced, fostering an inclusive environment where everyone can learn and grow. Tournaments and intercollegiate competitions offer opportunities for members to test their abilities and represent their university with pride. Beyond the court, the Badminton Club promotes teamwork, sportsmanship, and a healthy lifestyle, while also providing a social outlet for members to connect and forge lasting friendships.
                                         </p>
@@ -586,7 +586,7 @@
                                         </div>
                                     </div>
                                     <div class="col-md-6">
-                                        <p class="text-center"> <!-- Center-align the text on mobile -->
+                                        <p class="text-center">
                                             The University Table Tennis Club is a vibrant community for enthusiasts of all skill levels. The club members arrange regular practice sessions, providing opportunities for all to improve their techniques, engage in friendly matches, and enjoy the camaraderie of fellow players. <br>
                                             The club fosters a spirit of competition and teamwork which further enriches the experience of the students, making the club an ideal platform for building lasting friendships and developing a passion for the game.
                                         </p>
@@ -595,7 +595,6 @@
                                 <h2 style="text-align:center;">Gallery</h2>
                             </div>
                         </div>
-
 
                         <div class="panel panel-default">
                             <div class="panel-heading" style="background: #a7acbb;">
@@ -639,7 +638,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
@@ -815,8 +814,10 @@
         border: 1px solid #ccc;
         box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
         padding-top: 20px;
-        height: 300px;
-        width: 280px;
+        height: auto;
+        width: 100%;
+        max-width: 280px;
+        margin: 0 auto;
     }
 
     .grid-item-gallery {
@@ -828,5 +829,18 @@
         height: 200px;
         width: 210px;
         margin: 10px;
+    }
+
+    @media (max-width: 767px) {
+        .grid-item {
+            width: 100%;
+            max-width: none;
+            height: auto;
+        }
+
+        .grid-item img {
+            width: 100%;
+            height: auto;
+        }
     }
 </style>

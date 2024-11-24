@@ -4,18 +4,6 @@
         <div class="views-field views-field-title"> <span class="field-content">
                 <div class="col-md-4 col-sm-4 col-xs-12" style="min-height: 350px">
                     <article class="entry-item">
-                        <div class="entry-thumb img-bg"> <img typeof="foaf:Image" style="padding-top: 0px;" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/styles/staff_photo__230x185_/public/mr_molla_waheeduzzaman.png?itok=sP1yN-av" width="230" height="244"></div>
-                        <div class="entry-content">
-                            <h6 class="pt-10" style="margin-bottom:0">Mr Molla Waheeduzzaman</h6>
-                            <p>Chairman</p>
-                        </div>
-                    </article>
-                </div>
-            </span>
-        </div>
-        <div class="views-field views-field-title"> <span class="field-content">
-                <div class="col-md-4 col-sm-4 col-xs-12" style="min-height: 350px">
-                    <article class="entry-item">
                         <div class="entry-thumb img-bg"> <img typeof="foaf:Image" style="padding-top: 0px;" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/styles/staff_photo__230x185_/public/mr_ariful_bari_mojumder.png?itok=Yi-AE8bp" width="230" height="244"></div>
                         <div class="entry-content">
                             <h6 class="pt-10" style="margin-bottom:0">Mr Ariful Bari Mojumder</h6>
@@ -85,7 +73,7 @@
                 </div>
             </span>
         </div>
-        <div class="views-field views-field-title"> <span class="field-content">
+        <!-- <div class="views-field views-field-title"> <span class="field-content">
                 <div class="col-md-4 col-sm-4 col-xs-12" style="min-height: 350px">
                     <article class="entry-item">
                         <div class="entry-thumb img-bg"> <img typeof="foaf:Image" style="padding-top: 0px;" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/styles/staff_photo__230x185_/public/mr_ahmed_suman_subhan.png?itok=Hgmbc_FW" width="230" height="244"></div>
@@ -96,7 +84,7 @@
                     </article>
                 </div>
             </span>
-        </div>
+        </div> -->
         <div class="views-field views-field-title"> <span class="field-content">
                 <div class="col-md-4 col-sm-4 col-xs-12" style="min-height: 350px">
                     <article class="entry-item">

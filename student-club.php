@@ -75,11 +75,18 @@
                                 <div class="panel-body">
                                     <div class="row">
                                         <div class="col-md-6">
-                                            <div class="grid-item" style="text-align:center;">
+                                            <!-- <div class="grid-item" style="text-align:center;">
                                                 <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/prof._dr._mizan_-_picture_2_1.jpg" alt="Person 3" style="max-width: 60%;">
                                                 <div style="text-align: center;">
                                                     <p><strong>Professor Mohammed Mizanur Rahman, PhD</strong></p>
                                                     <p>Professor</p>
+                                                </div>
+                                            </div> -->
+                                            <div class="grid-item" style="text-align:center;">
+                                                <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/maisha_karim.jpg" alt="Person 3" style="max-width: 60%;">
+                                                <div style="text-align: center;">
+                                                    <p><strong>Ms Maisha Karim</strong></p>
+                                                    <p>Lecturer</p>
                                                 </div>
                                             </div>
                                             <div class="grid-item" style="text-align:center;">

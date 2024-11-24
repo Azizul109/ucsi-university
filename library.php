@@ -178,6 +178,15 @@
                             </div>
                         </div>
                     </a>
+                    <a href="https://lib.ucsiuniversity.edu.my/services" class="card-link">
+                        <div class="card">
+                            <img class="card-image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/library-vpn.jpg" alt="Card Image">
+                            <div class="card-label">
+                                <h4 class="label">Download VPN</h4>
+                                <h4 class="label-below">Download VPN</h4>
+                            </div>
+                        </div>
+                    </a>
                 </div>
             </div>
         </div>

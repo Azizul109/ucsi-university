@@ -92,6 +92,8 @@
             <h4 class="widget-title widget-title-s10">Life @ UCSI</h4>
             <ul class="widget-list list-unstyled list-unstyle p-0">
                 <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/library-policy">Library Policy</a></li>
+                <li><a href="https://koha.ucsiuniversity.edu.my/cgi-bin/koha/opac-main.pl" target="_blank">OPAC</a></li>
+                <li><a href="https://lib.ucsiuniversity.edu.my/e-resource/online-database" target="_blank">Online Database</a></li>
                 <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/students-activities-and-recreation-new">Students Activities and Recreation</a></li>
                 <!-- <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/accommodation/Kuala-Lumpur?display=Kuala-Lumpur">Accommodation</a></li> -->
                 <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/student-affairs-and-alumni">Student Council and Student Clubs</a></li>

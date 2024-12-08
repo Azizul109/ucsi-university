@@ -43,11 +43,11 @@
                             <div class="col-md-6">
                                 <article class="entry-item clearfix"> <i class="fa fa-user pull-left"></i>
                                     <div class="entry-content">
-                                        <h5>IIS Student/Guardian</h5> IIS (Integrated Information System) is a web-based portal allowing Student access to internal systems and workflows.<br> <br> 
+                                        <h5>IIS Student/Parent's</h5> IIS (Integrated Information System) is a web-based portal allowing Student access to internal systems and workflows.<br> <br> 
                                         <!--<a target="_blank" href="https://iisv2.ucsiuniversity.edu.my/apex/iisv2/r/iis2-student-portal-login" class="kopa-button blue-button small-button kopa-button-icon mb-5">IISv2 STUDENT PORTAL</a><br>-->
-                                        <a target="_blank" href="https://iisv2bd.ucsiuniversity.edu.my/bgd/iisv2bgd/r/iis2-student-portal-login/login?session=332799292372" class="kopa-button red-button small-button kopa-button-icon mb-5">IISV2 STUDENT BANGLADESH</a><br>
+                                        <a target="_blank" href="https://iisv2bd.ucsiuniversity.edu.my/bgd/iisv2bgd/r/iis2-student-portal-login/login?session=332799292372" class="kopa-button red-button small-button kopa-button-icon mb-5">IISV2 STUDENT'S BANGLADESH</a><br>
                                         <!--<a target="_blank" href="https://iisv2.ucsiuniversity.edu.my/apex/iisv2/r/parent/" class="kopa-button blue-button small-button kopa-button-icon mb-5">IISv2 PARENT PORTAL </a><br>-->
-                                        <a target="_blank" href="https://iisv2bd.ucsiuniversity.edu.my/bgd/iisv2bgd/r/parent" class="kopa-button blue-button small-button kopa-button-icon mb-5">IISV2 PARENT BANGLADESH </a>
+                                        <a target="_blank" href="https://iisv2bd.ucsiuniversity.edu.my/bgd/iisv2bgd/r/parent" class="kopa-button blue-button small-button kopa-button-icon mb-5">IISV2 PARENT'S BANGLADESH </a>
                                     </div>
                                 </article>
                             </div>

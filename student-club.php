@@ -104,9 +104,9 @@
                                             </p>
                                         </div>
                                     </div>
-                                    <h2 style="text-align:center;">Gallery</h2>
+                                    <!-- <h2 style="text-align:center;">Gallery</h2>
                                     <div class="row">
-                                    </div>
+                                    </div> -->
                                 </div>
                             </div>
                         </div>
@@ -145,9 +145,9 @@
                                             </p>
                                         </div>
                                     </div>
-                                    <h2 style="text-align:center;">Gallery</h2>
+                                    <!-- <h2 style="text-align:center;">Gallery</h2>
                                     <div class="row">
-                                    </div>
+                                    </div> -->
                                 </div>
                             </div>
                         </div>
@@ -199,6 +199,13 @@
                                     </div>
                                 </div>
                                 <h2 style="text-align:center;">Gallery</h2>
+                                <div class="row">
+                                    <div class="col-md-4">
+                                        <div class="grid-item-gallery" style="text-align:center;">
+                                            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/adventure_club.jpg" alt="Person 3">
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
 
@@ -294,12 +301,14 @@
                                     </div>
                                     <div class="col-md-6">
                                         <p class="text-center">
-                                        Our university Volunteer Club is a student-led organization dedicated to creating a positive impact on the community through service and outreach. The club members aim to participate in diverse activities such as organizing charity events, tutoring underprivileged students, conducting environmental awareness, and supporting local shelters. <br>
-                                        The club fosters teamwork, leadership, and empathy, providing students with opportunities to develop valuable skills while addressing societal challenges. It serves as a platform for like-minded individuals to collaborate on meaningful projects, promote social responsibility, and make a difference both on campus and beyond. Joining the club offers a fulfilling way to contribute to the betterment of society.
+                                            Our university Volunteer Club is a student-led organization dedicated to creating a positive impact on the community through service and outreach. The club members aim to participate in diverse activities such as organizing charity events, tutoring underprivileged students, conducting environmental awareness, and supporting local shelters. <br>
+                                            The club fosters teamwork, leadership, and empathy, providing students with opportunities to develop valuable skills while addressing societal challenges. It serves as a platform for like-minded individuals to collaborate on meaningful projects, promote social responsibility, and make a difference both on campus and beyond. Joining the club offers a fulfilling way to contribute to the betterment of society.
                                         </p>
                                     </div>
                                 </div>
-                                <h2 style="text-align:center;">Gallery</h2>
+                                <!-- <h2 style="text-align:center;">Gallery</h2>
+                                <div class="row">
+                                </div> -->
                             </div>
                         </div>
 
@@ -336,7 +345,9 @@
                                         </p>
                                     </div>
                                 </div>
-                                <h2 style="text-align:center;">Gallery</h2>
+                                <!-- <h2 style="text-align:center;">Gallery</h2>
+                                <div class="row">
+                                </div> -->
                             </div>
                         </div>
 
@@ -481,6 +492,23 @@
                                     </div>
                                 </div>
                                 <h2 style="text-align:center;">Gallery</h2>
+                                <div class="row">
+                                    <div class="col-md-4">
+                                        <div class="grid-item-gallery" style="text-align:center;">
+                                            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/billiard_club_-_1.jpg" alt="Person 3">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <div class="grid-item-gallery" style="text-align:center;">
+                                            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/billiard_club_-_2.jpg" alt="Person 3">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <div class="grid-item-gallery" style="text-align:center;">
+                                            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/billiard_club_-_3.jpg" alt="Person 3">
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
 
@@ -518,6 +546,13 @@
                                     </div>
                                 </div>
                                 <h2 style="text-align:center;">Gallery</h2>
+                                <div class="row">
+                                    <div class="col-md-4">
+                                        <div class="grid-item-gallery" style="text-align:center;">
+                                            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/football_club.jpg" alt="Person 3">
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
 

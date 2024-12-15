@@ -143,6 +143,10 @@
                                         <div class="staff-col">Executive Officer</div>
                                     </li>
                                     <li class="clearfix">
+                                        <div class="staff-col">Ms Nafiza Salsabil Barsha</div>
+                                        <div class="staff-col">Executive Officer</div>
+                                    </li>
+                                    <li class="clearfix">
                                         <div class="staff-col">Mr Md Rashedul Islam</div>
                                         <div class="staff-col">Junior Executive Officer</div>
                                     </li>
@@ -403,6 +407,14 @@
                                     <li class="clearfix">
                                         <div class="staff-col">Ms Dipa Dutta</div>
                                         <div class="staff-col">Executive Officer</div>
+                                    </li>
+                                    <li class="clearfix">
+                                        <div class="staff-col">Mr Azizul Farhaz</div>
+                                        <div class="staff-col">Junior Executive Officer, Sales and Marketing</div>
+                                    </li>
+                                    <li class="clearfix">
+                                        <div class="staff-col">Mr MD Suny Ahamed</div>
+                                        <div class="staff-col">Junior Executive Officer</div>
                                     </li>
                                 </ul>
                             </div>

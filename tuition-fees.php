@@ -476,7 +476,7 @@
             <td>BDT 1,139,000</td>
             <td>USD 9,736</td>
         </tr>
-        <tr>
+        <!-- <tr>
             <th style="text-align: center;" colspan="5">Faculty of Engineering</th>
         </tr>
         <tr>
@@ -492,7 +492,7 @@
             <td>4 years</td>
             <td>BDT 1,350,000</td>
             <td>USD 11,539</td>
-        </tr>          
+        </tr>           -->
     </tbody>
 </table>
 </div>

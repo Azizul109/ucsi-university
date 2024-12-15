@@ -23,7 +23,7 @@
             </div>
             <div class="video-element">
                 <h5 class="iframe-heading">Message from Provost</h5>
-                <iframe style="border: 2px solid rgb(184, 12, 12);" width="530" height="299" src="https://www.youtube.com/embed/tE5Kq9vyn60?si=7SeqxZKLapuomGoN" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe style="border: 2px solid rgb(184, 12, 12);" width="530" height="299" src="https://www.youtube.com/embed/sFrSzD0Kc_U?si=5s3JTDid3kBBXU6Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
         </div>
 

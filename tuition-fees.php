@@ -259,7 +259,7 @@
 <table>
     <tbody>
         <tr>
-            <th style="text-align: center;" colspan="5">Faculty of Business and Management</th>
+            <th style="text-align: center;" colspan="5">School of Graduate Studies</th>
         </tr>
         <tr>
             <th class="specific-header">Programmes</th>
@@ -281,6 +281,23 @@
             <td>2 years</td>
             <td>BDT 389,000</td>
             <td>USD 3,325</td>
+        </tr>
+        <tr>
+            <td>Master in International Hospitality Management</td>
+            <td>40</td>
+            <td>2 years</td>
+            <td>BDT 429,000</td>
+            <td>USD 3,667</td>
+        </tr> 
+        <tr>
+            <th style="text-align: center;" colspan="5">Faculty of Business and Management</th>
+        </tr>
+        <tr>
+            <th class="specific-header">Programmes</th>
+            <th class="specific-header">Credit</th>
+            <th class="specific-header">Duration</th>
+            <th class="specific-header-fees-local">Fees (Local)</th>
+            <th class="specific-header-fees-local">Fees <br>(International)</th>
         </tr>
         <tr>
             <td>Bachelor of Financial Economics (Hons)</td>
@@ -361,14 +378,7 @@
             <th class="specific-header">Duration</th>
             <th class="specific-header" style="padding-left: 2px; padding-right: 2px;">Fees (Local)</th>
             <th class="specific-header">Fees <br>(International)</th>
-        </tr>
-        <tr>
-            <td>Master in International Hospitality Management</td>
-            <td>40</td>
-            <td>2 years</td>
-            <td>BDT 429,000</td>
-            <td>USD 3,667</td>
-        </tr>                     
+        </tr>             
         <tr>
             <td>Bachelor of Hospitality Administration</td>
             <td>122</td>

@@ -39,16 +39,6 @@
                         </li>
                     </span>
                 </div>
-                <div class="views-field views-field-title">
-                    <span class="field-content">
-                        <li class="clearfix">
-                            <div class="name-col">
-                                <a href="https://www.bangladesh.ucsiuniversity.edu.my/programmes/master-science-technopreneurship">Master of Science in Technopreneurship</a>
-                            </div>
-                            <div class="date-col">January, May and September</div>
-                        </li>
-                    </span>
-                </div>
             </ul>
         </div>
     </div>
@@ -103,16 +93,6 @@
                         <li class="clearfix">
                             <div class="name-col">
                                 <a href="https://www.bangladesh.ucsiuniversity.edu.my/programmes/master-international-hospitality-management-1">Master in International Hospitality Management</a>
-                            </div>
-                            <div class="date-col">January, May and September</div>
-                        </li>
-                    </span>
-                </div>
-                <div class="views-field views-field-title">
-                    <span class="field-content">
-                        <li class="clearfix">
-                            <div class="name-col">
-                                <a href="https://www.bangladesh.ucsiuniversity.edu.my/programmes/master-science-technopreneurship-1">Master of Science in Technopreneurship</a>
                             </div>
                             <div class="date-col">January, May and September</div>
                         </li>

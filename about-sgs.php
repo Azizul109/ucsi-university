@@ -25,6 +25,7 @@
             </div>
         </div>
         <div class="panel-separator"></div>
+
         <div class="contextual-links-region panel-pane pane-block pane-bean-usp-fobis">
             <div class="entity entity-bean bean-custom-content clearfix" about="/block/usp-fobis">
                 <div class="content">
@@ -71,5 +72,8 @@
                 </div>
             </div>
         </div>
+
+        <iframe style="margin-top: 20px;" width="560" height="315" src="https://www.youtube.com/embed/QSG8On3U3ew?si=FZ9bAC-1ccjIODV2" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
     </div>
 </div>

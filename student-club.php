@@ -552,6 +552,11 @@
                                             <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/football_club.jpg" alt="Person 3">
                                         </div>
                                     </div>
+                                    <div class="col-md-4">
+                                        <div class="grid-item-gallery" style="text-align:center;">
+                                            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/thumbnail.jpg" alt="Person 3">
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>

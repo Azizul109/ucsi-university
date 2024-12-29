@@ -42,10 +42,6 @@
                                         <div class="staff-col">Ms Ummay Habiba</div>
                                         <div class="staff-col">Executive Officer - Administrative and HR Coordinator</div>
                                     </li>
-                                    <li class="clearfix">
-                                        <div class="staff-col">Ms Fahrin Saif</div>
-                                        <div class="staff-col">Executive Officer</div>
-                                    </li>
                                 </ul>
                             </div>
                         </div><!-- kopa-course-list-table -->
@@ -305,7 +301,7 @@
                                         <div class="staff-col">Executive Officer (Events & SAA)</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Mr Bikash Chandra Das</div>
+                                        <div class="staff-col">Sergeant Bikash Chandra Das (Retd)</div>
                                         <div class="staff-col">Assistant to the Director, Corporate Affairs Department</div>
                                     </li>
                                 </ul>

@@ -133,6 +133,7 @@
                 <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/announcement">Notices & Announcements</a></li>
                 <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/privacy-policy">Privacy Policy</a></li>
                 <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/about-us/other-informations?display=tu">Other Informations</a></li>
+                <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/partners">Partners</a></li>
             </ul>
         </div>
         <div id="accordion" role="tablist" aria-multiselectable="true" class="widget hidden-sm-up">

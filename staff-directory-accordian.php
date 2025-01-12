@@ -285,8 +285,8 @@
                                         <div class="staff-col">Director</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Mr Md Rafid Sobhan</div>
-                                        <div class="staff-col">Senior Event & Digital Content Executive</div>
+                                        <div class="staff-col">Mr Rafid Sobhan</div>
+                                        <div class="staff-col">Digital Content Executive</div>
                                     </li>
                                     <li class="clearfix">
                                         <div class="staff-col">Mr Khokan Hossain</div>
@@ -298,11 +298,11 @@
                                     </li>
                                     <li class="clearfix">
                                         <div class="staff-col">Ms Madhurja Mahrab Rumalee</div>
-                                        <div class="staff-col">Executive Officer (Events & SAA)</div>
+                                        <div class="staff-col">SAA Executive Officer & Coordinator to Director, CAD</div>
                                     </li>
                                     <li class="clearfix">
                                         <div class="staff-col">Sergeant Bikash Chandra Das (Retd)</div>
-                                        <div class="staff-col">Assistant to the Director, Corporate Affairs Department</div>
+                                        <div class="staff-col">Junior Executive Officer (Office and Store)</div>
                                     </li>
                                 </ul>
                             </div>
@@ -814,6 +814,10 @@
                                         <div class="staff-col">Adjunct Professor</div>
                                     </li>
                                     <li class="clearfix">
+                                        <div class="staff-col">Mr Md Mahmud Wahid</div>
+                                        <div class="staff-col">Assistant Professor</div>
+                                    </li>
+                                    <li class="clearfix">
                                         <div class="staff-col">Ms Maisha Karim</div>
                                         <div class="staff-col">Lecturer</div>
                                     </li>
@@ -891,7 +895,7 @@
             </div>
         </div>
 
-        <div class="panel panel-default">
+        <!-- <div class="panel panel-default">
             <div class="panel-heading">
                 <h4 class="panel-title">
                     <a data-toggle="collapse" data-parent="#accordion" href="#collapse311" class="collapsed" aria-expanded="false">
@@ -902,15 +906,12 @@
             </div>
             <div id="collapse311" class="panel-collapse collapse" aria-expanded="false" style="height: 0px;">
                 <div class="panel-body">
-                    <!-- staff table -->
                     <div class="widget kopa-course-list-3-widget">
                         <div class="kopa-course-list-table">
                             <div class="table-header clearfix">
                                 <div class="staff-col">Staff</div>
                                 <div class="staff-col">Designation</div>
                             </div>
-                            <!-- table-header -->
-                            <!-- widget-title -->
                             <div class="widget-content">
                                 <ul class="table-list staff">
                                     <li class="clearfix">
@@ -945,13 +946,17 @@
                                         <div class="staff-col">Mr Muhammad Sohel Ahmed</div>
                                         <div class="staff-col">Adjunct Lecturer</div>
                                     </li>
+                                    <li class="clearfix">
+                                        <div class="staff-col">Mr Aquib Haque</div>
+                                        <div class="staff-col">Junior Lecturer</div>
+                                    </li>
                                 </ul>
                             </div>
-                        </div><!-- kopa-course-list-table -->
-                    </div><!-- kopa-course-list-3-widget -->
+                        </div>
+                    </div>
                 </div>
             </div>
-        </div>
+        </div> -->
 
         <div class="panel panel-default">
             <div class="panel-heading">
@@ -1028,7 +1033,7 @@
                 <h4 class="panel-title">
                     <a data-toggle="collapse" data-parent="#accordion" href="#collapse313" class="collapsed" aria-expanded="false">
                         <span class="btn-title"></span>
-                        <span class="tab-title">Members of Faculty of Creative Arts, Design and Architecture</span>
+                        <span class="tab-title">Members of Faculty of Creative Arts and Design</span>
                     </a>
                 </h4>
             </div>
@@ -1068,6 +1073,10 @@
                                     <li class="clearfix">
                                         <div class="staff-col">Mr Noor Azizi Mohd. Ali, PhD</div>
                                         <div class="staff-col">Affiliate Lecturer</div>
+                                    </li>
+                                    <li class="clearfix">
+                                        <div class="staff-col">Ms Fabiha Tanjim</div>
+                                        <div class="staff-col">Lecturer</div>
                                     </li>
                                     <li class="clearfix">
                                         <div class="staff-col">Ms Tasneem Mostofa</div>

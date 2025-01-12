@@ -110,6 +110,22 @@
                 <li>
                     <article class="entry-item row clearfix">
                         <div class="col-md-3 col-sm-3 col-xs-12"> <img typeof="foaf:Image"
+                                src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/styles/media_thumbnail/public/mahmud_wahid.jpg?itok=u7O6vAdw"
+                                width="117" height="124" alt="Mr Mahmud Wahid"></div>
+                        <div class="entry-content col-md-9 col-sm-9 col-xs-12">
+                            <header>
+                                <h2 class="entry-title" style="padding-bottom:3px"><a href="/mr-mahmud-wahid">Mr Mahmud Wahid</a></h2>
+                                <div class="designation-box">Assistant Professor</div>
+                            </header>
+                        </div>
+                    </article>
+                </li>
+                <hr>
+            </span>
+            <span class="field-content">
+                <li>
+                    <article class="entry-item row clearfix">
+                        <div class="col-md-3 col-sm-3 col-xs-12"> <img typeof="foaf:Image"
                                 src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/styles/facultylistnew/public/img_0782_0.jpg?itok=G4LOAamI"
                                 width="117" height="124" alt="Maisha Karim"></div>
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">

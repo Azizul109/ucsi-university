@@ -45,9 +45,9 @@
                                                 <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/about-us/school-of-graduate-studies"> School of Graduate Studies </a></li>
                                                 <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/about-us/faculty-of-business-and-management"> Faculty of Business And Management </a></li>
                                                 <!-- <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/about-us/faculty-of-engineering"> Faculty of Engineering </a></li> -->
-                                                <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/about-us/faculty-of-hospitality-and-tourism-management"> Faculty of Hospitality &amp; Tourism Management </a></li>
+                                                <!-- <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/about-us/faculty-of-hospitality-and-tourism-management"> Faculty of Hospitality &amp; Tourism Management </a></li> -->
                                                 <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/about-us/faculty-of-social-sciences-and-liberal-arts"> Faculty of Social Sciences &amp; Liberal Arts </a></li>
-                                                <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/about-us/faculty-of-creative-arts-design-and-architecture"> Faculty of Creative Arts, Design And Architecture </a></li>
+                                                <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/about-us/faculty-of-creative-arts-design-and-architecture"> Faculty of Creative Arts And Design </a></li>
                                                 <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/about-us/faculty-of-computer-science-and-digital-innovation"> Faculty of Computer Science And Digital Innovation </a></li>
                                             </ul>
                                         </li>
@@ -95,8 +95,9 @@
                                 <li class=""> <a href="#" class="sf-with-ul"> Publicity </a>
                                     <ul style="display: none;">
                                         <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/featured-in-news/all/all"> Press &amp; Publicity </a></li>
-                                        <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/photo-gallery/all/all"> Photo Gallery </a></li>
+                                        <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/photo-gallery/all/all"> Photo Gallery</a></li>
                                         <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/video-gallery"> Video Gallery </a></li>
+                                        <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/ucsi-bangladesh-horizon"> UCSI Horizon </a></li>
                                         <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/announcement"> Notices &amp; Announcements </a></li>
                                     </ul>
                                 </li>

@@ -282,13 +282,13 @@
             <td>BDT 389,000</td>
             <td>USD 3,325</td>
         </tr>
-        <tr>
+        <!-- <tr>
             <td>Master in International Hospitality Management</td>
             <td>40</td>
             <td>2 years</td>
             <td>BDT 429,000</td>
             <td>USD 3,667</td>
-        </tr> 
+        </tr>  -->
         <tr>
             <th style="text-align: center;" colspan="5">Faculty of Business and Management</th>
         </tr>
@@ -369,7 +369,7 @@
             <td>BDT 1,132,000</td>
             <td>USD 9,676</td>
         </tr>
-        <tr>
+        <!-- <tr>
             <th style="text-align: center;" colspan="5">Faculty Of Hospitality & Tourism Management</th>
         </tr>
         <tr>
@@ -385,7 +385,7 @@
             <td>4 years</td>
             <td>BDT 1,259,000</td>
             <td>USD 10,761</td>
-        </tr>
+        </tr> -->
         <tr>
             <th style="text-align: center;" colspan="5">Faculty of Computer Science & Digital Innovation</th>
         </tr>
@@ -418,7 +418,7 @@
             <td>USD 10,129</td>
         </tr> 
         <tr>
-            <th style="text-align: center;" colspan="5">Faculty of Creative Arts, Design and Architecture</th>
+            <th style="text-align: center;" colspan="5">Faculty of Creative Arts and Design</th>
         </tr>
         <tr>
             <th class="specific-header">Programmes</th>
@@ -459,26 +459,26 @@
             <th class="specific-header">Fees <br>(International)</th>
         </tr>
         <tr>
-            <td>BA (Hons) Mass Communication (Marketing)</td>
+            <td>BA (Hons) Mass Communication</td>
             <td>120</td>
             <td>4 years</td>
             <td>BDT 1,125,000</td>
             <td>USD 9,616</td>
         </tr>        
-        <tr>
+        <!-- <tr>
             <td>BA (Hons) Mass Communication (Film & Television)</td>
             <td>120</td>
             <td>4 years</td>
             <td>BDT 1,125,000</td>
             <td>USD 9,616</td>
-        </tr>     
-        <tr>
+        </tr>      -->
+        <!-- <tr>
             <td>BA (Hons) Mass Communication (Journalism)</td>
             <td>120</td>
             <td>4 years</td>
             <td>BDT 1,125,000</td>
             <td>USD 9,616</td>
-        </tr>        
+        </tr>         -->
         <tr>
             <td>BA (Hons) Psychology</td>
             <td>122</td>

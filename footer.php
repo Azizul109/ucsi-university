@@ -130,6 +130,8 @@
                 <!-- <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/events/2023">Events</a></li> -->
                 <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/photo-gallery/all/all">Photo Gallery</a></li>
                 <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/Video-Gallery">Video Gallery</a></li>
+                <li><a href="https://ucsiradio.ucsiuniversity.edu.my/">UCSI Radio (Live)</a></li>
+                <li><a href="https://ucsiradio.ucsiuniversity.edu.my/podcast/" target="_blank">UCSI Radio (Podcast)</a></li>
                 <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/announcement">Notices & Announcements</a></li>
                 <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/privacy-policy">Privacy Policy</a></li>
                 <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/about-us/other-informations?display=tu">Other Informations</a></li>

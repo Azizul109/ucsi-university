@@ -10,8 +10,8 @@
 
         <div class="video-grid">
             <div class="video-element">
-                <h5 class="iframe-heading">Message from Deputy Vice-Chancellor</h5>
-                <iframe style="border: 2px solid rgb(184, 12, 12);" width="530" height="299" src="https://www.youtube.com/embed/XPMs6QPaCak?si=YYrHZ-NuNuTHAiF1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <h5 class="iframe-heading">Welcome Message from Deputy Vice-Chancellor</h5>
+                <iframe style="border: 2px solid rgb(184, 12, 12);" width="530" height="299" src="https://www.youtube.com/embed/PwY1gWC3rjU?si=2cMn-YJAQCu9bOfr" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
             <div class="video-element">
                 <h5 class="iframe-heading">Prime Location, Premier Education</h5>

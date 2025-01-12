@@ -1,5 +1,32 @@
 <div class="kopa-accordion">
-
+    <div class="field field-name-field-custom-information field-type-text-with-summary field-label-hidden">
+        <div class="field-items">
+            <div class="field-item even">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="widget kopa-owl-5-widget">
+                            <div class="widget-title widget-title-custom text-center"> <span></span>
+                                <h2>The 2025 Annual Election and Registration is here</h2>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-12 text-center">
+                        <p><img class="img-fluid" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/saa-election.jpeg" alt="Student Photo"></p>
+                        <p class="pt-10">
+                            Please sign up for general membership of the clubs and for leadership. To old members, the club term is renewed, hence you still need to register newly if you have been a member in the past term.
+                            <br>
+                            <a href="https://forms.office.com/r/JqiFxJCwer" target="_blank"><u>Sign Up Here</u></a>
+                            <br>
+                            <b>Please sign up and secure your ELE points.</b>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <br>
+    <br>
+    <br>
     <div class="col-md-4 col-sm-4 col-xs-12">
         <article class="entry-item">
             <div>
@@ -90,9 +117,9 @@
                                                 </div>
                                             </div>
                                             <div class="grid-item" style="text-align:center;">
-                                                <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/tasmary_ahsan_tanjila.jpg" alt="Person 3" style="max-width: 60%;">
+                                                <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/no-image.jpg" alt="Person 3" style="max-width: 60%;">
                                                 <div style="text-align: center;">
-                                                    <p><strong>Tasmary Ahsan Tanjila</strong></p>
+                                                    <p><strong>To be elected</strong></p>
                                                     <p>President</p>
                                                 </div>
                                             </div>
@@ -131,9 +158,9 @@
                                                 </div>
                                             </div>
                                             <div class="grid-item" style="text-align:center;">
-                                                <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/chowdhury_umme_honny.png" alt="Person 3" style="max-width: 60%;">
+                                                <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/no-image.jpg" alt="Person 3" style="max-width: 60%;">
                                                 <div style="text-align: center;">
-                                                    <p><strong>Chowdhury Umme Honny</strong></p>
+                                                    <p><strong>To be elected</strong></p>
                                                     <p>President</p>
                                                 </div>
                                             </div>
@@ -142,6 +169,129 @@
                                             <p class="text-center"> <!-- Center-align the text on mobile -->
                                                 The University IT Club immerses students in the dynamic world of technology, offering a platform to explore, innovate, and collaborate. Through workshops, and coding challenges, members enhance their technical skills and enrich their understanding of emerging technologies. <br>
                                                 They engage in projects ranging from software development to cybersecurity, applying theoretical knowledge to practical applications. The club fosters a vibrant community where members share insights, troubleshoot problems, and inspire each other to push boundaries. Moreover, the club promotes digital literacy and awareness, empowering members to navigate the ever-evolving tech landscape.
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <!-- <h2 style="text-align:center;">Gallery</h2>
+                                    <div class="row">
+                                    </div> -->
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="panel panel-default">
+                            <div class="panel-heading" style="background: #a7acbb;">
+                                <h4 class="panel-title">
+                                    <a data-toggle="collapse" href="#collapseFifteen1" class="payment collapsed" data-parent="#collapseOne1">
+                                        <span class="btn-title"></span> <span class="tab-title">Entrepreneurship Club</span>
+                                    </a>
+                                </h4>
+                            </div>
+                            <div id="collapseFifteen1" class="panel-collapse collapse">
+                                <div class="panel-body">
+                                    <div class="row">
+                                        <div class="col-md-6">
+                                            <div class="grid-item" style="text-align:center;">
+                                                <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/md._ejharul_haque.jpg" alt="Person 3" style="max-width: 60%;">
+                                                <div style="text-align: center;">
+                                                    <p><strong>Mr Md. Ejharul Haque</strong></p>
+                                                    <p>Advisor</p>
+                                                </div>
+                                            </div>
+                                            <div class="grid-item" style="text-align:center;">
+                                                <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/no-image.jpg" alt="Person 3" style="max-width: 60%;">
+                                                <div style="text-align: center;">
+                                                    <p><strong>To be elected</strong></p>
+                                                    <p>President</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <p class="text-center"> <!-- Center-align the text on mobile -->
+                                                The UCSI University Entrepreneurship Club is a dynamic student-led group that fosters creativity, leadership, and entrepreneurial abilities in its members. The club allows prospective entrepreneurs to discover their full potential, develop innovative ideas into actionable plans, and get practical business knowledge. Members learn important skills in company strategy, marketing, financial management, and problem-solving through a range of activities such as workshops, pitch competitions, and networking events. <br>
+                                                The Entrepreneurship Club not only encourages an entrepreneurial spirit, but also develops a supportive community in which cooperation and innovation thrive. Students are encouraged to think beyond the box and embrace problems through various activities such as startup competitions, brainstorming sessions, and leadership roles.
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <!-- <h2 style="text-align:center;">Gallery</h2>
+                                    <div class="row">
+                                    </div> -->
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="panel panel-default">
+                            <div class="panel-heading" style="background: #a7acbb;">
+                                <h4 class="panel-title">
+                                    <a data-toggle="collapse" href="#collapseSixteen1" class="payment collapsed" data-parent="#collapseOne1">
+                                        <span class="btn-title"></span> <span class="tab-title">Mass communication club</span>
+                                    </a>
+                                </h4>
+                            </div>
+                            <div id="collapseSixteen1" class="panel-collapse collapse">
+                                <div class="panel-body">
+                                    <div class="row">
+                                        <div class="col-md-6">
+                                            <div class="grid-item" style="text-align:center;">
+                                                <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/mashiat_noor_prapti.jpg" alt="Person 3" style="max-width: 60%;">
+                                                <div style="text-align: center;">
+                                                    <p><strong>Mashiat Nur Prapti</strong></p>
+                                                    <p>Advisor</p>
+                                                </div>
+                                            </div>
+                                            <div class="grid-item" style="text-align:center;">
+                                                <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/no-image.jpg" alt="Person 3" style="max-width: 60%;">
+                                                <div style="text-align: center;">
+                                                    <p><strong>To be elected</strong></p>
+                                                    <p>President</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <p class="text-center"> <!-- Center-align the text on mobile -->
+                                                The UCSI University Mass Communication Club is a thriving community for students interested in media, communication, and creative expression. The club's goal is to help members get a better grasp of the ever-changing communication landscape while also developing practical skills in public relations, journalism, advertising, and digital media. Through engaging events such as workshops, seminars, and media production projects, the club promotes creativity, teamwork, and leadership among its members. <br>
+                                                It also arranges film screenings, panel discussions with industry experts, and campaigns to promote meaningful narrative and successful communication. The UCSI Mass Communication Club is an excellent place to practice your talents and network with like-minded individuals, whether you're creating captivating content, understanding media dynamics, or perfecting public speaking.
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <!-- <h2 style="text-align:center;">Gallery</h2>
+                                    <div class="row">
+                                    </div> -->
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="panel panel-default">
+                            <div class="panel-heading" style="background: #a7acbb;">
+                                <h4 class="panel-title">
+                                    <a data-toggle="collapse" href="#collapseSeventeen1" class="payment collapsed" data-parent="#collapseOne1">
+                                        <span class="btn-title"></span> <span class="tab-title">Creative Writing Club</span>
+                                    </a>
+                                </h4>
+                            </div>
+                            <div id="collapseSeventeen1" class="panel-collapse collapse">
+                                <div class="panel-body">
+                                    <div class="row">
+                                        <div class="col-md-6">
+                                            <div class="grid-item" style="text-align:center;">
+                                                <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/mashiat_noor_prapti.jpg" alt="Person 3" style="max-width: 60%;">
+                                                <div style="text-align: center;">
+                                                    <p><strong>Mashiat Nur Prapti</strong></p>
+                                                    <p>Advisor</p>
+                                                </div>
+                                            </div>
+                                            <div class="grid-item" style="text-align:center;">
+                                                <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/no-image.jpg" alt="Person 3" style="max-width: 60%;">
+                                                <div style="text-align: center;">
+                                                    <p><strong>To be elected</strong></p>
+                                                    <p>President</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <p class="text-center"> <!-- Center-align the text on mobile -->
+                                                The UCSI University Creative Writing Club is a refuge for students who love storytelling and expressing themselves through words. The group, which is dedicated to developing creativity, provides a welcoming environment for writers of all skill levels to experiment with various genres of writing, such as poetry, short stories, screenplays, and more. <br>
+                                                Members can improve their skills, establish distinct voices, and receive constructive feedback through interactive workshops, writing challenges, and critique sessions. The club also conducts events like open mic nights, writing competitions, and author presentations, which encourage members to think creatively and broaden their literary horizons. The Creative Writing Club fosters a vibrant community of like-minded individuals, encouraging cooperation, idea sharing, and mutual improvement.
                                             </p>
                                         </div>
                                     </div>
@@ -184,9 +334,9 @@
                                             </div>
                                         </div>
                                         <div class="grid-item" style="text-align:center;">
-                                            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/shoshi_hossain.jpg" alt="Person 3" style="max-width: 60%;">
+                                            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/no-image.jpg" alt="Person 3" style="max-width: 60%;">
                                             <div style="text-align: center;">
-                                                <p><strong>Shoshi Hossain</strong></p>
+                                                <p><strong>To be elected</strong></p>
                                                 <p>President</p>
                                             </div>
                                         </div>
@@ -221,16 +371,16 @@
                                 <div class="row" style="margin-top: 10px;">
                                     <div class="col-md-6">
                                         <div class="grid-item" style="text-align:center;">
-                                            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/mashiat_noor_prapti.jpg" alt="Person 3" style="max-width: 60%;">
+                                            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/fabiha_tanjim.jpg" alt="Person 3" style="max-width: 60%;">
                                             <div style="text-align: center;">
-                                                <p><strong>Ms Mashiat Noor Prapti</strong></p>
+                                                <p><strong>Ms Fabiha Tanjim</strong></p>
                                                 <p>Advisor</p>
                                             </div>
                                         </div>
                                         <div class="grid-item" style="text-align:center;">
-                                            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/ishmum_nawar_breehi.jpg" alt="Person 3" style="max-width: 60%;">
+                                            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/no-image.jpg" alt="Person 3" style="max-width: 60%;">
                                             <div style="text-align: center;">
-                                                <p><strong>Ishmum Nawar Breehi</strong></p>
+                                                <p><strong>To be elected</strong></p>
                                                 <p>President</p>
                                             </div>
                                         </div>
@@ -306,9 +456,29 @@
                                         </p>
                                     </div>
                                 </div>
-                                <!-- <h2 style="text-align:center;">Gallery</h2>
+                                <h2 style="text-align:center;">Gallery</h2>
                                 <div class="row">
-                                </div> -->
+                                    <div class="col-md-4">
+                                        <div class="grid-item-gallery" style="text-align:center;">
+                                            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/volunteer-1.jpg" alt="Person 3">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <div class="grid-item-gallery" style="text-align:center;">
+                                            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/volunteer-2.jpg" alt="Person 3">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <div class="grid-item-gallery" style="text-align:center;">
+                                            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/volunteer-3.jpg" alt="Person 3">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <div class="grid-item-gallery" style="text-align:center;">
+                                            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/volunteer-4.jpg" alt="Person 3">
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
 
@@ -331,9 +501,9 @@
                                             </div>
                                         </div>
                                         <div class="grid-item" style="text-align:center;">
-                                            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/alvi_zahin.png" alt="Person 3" style="max-width: 60%;">
+                                            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/no-image.jpg" alt="Person 3" style="max-width: 60%;">
                                             <div style="text-align: center;">
-                                                <p><strong>Alvi Zahin</strong></p>
+                                                <p><strong>To be elected</strong></p>
                                                 <p>President</p>
                                             </div>
                                         </div>
@@ -365,14 +535,14 @@
                                         <div class="grid-item" style="text-align:center;">
                                             <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/md._ejharul_haque.jpg" alt="Person 3" style="max-width: 60%;">
                                             <div style="text-align: center;">
-                                                <p><strong>Mr Md. Ejharul Haque</strong></p>
+                                                <p><strong>Mr Aquib Haque</strong></p>
                                                 <p>Advisor</p>
                                             </div>
                                         </div>
                                         <div class="grid-item" style="text-align:center;">
-                                            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/abid_al_shahriar_beg.jpg" alt="Person 3" style="max-width: 60%;">
+                                            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/no-image.jpg" alt="Person 3" style="max-width: 60%;">
                                             <div style="text-align: center;">
-                                                <p><strong>Abid Al Shahriar</strong></p>
+                                                <p><strong>To be elected</strong></p>
                                                 <p>President</p>
                                             </div>
                                         </div>

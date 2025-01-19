@@ -147,6 +147,23 @@
                 <li>
                     <article class="entry-item row clearfix">
                         <div class="col-md-3 col-sm-3 col-xs-12"> <img typeof="foaf:Image"
+                                src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/styles/facultylistnew/public/kazi_shamsul_amin-new.jpeg?itok=bNA15iVL"
+                                width="117" height="124" alt="Mr Kazi Shamsul Amin"></div>
+                        <div class="entry-content col-md-9 col-sm-9 col-xs-12">
+                            <header>
+                                <h2 class="entry-title" style="padding-bottom:3px"><a href="/mr-kazi-shamsul-amin">
+                                        Mr Kazi Shamsul Amin</a></h2>
+                                <div class="designation-box">Adjunct Faculty</div>
+                            </header>
+                        </div>
+                    </article>
+                </li>
+                <hr>
+            </span> 
+            <span class="field-content">
+                <li>
+                    <article class="entry-item row clearfix">
+                        <div class="col-md-3 col-sm-3 col-xs-12"> <img typeof="foaf:Image"
                                 src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/styles/facultylistnew/public/fabiha-tanjim_1.jpg?itok=-he11Ook"
                                 width="117" height="124" alt="Ms Fabiha Tanjim"></div>
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">

@@ -480,6 +480,10 @@
                                         <div class="staff-col">Ms Marina Tanzin Mili</div>
                                         <div class="staff-col">Junior Executive Officer</div>
                                     </li>
+                                    <li class="clearfix">
+                                        <div class="staff-col">Ms Mst. Tasniya Afrin</div>
+                                        <div class="staff-col">Junior Executive Officer, Library</div>
+                                    </li>
                                 </ul>
                             </div>
                         </div><!-- kopa-course-list-table -->
@@ -814,6 +818,10 @@
                                         <div class="staff-col">Adjunct Professor</div>
                                     </li>
                                     <li class="clearfix">
+                                        <div class="staff-col">Major General Md. Mahbubur Rashid</div>
+                                        <div class="staff-col">Adjunct Faculty</div>
+                                    </li>
+                                    <li class="clearfix">
                                         <div class="staff-col">Mr Md Mahmud Wahid</div>
                                         <div class="staff-col">Assistant Professor</div>
                                     </li>
@@ -1073,6 +1081,10 @@
                                     <li class="clearfix">
                                         <div class="staff-col">Mr Noor Azizi Mohd. Ali, PhD</div>
                                         <div class="staff-col">Affiliate Lecturer</div>
+                                    </li>
+                                    <li class="clearfix">
+                                        <div class="staff-col">Mr Kazi Shamsul Amin</div>
+                                        <div class="staff-col">Adjunct Faculty</div>
                                     </li>
                                     <li class="clearfix">
                                         <div class="staff-col">Ms Fabiha Tanjim</div>

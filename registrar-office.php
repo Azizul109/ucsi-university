@@ -22,7 +22,7 @@
 
         <div class="second-row">
 
-            <div class="grid-item">
+            <!--<div class="grid-item">
                 <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/coe.jpg" alt="Person 2">
                 <div
                     style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin-top: 18px; line-height: 10px;">
@@ -30,7 +30,7 @@
                     <p>Controller of Examinations</p>
                     <p style="color: #bf0007; font-size: small;">KMMahmud@ucsiuniversity.edu.my</p>
                 </div>
-            </div>
+            </div>-->
 
             <div class="grid-item">
                 <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/mohd-faisal-bin-isa-res.png"
@@ -42,25 +42,25 @@
                     <p style="color: #bf0007; font-size: small;">faisal@ucsiuniversity.edu.my</p>
                 </div>
             </div>
-            
+
+            <div class="grid-item">
+                <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/mr_syed_shariful_haque.png"
+                    alt="Person 5">
+                <div
+                    style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin-top: 18px; line-height: 10px;">
+                    <p><strong>Mr Syed Shariful Haque</strong></p>
+                    <p>IT Administrator</p>
+                    <p>(Head of IT)</p>
+                    <p style="color: #bf0007; font-size: small;">SyedShariful@ucsiuniversity.edu.my</p>
+                </div>
+            </div>
+
         </div>
     </div>
     <div class="mid-level">
 
     </div>
     <div class="grid-container">
-        <div class="grid-item">
-            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/syed_shariful_haque.png"
-                alt="Person 5">
-            <div
-                style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin-top: 18px; line-height: 10px;">
-                <p><strong>Mr Syed Shariful Haque</strong></p>
-                <p>IT Administrator</p>
-                <p>(Head of IT)</p>
-                <p style="color: #bf0007; font-size: small;">SyedShariful@ucsiuniversity.edu.my</p>
-            </div>
-        </div>
-
         <div class="grid-item">
             <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/mr_nikhil_w.jpg" alt="Person 5">
             <div
@@ -96,36 +96,45 @@
         </div>
 
         <div class="grid-item">
-            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/mahejabin-alam-ratio-res-register2.jpg"
+            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/tasfia_ibnat_tushi_2_0.jpg"
                 alt="Person 3">
             <div
                 style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin-top: 18px; line-height: 10px;">
-                <p><strong>Ms Mehejabin Alam</strong></p>
+                <p><strong>Ms Tasfia Ibnat Tushi</strong></p>
                 <p>Executive Officer</p>
-                <p>(AMO Coordinator)</p>
-                <p style="color: #bf0007; font-size: small;">mehejabin.alam@ucsiuniversity.edu.my</p>
+                <p style="color: #bf0007; font-size: small;">Tasfia.Ibnat@ucsiuniversity.edu.my</p>
             </div>
         </div>
 
         <div class="grid-item">
             <img style="height:156px;"
-                src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/ms-wamia.jpg" alt="Person 3">
+                src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/afrid_sarwar_khan.jpg" alt="Person 3">
             <div
                 style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin-top: 18px; line-height: 10px;">
-                <p><strong>Wamia Ahanaf Haider</strong></p>
+                <p><strong>Mr Afrid Sarwar Khan</strong></p>
                 <p>Junior Executive Officer</p>
-                <p>(Student Affairs and Alumni)</p>
-                <p style="color: #bf0007; font-size: small;">WamiaAhanaf@ucsiuniversity.edu.my</p>
+                <p>(AMO Coordinator)</p>
+                <p style="color: #bf0007; font-size: small;">afrid.sarwar@ucsiuniversity.edu.my</p>
             </div>
         </div>
 
         <div class="grid-item">
-            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/ms-mili.png" alt="Person 3">
+            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/ms-mili-new_1.png" alt="Person 3">
             <div
                 style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin-top: 18px; line-height: 10px;">
                 <p><strong>Marina Tanzin Mili</strong></p>
                 <p>Junior Executive Officer</p>
                 <p style="color: #bf0007; font-size: small;">MarinaTanzin@ucsiuniversity.edu.my</p>
+            </div>
+        </div>
+
+        <div class="grid-item">
+            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/mst._tasniya_afrin-resize.jpg" alt="Person 3">
+            <div
+                style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin-top: 18px; line-height: 10px;">
+                <p><strong>Ms Mst. Tasniya Afrin</strong></p>
+                <p>Junior Executive Officer, Library</p>
+                <p style="color: #bf0007; font-size: small;">tasniya.afrin@ucsiuniversity.edu.my</p>
             </div>
         </div>
         <!-- Add more grid items as needed -->

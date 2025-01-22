@@ -10,8 +10,8 @@
 
         <div class="video-grid">
             <div class="video-element">
-                <h5 class="iframe-heading">Welcome Message from Deputy Vice-Chancellor</h5>
-                <iframe style="border: 2px solid rgb(184, 12, 12);" width="530" height="299" src="https://www.youtube.com/embed/PwY1gWC3rjU?si=2cMn-YJAQCu9bOfr" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <h5 class="iframe-heading">Message from Deputy Vice-Chancellor</h5>
+                <iframe style="border: 2px solid rgb(184, 12, 12);" width="530" height="299" src="https://www.youtube.com/embed/XPMs6QPaCak?si=7LqTLEoCDw-ht3c0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
             <div class="video-element">
                 <h5 class="iframe-heading">Prime Location, Premier Education</h5>
@@ -22,8 +22,8 @@
                 <iframe style="border: 2px solid rgb(184, 12, 12);" width="530" height="299" src="https://www.youtube.com/embed/pR8hHIP6rvA?si=9TJHZbODpvZQbnNb" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
             <div class="video-element">
-                <h5 class="iframe-heading">New Year Message from Provost</h5>
-                <iframe style="border: 2px solid rgb(184, 12, 12);" width="530" height="299" src="https://www.youtube.com/embed/VkR0ZAwtKgo?si=5Ebf8Ce_cD-kvMGB" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <h5 class="iframe-heading">Remembering 1-year journey of our university</h5>
+                <iframe style="border: 2px solid rgb(184, 12, 12);" width="530" height="299" src="https://www.youtube.com/embed/y6F1txZyW0A?si=74ItX9AFA6C-Ui5T" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
         </div>
 

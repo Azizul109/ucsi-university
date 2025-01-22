@@ -408,10 +408,6 @@
                                         <div class="staff-col">Mr Azizul Farhaz</div>
                                         <div class="staff-col">Junior Executive Officer, Sales and Marketing</div>
                                     </li>
-                                    <li class="clearfix">
-                                        <div class="staff-col">Mr MD Suny Ahamed</div>
-                                        <div class="staff-col">Junior Executive Officer</div>
-                                    </li>
                                 </ul>
                             </div>
                         </div><!-- kopa-course-list-table -->

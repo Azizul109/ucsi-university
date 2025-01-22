@@ -17,7 +17,7 @@
                     <hr>
                 </li>
             </span> 
-            <span class="field-content">
+            <!-- <span class="field-content">
                 <li>
                     <article class="entry-item row clearfix">
                         <div class="entry-thumb col-md-3 col-sm-3 col-xs-12"> <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/styles/staff_chancellery__250x297_/public/dato_ir_dr_mohd_saleh_bin_jaafar.png?itok=OaUsDBeu" width="230" height="244" alt="Professor Dato' Ir. Dr. Mohd Saleh Bin Jaafar" title="Professor Dato' Ir. Dr. Mohd Saleh Bin Jaafar"></div>
@@ -32,7 +32,7 @@
                     </article>
                     <hr>
                 </li>
-            </span> 
+            </span>  -->
             <span class="field-content">
                 <li>
                     <article class="entry-item row clearfix">

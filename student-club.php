@@ -1,5 +1,5 @@
 <div class="kopa-accordion">
-    <div class="field field-name-field-custom-information field-type-text-with-summary field-label-hidden">
+    <!-- <div class="field field-name-field-custom-information field-type-text-with-summary field-label-hidden">
         <div class="field-items">
             <div class="field-item even">
                 <div class="row">
@@ -26,11 +26,11 @@
     </div>
     <br>
     <br>
-    <br>
+    <br> -->
     <div class="col-md-4 col-sm-4 col-xs-12">
         <article class="entry-item">
             <div>
-                <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/saa_officer.jpg" width="255" height="255" alt="Nikhil" title="Nikhil">
+                <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/saa_officer.jpg" width="255" height="255" alt="Ms Madhurja Mahrab Rumalee" title="Ms Madhurja Mahrab Rumalee">
             </div>
             <div class="entry-content">
                 <header>
@@ -220,7 +220,7 @@
                             </div>
                         </div>
 
-                        <div class="panel panel-default">
+                        <!-- <div class="panel panel-default">
                             <div class="panel-heading" style="background: #a7acbb;">
                                 <h4 class="panel-title">
                                     <a data-toggle="collapse" href="#collapseSixteen1" class="payment collapsed" data-parent="#collapseOne1">
@@ -248,18 +248,18 @@
                                             </div>
                                         </div>
                                         <div class="col-md-6">
-                                            <p class="text-center"> <!-- Center-align the text on mobile -->
+                                            <p class="text-center">
                                                 The UCSI University Mass Communication Club is a thriving community for students interested in media, communication, and creative expression. The club's goal is to help members get a better grasp of the ever-changing communication landscape while also developing practical skills in public relations, journalism, advertising, and digital media. Through engaging events such as workshops, seminars, and media production projects, the club promotes creativity, teamwork, and leadership among its members. <br>
                                                 It also arranges film screenings, panel discussions with industry experts, and campaigns to promote meaningful narrative and successful communication. The UCSI Mass Communication Club is an excellent place to practice your talents and network with like-minded individuals, whether you're creating captivating content, understanding media dynamics, or perfecting public speaking.
                                             </p>
                                         </div>
                                     </div>
-                                    <!-- <h2 style="text-align:center;">Gallery</h2>
+                                    <h2 style="text-align:center;">Gallery</h2>
                                     <div class="row">
-                                    </div> -->
+                                    </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
 
                         <div class="panel panel-default">
                             <div class="panel-heading" style="background: #a7acbb;">
@@ -482,7 +482,7 @@
                             </div>
                         </div>
 
-                        <div class="panel panel-default">
+                        <!-- <div class="panel panel-default">
                             <div class="panel-heading" style="background: #a7acbb;">
                                 <h4 class="panel-title">
                                     <a data-toggle="collapse" href="#collapseFive1" class="payment collapsed" data-parent="#collapseTwo1">
@@ -509,17 +509,17 @@
                                         </div>
                                     </div>
                                     <div class="col-md-6">
-                                        <p class="text-center"> <!-- Center-align the text on mobile -->
+                                        <p class="text-center">
                                             The University Debate Club serves as an essential platform for critical thinking, eloquence, and diplomacy, where students engage in rigorous intellectual discourse on a myriad of topics. Through regular debate sessions, workshops, and mock trials, members refine their argumentation skills, logic, and public speaking abilities. <br>
                                             The club hosts interactive sessions, challenging members to defend their viewpoints against peers from diverse backgrounds where experts provide valuable insights and mentorship, enriching members' understanding of rhetoric and persuasion. It’s an ideal platform where future leaders hone their ability to articulate ideas, advocate for change, and navigate complex societal challenges.
                                         </p>
                                     </div>
                                 </div>
-                                <!-- <h2 style="text-align:center;">Gallery</h2>
+                                <h2 style="text-align:center;">Gallery</h2>
                                 <div class="row">
-                                </div> -->
+                                </div>
                             </div>
-                        </div>
+                        </div> -->
 
                         <div class="panel panel-default">
                             <div class="panel-heading" style="background: #a7acbb;">
@@ -533,7 +533,7 @@
                                 <div class="row" style="margin-top: 10px;">
                                     <div class="col-md-6">
                                         <div class="grid-item" style="text-align:center;">
-                                            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/md._ejharul_haque.jpg" alt="Person 3" style="max-width: 60%;">
+                                            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/aquib_haque.jpeg" alt="Person 3" style="max-width: 60%;">
                                             <div style="text-align: center;">
                                                 <p><strong>Mr Aquib Haque</strong></p>
                                                 <p>Advisor</p>

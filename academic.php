@@ -1,11 +1,22 @@
 <div class="widget kopa-owl-5-widget">
     <div class="widget-title widget-title-custom text-center">
         <span></span>
-        <h2>Academic Advisors</h2>
+        <h2>International Academic Advisors</h2>
     </div>
 </div>
 <div class="advisory-container">
     <div class="advisory-grid-cover">
+        <a href="https://www.bangladesh.ucsiuniversity.edu.my/datin-paduka-setia-dato%E2%80%99-dr-aini-ideris"
+            class="advisory-card-link">
+            <div class="advisory-card">
+                <img class="advisory-card-image"
+                    src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/dr-aini-advisor.png"
+                    alt="Card Image">
+                <div class="advisory-card-label">
+                    <p>Datin Paduka Setia Dato’ Aini Ideris, PhD</p>
+                </div>
+            </div>
+        </a>
         <a href="https://www.bangladesh.ucsiuniversity.edu.my/professor-dato%E2%80%99-ir-dr-mohd-saleh-bin-jaafar-2" class="advisory-card-link">
             <div class="advisory-card">
                 <img class="advisory-card-image"
@@ -16,6 +27,115 @@
                 </div>
             </div>
         </a>
+        <!-- <a href="https://www.bangladesh.ucsiuniversity.edu.my/professor-datuk-dr-siti-hamisah-binti-tapsir" class="advisory-card-link">
+        <div class="advisory-card">
+            <img class="advisory-card-image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/datuk_hamisah_potrait-res.png" alt="Card Image">
+            <div class="advisory-card-label">
+                <p>Professor Datuk Dr Siti Hamisah Binti Tapsir</p>
+            </div>
+        </div>
+    </a> -->
+        <!-- <a href="https://www.bangladesh.ucsiuniversity.edu.my/professor-datuk-dr-rohana-binti-yusof" class="advisory-card-link">
+        <div class="advisory-card">
+            <img class="advisory-card-image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/datuk-rohana-binte-yusuf-advisor.jpg" alt="Card Image">
+            <div class="advisory-card-label">
+                <p>Professor Datuk Dr Rohana Binti Yusof</p>
+            </div>
+        </div>
+    </a> -->
+        <!-- <a href="https://www.bangladesh.ucsiuniversity.edu.my/professor-dr-mohammad-musa" class="advisory-card-link">
+            <div class="advisory-card">
+                <img class="advisory-card-image"
+                    src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/musa_mohammad-advisor-2.png"
+                    alt="Card Image">
+                <div class="advisory-card-label">
+                    <p>Professor Mohammad Musa, PhD</p>
+                </div>
+            </div>
+        </a> -->
+        <!--<a href="https://www.bangladesh.ucsiuniversity.edu.my/professor-dr-ak-enamul-haque" class="advisory-card-link">
+        <div class="advisory-card">
+            <img class="advisory-card-image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/ak-enamul-advisor.jpg" alt="Card Image">
+            <div class="advisory-card-label">
+                <p>Professor AK Enamul Haque, PhD</p>
+            </div>
+        </div>
+    </a>-->
+        <!-- <a href="https://www.bangladesh.ucsiuniversity.edu.my/professor-dr-syed-akhter-hossain-0"
+            class="advisory-card-link">
+            <div class="advisory-card">
+                <img class="advisory-card-image"
+                    src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/akhter-sir-res-advisor.jpg"
+                    alt="Card Image">
+                <div class="advisory-card-label">
+                    <p>Professor Syed Akhter Hossain, PhD</p>
+                </div>
+            </div>
+        </a> -->
+        <a href="https://www.bangladesh.ucsiuniversity.edu.my/professor-dr-talal-yusaf" class="advisory-card-link">
+            <div class="advisory-card">
+                <img class="advisory-card-image"
+                    src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/dr_tal4.png" alt="Card Image">
+                <div class="advisory-card-label">
+                    <p>Professor Talal Yusaf, PhD</p>
+                </div>
+            </div>
+        </a>
+        <!-- <a href="https://www.bangladesh.ucsiuniversity.edu.my/shahid-hamid-fih" class="advisory-card-link">
+            <div class="advisory-card">
+                <img class="advisory-card-image"
+                    src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/shahid-hamid-advisor-2.png"
+                    alt="Card Image">
+                <div class="advisory-card-label">
+                    <p>Mr Shahid Hamid FIH</p>
+                </div>
+            </div>
+        </a> -->
+        <a href="#"
+            class="advisory-card-link">
+            <div class="advisory-card">
+                <img class="advisory-card-image"
+                    src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/amc_hermawan_kartajaya_profile_photo.jpg"
+                    alt="Card Image">
+                <div class="advisory-card-label">
+                    <p>Mr Hermawan Kartajaya</p>
+                </div>
+            </div>
+        </a>
+        <a href="#" class="advisory-card-link">
+            <div class="advisory-card">
+                <img class="advisory-card-image"
+                    src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/jack_yao_xin_yao.jpg"
+                    alt="Card Image">
+                <div class="advisory-card-label">
+                    <p>Mr Jack Xin Yao</p>
+                </div>
+            </div>
+        </a>
+    </div>
+</div>
+<br>
+<br>
+<br>
+<br>
+<div class="widget kopa-owl-5-widget">
+    <div class="widget-title widget-title-custom text-center">
+        <span></span>
+        <h2>Bangladeshi Academic Advisors</h2>
+    </div>
+</div>
+<div class="advisory-container">
+    <div class="advisory-grid-cover">
+        <!-- <a href="https://www.bangladesh.ucsiuniversity.edu.my/professor-dato%E2%80%99-ir-dr-mohd-saleh-bin-jaafar-2" class="advisory-card-link">
+            <div class="advisory-card">
+                <img class="advisory-card-image"
+                    src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/professor_saleh_0.png"
+                    alt="Card Image">
+                <div class="advisory-card-label">
+                    <p>Professor Dato’ Ir Mohd Saleh Bin Jaafar, PhD</p>
+                </div>
+            </div>
+        </a> -->
         <!-- <a href="https://www.bangladesh.ucsiuniversity.edu.my/professor-datuk-dr-siti-hamisah-binti-tapsir" class="advisory-card-link">
         <div class="advisory-card">
             <img class="advisory-card-image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/datuk_hamisah_potrait-res.png" alt="Card Image">
@@ -61,7 +181,7 @@
                 </div>
             </div>
         </a>
-        <a href="https://www.bangladesh.ucsiuniversity.edu.my/professor-dr-talal-yusaf" class="advisory-card-link">
+        <!-- <a href="https://www.bangladesh.ucsiuniversity.edu.my/professor-dr-talal-yusaf" class="advisory-card-link">
             <div class="advisory-card">
                 <img class="advisory-card-image"
                     src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/dr_tal4.png" alt="Card Image">
@@ -69,8 +189,8 @@
                     <p>Professor Talal Yusaf, PhD</p>
                 </div>
             </div>
-        </a>
-        <a href="https://www.bangladesh.ucsiuniversity.edu.my/datin-paduka-setia-dato%E2%80%99-dr-aini-ideris"
+        </a> -->
+        <!-- <a href="https://www.bangladesh.ucsiuniversity.edu.my/datin-paduka-setia-dato%E2%80%99-dr-aini-ideris"
             class="advisory-card-link">
             <div class="advisory-card">
                 <img class="advisory-card-image"
@@ -80,17 +200,7 @@
                     <p>Datin Paduka Setia Dato’ Aini Ideris, PhD</p>
                 </div>
             </div>
-        </a>
-        <a href="https://www.bangladesh.ucsiuniversity.edu.my/shahid-hamid-fih" class="advisory-card-link">
-            <div class="advisory-card">
-                <img class="advisory-card-image"
-                    src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/shahid-hamid-advisor-2.png"
-                    alt="Card Image">
-                <div class="advisory-card-label">
-                    <p>Mr Shahid Hamid FIH</p>
-                </div>
-            </div>
-        </a>
+        </a> -->
         <a href="https://www.bangladesh.ucsiuniversity.edu.my/professor-dr-anm-meshquat-uddin"
             class="advisory-card-link">
             <div class="advisory-card">
@@ -109,6 +219,16 @@
                     alt="Card Image">
                 <div class="advisory-card-label">
                     <p>Professor S M Shameem Reza, PhD</p>
+                </div>
+            </div>
+        </a>
+        <a href="https://www.bangladesh.ucsiuniversity.edu.my/shahid-hamid-fih" class="advisory-card-link">
+            <div class="advisory-card">
+                <img class="advisory-card-image"
+                    src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/shahid-hamid-advisor-2.png"
+                    alt="Card Image">
+                <div class="advisory-card-label">
+                    <p>Mr Shahid Hamid FIH</p>
                 </div>
             </div>
         </a>

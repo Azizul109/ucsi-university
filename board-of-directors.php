@@ -7,7 +7,7 @@
                         <div class="entry-thumb img-bg"> <img typeof="foaf:Image" style="padding-top: 0px;" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/styles/staff_photo__230x185_/public/mr_ariful_bari_mojumder.png?itok=Yi-AE8bp" width="230" height="244"></div>
                         <div class="entry-content">
                             <h6 class="pt-10" style="margin-bottom:0">Mr Ariful Bari Mojumder</h6>
-                            <p>Managing Director &amp; Senior Vice President</p>
+                            <p>Chairman &amp; Managing Director</p>
                         </div>
                     </article>
                 </div>
@@ -66,25 +66,37 @@
                     <article class="entry-item">
                         <div class="entry-thumb img-bg"> <img typeof="foaf:Image" style="padding-top: 0px;" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/styles/staff_photo__230x185_/public/mr_nazim_uddin_ahmed.png?itok=gelEflxW" width="230" height="244"></div>
                         <div class="entry-content">
-                            <h6 class="pt-10" style="margin-bottom:0">Mr Nazim Uddin Ahmed</h6>
+                            <h6 class="pt-10" style="margin-bottom:0">Lt Col Nazim Uddin Ahmed (Retd)</h6>
                             <p>Director</p>
                         </div>
                     </article>
                 </div>
             </span>
         </div>
-        <!-- <div class="views-field views-field-title"> <span class="field-content">
+        <div class="views-field views-field-title"> <span class="field-content">
                 <div class="col-md-4 col-sm-4 col-xs-12" style="min-height: 350px">
                     <article class="entry-item">
                         <div class="entry-thumb img-bg"> <img typeof="foaf:Image" style="padding-top: 0px;" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/styles/staff_photo__230x185_/public/mr_ahmed_suman_subhan.png?itok=Hgmbc_FW" width="230" height="244"></div>
                         <div class="entry-content">
-                            <h6 class="pt-10" style="margin-bottom:0">Mr Ahmed Suman Subhan</h6>
+                            <h6 class="pt-10" style="margin-bottom:0">Major Suman Subhan (Retd)</h6>
                             <p>Director</p>
                         </div>
                     </article>
                 </div>
             </span>
-        </div> -->
+        </div>
+        <div class="views-field views-field-title"> <span class="field-content">
+                <div class="col-md-4 col-sm-4 col-xs-12" style="min-height: 350px">
+                    <article class="entry-item">
+                        <div class="entry-thumb img-bg"> <img typeof="foaf:Image" style="padding-top: 0px;" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/ashraful_bari_sir.png" width="230" height="244"></div>
+                        <div class="entry-content">
+                            <h6 class="pt-10" style="margin-bottom:0">Ashraful Bari</h6>
+                            <p>Director</p>
+                        </div>
+                    </article>
+                </div>
+            </span>
+        </div>
         <div class="views-field views-field-title"> <span class="field-content">
                 <div class="col-md-4 col-sm-4 col-xs-12" style="min-height: 350px">
                     <article class="entry-item">

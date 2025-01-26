@@ -62,6 +62,7 @@
                                             </ul>
                                         </li>
                                         <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/intakes-and-calendar"> Intakes and Calendar </a></li>
+                                        <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/exhibitions-and-roadshows"> Exhibitions And Roadshows </a></li>
                                         <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/scholarships"> Scholarships </a></li>
                                         <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/Tuition-Fees"> Tuition Fees </a></li>
                                         <li> <a href="https://bangladesh.ucsiuniversity.edu.my/downloads"> Downloads </a></li>

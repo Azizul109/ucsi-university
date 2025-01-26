@@ -5,6 +5,16 @@
 
 <div class="row awards-row">
     <div class="col-md-4 col-sm-4 col-xs-12">
+        <p><img alt="" src="https://www.ucsiuniversity.edu.my/sites/default/files/qs_asia_2025.png" style="width: 84%;"></p>
+    </div>
+    <div class="col-md-8 col-sm-8 col-xs-12">
+        <div class="awards-header">UCSI University ranks 45th in Asia</div>
+        <p>UCSI University is ranked 45th in Asia after making an impressive 16-spot climb in the QS Asia University Rankings 2025. The University has improved its rank for eight straight years in the competitive annual exercise that ranks Asia’s top universities.</p>
+    </div>
+</div>
+
+<div class="row awards-row">
+    <div class="col-md-4 col-sm-4 col-xs-12">
         <p><img alt="" src="https://www.ucsiuniversity.edu.my/sites/default/files/qs_2025100x.png" style="width: 83%"></p>
     </div>
     <div class="col-md-8 col-sm-8 col-xs-12">
@@ -19,7 +29,7 @@
     </div>
     <div class="col-md-8 col-sm-8 col-xs-12">
         <div class="awards-header">Top 42 Performing Arts (Music)</div>
-        <div class="awards-header">Top 100 Hospitality &amp; Leisure Management</div>
+        <!-- <div class="awards-header">Top 100 Hospitality &amp; Leisure Management</div> -->
         <div class="awards-header">Top 100 Arts and Design</div>
         <div class="awards-header">Top 160 Petroleum Engineering</div>
         <div class="awards-header">Top 350 Business &amp; Management Studies</div>
@@ -60,7 +70,7 @@
 
     <div class="col-md-8 col-sm-8 col-xs-12">
         <div class="awards-header">Top 21 Performing Arts (Music)</div>
-        <div class="awards-header">Top 34 Hospitality & Leisure Management</div>
+        <!-- <div class="awards-header">Top 34 Hospitality & Leisure Management</div> -->
         <div class="awards-header">Top 150 Petroleum Engineering</div>
         <div class="awards-header">Top 200 Art and Design</div>
         <div class="awards-header">Top 200 Business & Management Studies</div>
@@ -108,7 +118,7 @@
 
     <div class="col-md-8 col-sm-8 col-xs-12">
         <div class="awards-header">Top 19 Performing Arts (Music) </div>
-        <div class="awards-header">Top 40 Hospitality & Leisure Management</div>
+        <!-- <div class="awards-header">Top 40 Hospitality & Leisure Management</div> -->
         <div class="awards-header">Top 150 Petroleum Engineering</div>
         <div class="awards-header">Top 230 Art and Design</div>
         <div class="awards-header">Top 250 Business & Management Studies</div>
@@ -159,9 +169,9 @@
         <p>Institute of Music (IMus) is now placed 45 in the world.</p>
         <br>
 
-        <div class="awards-header">Top 100 Hospitality and Leisure Management</div>
+        <!-- <div class="awards-header">Top 100 Hospitality and Leisure Management</div>
         <p>The Hospitality and Tourism Management faculty has been ranked among the top 100 faculties in the world.</p>
-        <br>
+        <br> -->
 
         <div class="awards-header">Top 150 Petroleum Engineering</div>
         <p>The Engineering faculty made it to the 101-150 bracket in the world.</p>

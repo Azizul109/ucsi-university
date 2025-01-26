@@ -10,6 +10,22 @@
             <ul class="table-list">
                 <div class="views-field views-field-title"> <span class="field-content">
                         <li class="clearfix">
+                            <div class="Mdate-col">24-Jan-2025</div>
+                            <div class="media-col">Prothom Alo</div>
+                            <div class="title-col"><a href="https://www.prothomalo.com/video/nbksjd90l8" target="_blank">বাংলাদেশে উচ্চশিক্ষায় ইউসিএসআই বিশ্ববিদ্যালয় বাংলাদেশ ব্রাঞ্চ ক্যাম্পাসের ভূমিকা</a></div>
+                        </li>
+                    </span>
+                </div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
+                            <div class="Mdate-col">24-Jan-2025</div>
+                            <div class="media-col">Daily Ittefaq</div>
+                            <div class="title-col"><a href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/dvc-interview-daily-ittefaq.jpg" target="_blank">আন্তর্জাতিক শিক্ষা দিবস-২০২৫ উপলক্ষ্যে ডেপুটি ভাইস-চ্যান্সেলর প্রফেসর ড. এ কে এনামুল হকের বিশেষ সাক্ষাৎকার</a></div>
+                        </li>
+                    </span>
+                </div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
                             <div class="Mdate-col">26-Dec-2024</div>
                             <div class="media-col">Kalbela</div>
                             <div class="title-col"><a href="https://www.kalbela.com/fair/150795" target="_blank">বিশ্বমানের সাপ্লাই চেইন ম্যানেজমেন্ট প্রোগ্রাম এখন ইউসিএসআই ইউনিভার্সিটি বাংলাদেশে</a></div>

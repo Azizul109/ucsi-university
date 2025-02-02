@@ -116,10 +116,17 @@
                                                     <p>Advisor</p>
                                                 </div>
                                             </div>
-                                            <div class="grid-item" style="text-align:center;">
+                                            <!-- <div class="grid-item" style="text-align:center;">
                                                 <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/no-image.jpg" alt="Person 3" style="max-width: 60%;">
                                                 <div style="text-align: center;">
                                                     <p><strong>To be elected</strong></p>
+                                                    <p>President</p>
+                                                </div>
+                                            </div> -->
+                                            <div class="grid-item" style="text-align:center;">
+                                                <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/kamrul-jamil-ifrat.png" alt="Person 3" style="max-width: 60%;">
+                                                <div style="text-align: center;">
+                                                    <p><strong>Kamrul Jamil Ifrat</strong></p>
                                                     <p>President</p>
                                                 </div>
                                             </div>
@@ -158,9 +165,9 @@
                                                 </div>
                                             </div>
                                             <div class="grid-item" style="text-align:center;">
-                                                <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/no-image.jpg" alt="Person 3" style="max-width: 60%;">
+                                                <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/abdul_aziz_shah_alam-removebg-preview-photoroom.png" alt="Person 3" style="max-width: 60%;">
                                                 <div style="text-align: center;">
-                                                    <p><strong>To be elected</strong></p>
+                                                    <p><strong>Abdul Aziz Shah Alam</strong></p>
                                                     <p>President</p>
                                                 </div>
                                             </div>
@@ -199,9 +206,9 @@
                                                 </div>
                                             </div>
                                             <div class="grid-item" style="text-align:center;">
-                                                <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/no-image.jpg" alt="Person 3" style="max-width: 60%;">
+                                                <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/md_ibrahim_ifty.jpg" alt="Person 3" style="max-width: 60%;">
                                                 <div style="text-align: center;">
-                                                    <p><strong>To be elected</strong></p>
+                                                    <p><strong>Md Ibrahim Ifty</strong></p>
                                                     <p>President</p>
                                                 </div>
                                             </div>
@@ -281,9 +288,9 @@
                                                 </div>
                                             </div>
                                             <div class="grid-item" style="text-align:center;">
-                                                <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/no-image.jpg" alt="Person 3" style="max-width: 60%;">
+                                                <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/saba-khandokar.png" alt="Person 3" style="max-width: 60%;">
                                                 <div style="text-align: center;">
-                                                    <p><strong>To be elected</strong></p>
+                                                    <p><strong>Saba Khandakar</strong></p>
                                                     <p>President</p>
                                                 </div>
                                             </div>
@@ -334,9 +341,9 @@
                                             </div>
                                         </div>
                                         <div class="grid-item" style="text-align:center;">
-                                            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/no-image.jpg" alt="Person 3" style="max-width: 60%;">
+                                            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/mohammad_aqil_chowdhury_rafi.jpg" alt="Person 3" style="max-width: 60%;">
                                             <div style="text-align: center;">
-                                                <p><strong>To be elected</strong></p>
+                                                <p><strong>Mohammad Aqil Chowdhury Rafi</strong></p>
                                                 <p>President</p>
                                             </div>
                                         </div>
@@ -378,9 +385,9 @@
                                             </div>
                                         </div>
                                         <div class="grid-item" style="text-align:center;">
-                                            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/no-image.jpg" alt="Person 3" style="max-width: 60%;">
+                                            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/arik_alam_khan.jpg" alt="Person 3" style="max-width: 60%;">
                                             <div style="text-align: center;">
-                                                <p><strong>To be elected</strong></p>
+                                                <p><strong>Arik Alam Khan</strong></p>
                                                 <p>President</p>
                                             </div>
                                         </div>
@@ -442,9 +449,9 @@
                                             </div>
                                         </div>
                                         <div class="grid-item" style="text-align:center;">
-                                            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/no-image.jpg" alt="Person 3" style="max-width: 60%;">
+                                            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/imbesat-mawhub-hamza.png" alt="Person 3" style="max-width: 60%;">
                                             <div style="text-align: center;">
-                                                <p><strong>To be elected</strong></p>
+                                                <p><strong>Imbesat Mawhub Hamza</strong></p>
                                                 <p>President</p>
                                             </div>
                                         </div>
@@ -540,9 +547,9 @@
                                             </div>
                                         </div>
                                         <div class="grid-item" style="text-align:center;">
-                                            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/no-image.jpg" alt="Person 3" style="max-width: 60%;">
+                                            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/naba_ali_ayesha.jpg" alt="Person 3" style="max-width: 60%;">
                                             <div style="text-align: center;">
-                                                <p><strong>To be elected</strong></p>
+                                                <p><strong>Naba Ali Ayesha</strong></p>
                                                 <p>President</p>
                                             </div>
                                         </div>
@@ -647,9 +654,9 @@
                                             </div>
                                         </div>
                                         <div class="grid-item" style="text-align:center;">
-                                            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/no-image.jpg" alt="Person 3" style="max-width: 60%;">
+                                            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/sakib_ahmad_0.jpg" alt="Person 3" style="max-width: 60%;">
                                             <div style="text-align: center;">
-                                                <p><strong>To be elected</strong></p>
+                                                <p><strong>Sakib Ahmad</strong></p>
                                                 <p>President</p>
                                             </div>
                                         </div>
@@ -701,9 +708,9 @@
                                             </div>
                                         </div>
                                         <div class="grid-item" style="text-align:center;">
-                                            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/no-image.jpg" alt="Person 3" style="max-width: 60%;">
+                                            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/najin_faruque_akan-photoroom.png" alt="Person 3" style="max-width: 60%;">
                                             <div style="text-align: center;">
-                                                <p><strong>To be elected</strong></p>
+                                                <p><strong>Najin Faruque Akan</strong></p>
                                                 <p>President</p>
                                             </div>
                                         </div>

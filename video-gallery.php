@@ -3,6 +3,18 @@
         <div class="views-field views-field-title"> <span class="field-content">
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <article class="entry-item">
+                        <div class="entry-thumb"> <iframe style="border: 2px solid rgb(184, 12, 12);" width="530" height="299" src="https://www.youtube.com/embed/e-E5xQ6sh7M?si=J6bJ8lnuTQHPwVcN" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </div>
+                        <div class="entry-content clearfix pb-40">
+                            <header class="text-center pt-10"> <span class="entry-categories-2"><a href="#" target="_blank">দেশের উচ্চশিক্ষার ভবিষ্যৎ গঠনে ইউসিএসআই | আন্তর্জাতিক শিক্ষা দিবস - ২০২৫</a></span> </header>
+                        </div>
+                    </article>
+                </div>
+            </span>
+        </div>
+        <div class="views-field views-field-title"> <span class="field-content">
+                <div class="col-md-6 col-sm-6 col-xs-12">
+                    <article class="entry-item">
                         <div class="entry-thumb"> <iframe style="border: 2px solid rgb(184, 12, 12);" width="530" height="299" src="https://www.youtube.com/embed/gseTsadZbu0?si=b_ra4kl5_DEjCXii" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                         </div>
                         <div class="entry-content clearfix pb-40">
@@ -12,6 +24,8 @@
                 </div>
             </span>
         </div>
+    </div>
+    <div class="row">
         <div class="views-field views-field-title"> <span class="field-content">
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <article class="entry-item">
@@ -24,8 +38,6 @@
                 </div>
             </span>
         </div>
-    </div>
-    <div class="row">
         <div class="views-field views-field-title"> <span class="field-content">
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <article class="entry-item">
@@ -38,6 +50,8 @@
                 </div>
             </span>
         </div>
+    </div>
+    <div class="row">
         <div class="views-field views-field-title"> <span class="field-content">
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <article class="entry-item">
@@ -50,8 +64,6 @@
                 </div>
             </span>
         </div>
-    </div>
-    <div class="row">
         <div class="views-field views-field-title"> <span class="field-content">
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <article class="entry-item">
@@ -64,6 +76,8 @@
                 </div>
             </span>
         </div>
+    </div>
+    <div class="row">
         <div class="views-field views-field-title"> <span class="field-content">
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <article class="entry-item">
@@ -76,8 +90,6 @@
                 </div>
             </span>
         </div>
-    </div>
-    <div class="row">
         <div class="views-field views-field-title"> <span class="field-content">
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <article class="entry-item">
@@ -90,6 +102,8 @@
                 </div>
             </span>
         </div>
+    </div>
+    <div class="row">
         <div class="views-field views-field-title"> <span class="field-content">
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <article class="entry-item">

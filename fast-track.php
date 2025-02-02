@@ -29,7 +29,7 @@
                         </li>
                     </span>
                 </div>
-                <div class="views-field views-field-title">
+                <!-- <div class="views-field views-field-title">
                     <span class="field-content">
                         <li class="clearfix">
                             <div class="name-col">
@@ -38,7 +38,7 @@
                             <div class="date-col">January, May and September</div>
                         </li>
                     </span>
-                </div>
+                </div> -->
             </ul>
         </div>
     </div>
@@ -88,7 +88,7 @@
                         </li>
                     </span>
                 </div>
-                <div class="views-field views-field-title">
+                <!-- <div class="views-field views-field-title">
                     <span class="field-content">
                         <li class="clearfix">
                             <div class="name-col">
@@ -97,7 +97,7 @@
                             <div class="date-col">January, May and September</div>
                         </li>
                     </span>
-                </div>
+                </div> -->
             </ul>
         </div>
     </div>

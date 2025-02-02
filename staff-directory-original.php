@@ -131,15 +131,15 @@
                                         <div class="staff-col">Executive Officer</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Mr S. Saif Siddique</div>
-                                        <div class="staff-col">Executive Officer, HR & Admin</div>
-                                    </li>
-                                    <li class="clearfix">
                                         <div class="staff-col">Ms Maisha Ali</div>
                                         <div class="staff-col">Executive Officer</div>
                                     </li>
                                     <li class="clearfix">
                                         <div class="staff-col">Ms Nafiza Salsabil Barsha</div>
+                                        <div class="staff-col">Executive Officer</div>
+                                    </li>
+                                    <li class="clearfix">
+                                        <div class="staff-col">Ms Orchi Rahman</div>
                                         <div class="staff-col">Executive Officer</div>
                                     </li>
                                     <li class="clearfix">
@@ -518,19 +518,11 @@
                             <div class="widget-content">
                                 <ul class="table-list staff">
                                     <li class="clearfix">
+                                        <div class="staff-col">Datin Paduka Setia Dato’ Aini Ideris, PhD</div>
+                                        <div class="staff-col">Academic Advisor</div>
+                                    </li>
+                                    <li class="clearfix">
                                         <div class="staff-col">Professor Dato’ Ir Mohd Saleh Bin Jaafar, PhD</div>
-                                        <div class="staff-col">Academic Advisor</div>
-                                    </li>
-                                    <li class="clearfix">
-                                        <div class="staff-col">Professor Mohammad Musa, PhD</div>
-                                        <div class="staff-col">Academic Advisor</div>
-                                    </li>
-                                    <li class="clearfix">
-                                        <div class="staff-col">Professor A K Enamul Haque, PhD</div>
-                                        <div class="staff-col">Academic Advisor</div>
-                                    </li>
-                                    <li class="clearfix">
-                                        <div class="staff-col">Professor Syed Akhter Hossain, PhD</div>
                                         <div class="staff-col">Academic Advisor</div>
                                     </li>
                                     <li class="clearfix">
@@ -538,11 +530,19 @@
                                         <div class="staff-col">Academic Advisor</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Datin Paduka Setia Dato’ Aini Ideris, PhD</div>
+                                        <div class="staff-col">Mr Hermawan Kartajaya</div>
                                         <div class="staff-col">Academic Advisor</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Mr Shahid Hamid FIH</div>
+                                        <div class="staff-col">Mr Jack Xin Yao</div>
+                                        <div class="staff-col">Academic Advisor</div>
+                                    </li>
+                                    <li class="clearfix">
+                                        <div class="staff-col">Professor Mohammad Musa, PhD</div>
+                                        <div class="staff-col">Academic Advisor</div>
+                                    </li>
+                                    <li class="clearfix">
+                                        <div class="staff-col">Professor Syed Akhter Hossain, PhD</div>
                                         <div class="staff-col">Academic Advisor</div>
                                     </li>
                                     <li class="clearfix">
@@ -551,6 +551,10 @@
                                     </li>
                                     <li class="clearfix">
                                         <div class="staff-col">Professor S M Shameem Reza, PhD</div>
+                                        <div class="staff-col">Academic Advisor</div>
+                                    </li>
+                                    <li class="clearfix">
+                                        <div class="staff-col">Mr Shahid Hamid FIH</div>
                                         <div class="staff-col">Academic Advisor</div>
                                     </li>
                                 </ul>
@@ -852,8 +856,8 @@
                 </div>
             </div>
         </div>
-        <!--/panel panel-default-->
-        <div class="panel panel-default">
+
+        <!-- <div class="panel panel-default">
             <div class="panel-heading">
                 <h4 class="panel-title">
                     <a data-toggle="collapse" data-parent="#accordion" href="#collapse310" class="collapsed" aria-expanded="false">
@@ -864,15 +868,12 @@
             </div>
             <div id="collapse310" class="panel-collapse collapse" aria-expanded="false" style="height: 0px;">
                 <div class="panel-body">
-                    <!-- staff table -->
                     <div class="widget kopa-course-list-3-widget">
                         <div class="kopa-course-list-table">
                             <div class="table-header clearfix">
                                 <div class="staff-col">Staff</div>
                                 <div class="staff-col">Designation</div>
                             </div>
-                            <!-- table-header -->
-                            <!-- widget-title -->
                             <div class="widget-content">
                                 <ul class="table-list staff">
                                     <li class="clearfix">
@@ -897,11 +898,11 @@
                                     </li>
                                 </ul>
                             </div>
-                        </div><!-- kopa-course-list-table -->
-                    </div><!-- kopa-course-list-3-widget -->
+                        </div>
+                    </div>
                 </div>
             </div>
-        </div>
+        </div> -->
 
         <!-- <div class="panel panel-default">
             <div class="panel-heading">

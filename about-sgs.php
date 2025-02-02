@@ -6,7 +6,11 @@
                     <div class="field field-name-field-custom-information field-type-text-with-summary field-label-hidden">
                         <div class="field-items">
                             <div class="field-item even">
-                                <div class="fluid-width-video-wrapper" style="padding-top: 56.25%;"><iframe src="https://www.youtube.com/embed/EzV4ytd02Hs?si=qea9e-DfSO58pfGO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="fitvid0"></iframe></div><br><br>
+                                <!-- <div class="fluid-width-video-wrapper" style="padding-top: 56.25%;">
+                                    <iframe src="https://www.youtube.com/embed/EzV4ytd02Hs?si=qea9e-DfSO58pfGO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="fitvid0"></iframe>
+                                </div>
+                                <br>
+                                <br> -->
                                 <p class="faculty-logo"><img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/school_of_graduate_studies_copy.png">
                                 </p>UCSI University Bangladesh Branch Campus has introduced 'School of Graduate Studies', a dynamic institution dedicated to
                                 pioneering new knowledge and perspectives. We focus on integrating cutting-edge technology into education, conducting impactful

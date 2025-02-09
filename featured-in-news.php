@@ -10,6 +10,102 @@
             <ul class="table-list">
                 <div class="views-field views-field-title"> <span class="field-content">
                         <li class="clearfix">
+                            <div class="Mdate-col">08-Feb-2025</div>
+                            <div class="media-col">Protidiner Bangla</div>
+                            <div class="title-col"><a href="https://protidinerbangla.net/education/news/2904" target="_blank">ইউসিএসআই ইউনিভার্সিটি ক্যাম্পাসে চলছে ৩ দিনের স্কলারশিপ ডে</a></div>
+                        </li>
+                    </span>
+                </div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
+                            <div class="Mdate-col">08-Feb-2025</div>
+                            <div class="media-col">Ajkaler Khobor</div>
+                            <div class="title-col"><a href="https://www.ajkalerkhobor.net/news/175384#" target="_blank">ইউসিএসআই ইউনিভার্সিটির বাংলাদেশ ক্যাম্পাসে চলছে ‌‘স্কলারশিপ ডে’</a></div>
+                        </li>
+                    </span>
+                </div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
+                            <div class="Mdate-col">08-Feb-2025</div>
+                            <div class="media-col">Dainik Shiksha</div>
+                            <div class="title-col"><a href="https://www.dainikshiksha.com/bn/news/3-day-scholarship-day-at-ucsi-university-293469" target="_blank">ইউসিএসআই ইউনিভার্সিটিতে ৩ দিনব্যাপী স্কলারশিপ ডে</a></div>
+                        </li>
+                    </span>
+                </div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
+                            <div class="Mdate-col">07-Feb-2025</div>
+                            <div class="media-col">Dainik Shiksha</div>
+                            <div class="title-col"><a href="https://www.dainikshiksha.com/bn/news/ucsi-university-is-conducting-a-3-day-long-scholarship-day-293593" target="_blank">ইউসিএসআই ইউনিভার্সিটিতে ৩ দিনব্যাপী স্কলারশিপ ডে চলছে</a></div>
+                        </li>
+                    </span>
+                </div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
+                            <div class="Mdate-col">07-Feb-2025</div>
+                            <div class="media-col">Dainik Shiksha</div>
+                            <div class="title-col"><a href="https://www.youtube.com/watch?v=ulbETHFwnOU" target="_blank">যেভাবে পাবেন ইউসিএসআই ইউনিভার্সিটির স্কলারশিপ</a></div>
+                        </li>
+                    </span>
+                </div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
+                            <div class="Mdate-col">06-Feb-2025</div>
+                            <div class="media-col">Ajker Patrika</div>
+                            <div class="title-col"><a href="https://www.ajkerpatrika.com/education/campus/ajpysqye13mio" target="_blank">মালয়েশিয়ার শীর্ষ বিশ্ববিদ্যালয়ে পড়ার সুবর্ণ সুযোগ, থাকছে ১০০ শতাংশ স্কলারশিপ</a></div>
+                        </li>
+                    </span>
+                </div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
+                            <div class="Mdate-col">05-Feb-2025</div>
+                            <div class="media-col">Dainik Shiksha</div>
+                            <div class="title-col"><a href="https://www.dainikshiksha.com/bn/news/3-day-scholarship-day-at-ucsi-university-293441" target="_blank">ইউসিএসআই ইউনিভার্সিটিতে ৩ দিনব্যাপী স্কলারশিপ ডে</a></div>
+                        </li>
+                    </span>
+                </div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
+                            <div class="Mdate-col">05-Feb-2025</div>
+                            <div class="media-col">Dhaka Post</div>
+                            <div class="title-col"><a href="https://www.dhakapost.com/campus/341824" target="_blank">ইউসিএসআই ইউনিভার্সিটি বাংলাদেশ ব্রাঞ্চে শতভাগ স্কলারশিপ</a></div>
+                        </li>
+                    </span>
+                </div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
+                            <div class="Mdate-col">05-Feb-2025</div>
+                            <div class="media-col">Samakal</div>
+                            <div class="title-col"><a href="https://samakal.com/capital/article/279164" target="_blank">মালয়েশিয়ার ইউসিএসআই ইউনিভার্সিটি বাংলাদেশ ব্রাঞ্চে শতভাগ স্কলারশিপ</a></div>
+                        </li>
+                    </span>
+                </div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
+                            <div class="Mdate-col">05-Feb-2025</div>
+                            <div class="media-col">Kalbela</div>
+                            <div class="title-col"><a href="https://www.kalbela.com/dainikshiksha/others/161472" target="_blank">মালয়েশিয়ার ইউসিএসআই ইউনিভার্সিটি বাংলাদেশ শাখায় শতভাগ স্কলারশিপের সুযোগ</a></div>
+                        </li>
+                    </span>
+                </div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
+                            <div class="Mdate-col">04-Feb-2025</div>
+                            <div class="media-col">The Daily Campus</div>
+                            <div class="title-col"><a href="https://thedailycampus.com/scholarship/169466/" target="_blank">মালয়েশিয়ার ইউসিএসআই ইউনিভার্সিটি বাংলাদেশ ব্রাঞ্চে শতভাগ স্কলারশিপ</a></div>
+                        </li>
+                    </span>
+                </div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
+                            <div class="Mdate-col">04-Feb-2025</div>
+                            <div class="media-col">Jagoron Express</div>
+                            <div class="title-col"><a href="https://jagoronexpress.com/details/?pid=1426" target="_blank">ইউসিএসআই ইউনিভার্সিটিতে ১০০ ভাগ স্কলারশিপের সুযোগ</a></div>
+                        </li>
+                    </span>
+                </div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
                             <div class="Mdate-col">24-Jan-2025</div>
                             <div class="media-col">Prothom Alo</div>
                             <div class="title-col"><a href="https://www.prothomalo.com/video/nbksjd90l8" target="_blank">বাংলাদেশে উচ্চশিক্ষায় ইউসিএসআই বিশ্ববিদ্যালয় বাংলাদেশ ব্রাঞ্চ ক্যাম্পাসের ভূমিকা</a></div>

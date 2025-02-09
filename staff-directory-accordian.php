@@ -453,10 +453,6 @@
                                         <div class="staff-col">Affiliate Deputy Registrar</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Mr Syed Shariful Haque</div>
-                                        <div class="staff-col">IT Administrator (Head of IT)</div>
-                                    </li>
-                                    <li class="clearfix">
                                         <div class="staff-col">Mr Nikhil Chandra Sarker, PhD</div>
                                         <div class="staff-col">Librarian</div>
                                     </li>

@@ -83,6 +83,7 @@
                                                 <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/students-activities-and-recreation-new"> Students' Activities and Recreation </a></li>
                                             </ul>
                                         </li>
+                                        <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/graduate-attribute" class="sf-with-ul"> Graduate Attribute </a></li>
                                     </ul>
                                 </li>
                                 <li class=""> <a href="#" class="sf-with-ul"> Facilities </a>

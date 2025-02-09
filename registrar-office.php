@@ -43,7 +43,7 @@
                 </div>
             </div>
 
-            <div class="grid-item">
+            <!-- <div class="grid-item">
                 <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/mr_syed_shariful_haque.png"
                     alt="Person 5">
                 <div
@@ -53,7 +53,7 @@
                     <p>(Head of IT)</p>
                     <p style="color: #bf0007; font-size: small;">SyedShariful@ucsiuniversity.edu.my</p>
                 </div>
-            </div>
+            </div> -->
 
         </div>
     </div>

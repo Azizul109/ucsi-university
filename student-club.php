@@ -40,7 +40,7 @@
                     <p>UCSI University, Malaysia</p>
                 </header>
                 <p></p>
-                <!-- <p><span style="font-size:12px">Email:&nbsp;<a href="mailto:madhurja.mahrab@ucsiuniversity.edu.my">madhurja.mahrab@ucsiuniversity.edu.my</a><br></span></p> -->
+                <p><span style="font-size:12px">Email:&nbsp;<a href="mailto:madhurja.mahrab@ucsiuniversity.edu.my">madhurja.mahrab@ucsiuniversity.edu.my</a><br></span></p>
                 <p></p>
             </div>
         </article>

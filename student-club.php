@@ -109,7 +109,7 @@
                                                     <p>Professor</p>
                                                 </div>
                                             </div> -->
-                                            <div class="grid-item" style="text-align:center;">
+                                            <div class="grid-item" style="text-align:center; margin-bottom: 35px;">
                                                 <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/maisha_karim.jpg" alt="Person 3" style="max-width: 60%;">
                                                 <div style="text-align: center;">
                                                     <p><strong>Ms Maisha Karim</strong></p>
@@ -131,7 +131,10 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="col-md-6">
+                                        <div class="col-md-6 text-center">
+                                            <div class="d-flex justify-content-end pb-3">
+                                                <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/business-club.jpg" alt="Logo" class="img-fluid" style="max-width: 60%;">
+                                            </div>
                                             <p class="text-center"> <!-- Center-align the text on mobile -->
                                                 The University Business Club serves as a dynamic hub where students delve into the realms of entrepreneurship, finance, and management. Through workshops, seminars, and networking events, members explore diverse facets of the business world. <br>
                                                 One of the primary purposes of the club is to inspire the members to engage in case competitions, where they can hone their problem-solving and strategic thinking skills. Members of the club gain practical insights through the classes of guest lecturers, bridging their academic knowledge with the real-world experience of the professionals. Moreover, the club cultivates leadership by empowering students to organize events, manage projects, and collaborate effectively.
@@ -157,31 +160,34 @@
                                 <div class="panel-body">
                                     <div class="row">
                                         <div class="col-md-6">
-                                            <div class="grid-item" style="text-align:center;">
-                                                <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/niaz_makhdum.jpg" alt="Person 3" style="max-width: 60%;">
-                                                <div style="text-align: center;">
+                                            <!-- Member 1 -->
+                                            <div class="grid-item" style="text-align:center; margin-bottom: 35px;">
+                                                <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/niaz_makhdum.jpg" alt="Person 3" class="img-fluid" style="max-width: 60%;">
+                                                <div>
                                                     <p><strong>Mr Niaz Makhdum</strong></p>
                                                     <p>Advisor</p>
                                                 </div>
                                             </div>
-                                            <div class="grid-item" style="text-align:center;">
-                                                <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/abdul_aziz_shah_alam-removebg-preview-photoroom.png" alt="Person 3" style="max-width: 60%;">
-                                                <div style="text-align: center;">
+                                            <!-- Member 2 -->
+                                            <div class="grid-item">
+                                                <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/abdul_aziz_shah_alam-removebg-preview-photoroom.png" alt="Person 3" class="img-fluid" style="max-width: 60%;">
+                                                <div>
                                                     <p><strong>Abdul Aziz Shah Alam</strong></p>
                                                     <p>President</p>
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="col-md-6">
-                                            <p class="text-center"> <!-- Center-align the text on mobile -->
+                                        <div class="col-md-6 text-center">
+                                            <!-- Logo Above the Paragraph -->
+                                            <div class="d-flex justify-content-end pb-3">
+                                                <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/it-club.jpg" alt="Logo" class="img-fluid" style="max-width: 60%;">
+                                            </div>
+                                            <p class="text-center">
                                                 The University IT Club immerses students in the dynamic world of technology, offering a platform to explore, innovate, and collaborate. Through workshops, and coding challenges, members enhance their technical skills and enrich their understanding of emerging technologies. <br>
                                                 They engage in projects ranging from software development to cybersecurity, applying theoretical knowledge to practical applications. The club fosters a vibrant community where members share insights, troubleshoot problems, and inspire each other to push boundaries. Moreover, the club promotes digital literacy and awareness, empowering members to navigate the ever-evolving tech landscape.
                                             </p>
                                         </div>
                                     </div>
-                                    <!-- <h2 style="text-align:center;">Gallery</h2>
-                                    <div class="row">
-                                    </div> -->
                                 </div>
                             </div>
                         </div>
@@ -198,7 +204,7 @@
                                 <div class="panel-body">
                                     <div class="row">
                                         <div class="col-md-6">
-                                            <div class="grid-item" style="text-align:center;">
+                                            <div class="grid-item" style="text-align:center; margin-bottom: 35px;">
                                                 <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/md._ejharul_haque.jpg" alt="Person 3" style="max-width: 60%;">
                                                 <div style="text-align: center;">
                                                     <p><strong>Mr Md. Ejharul Haque</strong></p>
@@ -213,7 +219,10 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="col-md-6">
+                                        <div class="col-md-6 text-center">
+                                            <div class="d-flex justify-content-end pb-3">
+                                                <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/entrepreneurship_club.jpg" alt="Logo" class="img-fluid" style="max-width: 60%;">
+                                            </div>
                                             <p class="text-center"> <!-- Center-align the text on mobile -->
                                                 The UCSI University Entrepreneurship Club is a dynamic student-led group that fosters creativity, leadership, and entrepreneurial abilities in its members. The club allows prospective entrepreneurs to discover their full potential, develop innovative ideas into actionable plans, and get practical business knowledge. Members learn important skills in company strategy, marketing, financial management, and problem-solving through a range of activities such as workshops, pitch competitions, and networking events. <br>
                                                 The Entrepreneurship Club not only encourages an entrepreneurial spirit, but also develops a supportive community in which cooperation and innovation thrive. Students are encouraged to think beyond the box and embrace problems through various activities such as startup competitions, brainstorming sessions, and leadership roles.
@@ -280,7 +289,7 @@
                                 <div class="panel-body">
                                     <div class="row">
                                         <div class="col-md-6">
-                                            <div class="grid-item" style="text-align:center;">
+                                            <div class="grid-item" style="text-align:center; margin-bottom: 35px;">
                                                 <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/mashiat_noor_prapti.jpg" alt="Person 3" style="max-width: 60%;">
                                                 <div style="text-align: center;">
                                                     <p><strong>Mashiat Nur Prapti</strong></p>
@@ -295,10 +304,13 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="col-md-6">
+                                        <div class="col-md-6 text-center">
+                                            <div class="d-flex justify-content-end pb-3">
+                                                <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/creative-writing-club.jpg" alt="Logo" class="img-fluid" style="max-width: 60%;">
+                                            </div>
                                             <p class="text-center"> <!-- Center-align the text on mobile -->
                                                 The UCSI University Creative Writing Club is a refuge for students who love storytelling and expressing themselves through words. The group, which is dedicated to developing creativity, provides a welcoming environment for writers of all skill levels to experiment with various genres of writing, such as poetry, short stories, screenplays, and more. <br>
-                                                Members can improve their skills, establish distinct voices, and receive constructive feedback through interactive workshops, writing challenges, and critique sessions. The club also conducts events like open mic nights, writing competitions, and author presentations, which encourage members to think creatively and broaden their literary horizons. The Creative Writing Club fosters a vibrant community of like-minded individuals, encouraging cooperation, idea sharing, and mutual improvement.
+                                                Members can improve their skills, establish distinct voices, and receive constructive feedback through interactive workshops, writing challenges, and critique sessions. The club also conducts events like open mic nights, writing competitions, and author presentations, which encourage members to think creatively and broaden their literary horizons.
                                             </p>
                                         </div>
                                     </div>
@@ -333,7 +345,7 @@
                             <div id="collapseEighten1" class="panel-collapse collapse">
                                 <div class="row" style="margin-top: 10px;">
                                     <div class="col-md-6">
-                                        <div class="grid-item" style="text-align:center;">
+                                        <div class="grid-item" style="text-align:center; margin-bottom: 35px;">
                                             <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/mostafizur_rahman.jpg" alt="Person 3" style="max-width: 60%;">
                                             <div style="text-align: center;">
                                                 <p><strong>Mr H M Mostafizur Rahman</strong></p>
@@ -348,7 +360,10 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-md-6">
+                                    <div class="col-md-6 text-center">
+                                        <div class="d-flex justify-content-end pb-3">
+                                            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/adventure-club.jpg" alt="Logo" class="img-fluid" style="max-width: 60%;">
+                                        </div>
                                         <p class="text-center"> <!-- Center-align the text on mobile -->
                                             The University Adventure Club is the perfect destination for students seeking excitement and outdoor exploration. The club is an ideal platform for the members to engage in a wide range of activities such as hiking, rock climbing, kayaking, and camping, catering to both seasoned adventurers and beginners. <br>
                                             Regular excursions and expeditions provide members with opportunities to discover breathtaking landscapes and challenge themselves in nature. Social events and workshops further enhance the experience, promoting camaraderie and a strong sense of community. Joining the University Adventure Club allows students to escape the routine of academic life, embrace new challenges, and create unforgettable memories in the great outdoors.
@@ -377,7 +392,7 @@
                             <div id="collapseSeven1" class="panel-collapse collapse">
                                 <div class="row" style="margin-top: 10px;">
                                     <div class="col-md-6">
-                                        <div class="grid-item" style="text-align:center;">
+                                        <div class="grid-item" style="text-align:center; margin-bottom: 35px;">
                                             <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/fabiha_tanjim.jpg" alt="Person 3" style="max-width: 60%;">
                                             <div style="text-align: center;">
                                                 <p><strong>Ms Fabiha Tanjim</strong></p>
@@ -392,7 +407,10 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-md-6">
+                                    <div class="col-md-6 text-center">
+                                        <div class="d-flex justify-content-end pb-3">
+                                            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/cultural-club.jpg" alt="Logo" class="img-fluid" style="max-width: 60%;">
+                                        </div>
                                         <p class="text-center"> <!-- Center-align the text on mobile -->
                                             The University Cultural Club promotes diversity and fosters cross-cultural understanding through a vibrant array of activities and events. Members explore and appreciate various traditions, languages, and art forms through a wide range of cultural showcases. <br>
                                             The club organizes cultural festivals and commemorates national days (such as Pahela Baishakh, International Mother Language Day, Independence Day etc) and creates a sense of unity within the university community. The club serves as a bridge between cultures, fostering respect, empathy, and appreciation for the diverse tapestry of humanity.
@@ -441,7 +459,7 @@
                             <div id="collapseSix1" class="panel-collapse collapse">
                                 <div class="row" style="margin-top: 10px;">
                                     <div class="col-md-6">
-                                        <div class="grid-item" style="text-align:center;">
+                                        <div class="grid-item" style="text-align:center; margin-bottom: 35px;">
                                             <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/saa_officer.jpg" alt="Person 3" style="max-width: 60%;">
                                             <div style="text-align: center;">
                                                 <p><strong>Ms Madhurja Mahrab Rumalee</strong></p>
@@ -456,7 +474,10 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-md-6">
+                                    <div class="col-md-6 text-center">
+                                        <div class="d-flex justify-content-end pb-3">
+                                            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/volunteer-club.jpg" alt="Logo" class="img-fluid" style="max-width: 60%;">
+                                        </div>
                                         <p class="text-center">
                                             Our university Volunteer Club is a student-led organization dedicated to creating a positive impact on the community through service and outreach. The club members aim to participate in diverse activities such as organizing charity events, tutoring underprivileged students, conducting environmental awareness, and supporting local shelters. <br>
                                             The club fosters teamwork, leadership, and empathy, providing students with opportunities to develop valuable skills while addressing societal challenges. It serves as a platform for like-minded individuals to collaborate on meaningful projects, promote social responsibility, and make a difference both on campus and beyond. Joining the club offers a fulfilling way to contribute to the betterment of society.
@@ -539,7 +560,7 @@
                             <div id="collapseFour1" class="panel-collapse collapse">
                                 <div class="row" style="margin-top: 10px;">
                                     <div class="col-md-6">
-                                        <div class="grid-item" style="text-align:center;">
+                                        <div class="grid-item" style="text-align:center; margin-bottom: 35px;">
                                             <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/aquib_haque.jpeg" alt="Person 3" style="max-width: 60%;">
                                             <div style="text-align: center;">
                                                 <p><strong>Mr Aquib Haque</strong></p>
@@ -554,7 +575,10 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-md-6">
+                                    <div class="col-md-6 text-center">
+                                        <div class="d-flex justify-content-end pb-3">
+                                            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/photography-club.jpg" alt="Logo" class="img-fluid" style="max-width: 60%;">
+                                        </div>
                                         <p class="text-center">
                                             The University Photography Club captures moments, emotions, and perspectives through the lens, fostering a community of visual storytellers. <br>
                                             Through workshops, and photo walks, members hone their technical skills and artistic vision, exploring various genres from landscape to portrait photography. The club organizes exhibitions, contests, and engages club members in different university functions and events (Orientation Programme, International Mother Language Day, Independence Day, Pahela Baishakh etc) for photography and guides them on their journey to improve their skill set.
@@ -646,7 +670,7 @@
                             <div id="collapseEight1" class="panel-collapse collapse">
                                 <div class="row" style="margin-top: 10px;">
                                     <div class="col-md-6">
-                                        <div class="grid-item" style="text-align:center;">
+                                        <div class="grid-item" style="text-align:center; margin-bottom: 35px;">
                                             <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/mostafizur_rahman.jpg" alt="Person 3" style="max-width: 60%;">
                                             <div style="text-align: center;">
                                                 <p><strong>Mr H M Mostafizur Rahman</strong></p>
@@ -661,7 +685,10 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-md-6">
+                                    <div class="col-md-6 text-center">
+                                        <div class="d-flex justify-content-end pb-3">
+                                            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/indoor-club.jpg" alt="Logo" class="img-fluid" style="max-width: 60%;">
+                                        </div>
                                         <p class="text-center">
                                             The Indoor Sports Club provides students with opportunities to engage in various indoor sports and recreational activities, fostering a sense of camaraderie and teamwork. The club organizes games such as Badminton, Table tennis, Billiard, Chess, and Carrom, catering to players of all skill levels. <br>
                                             The members can participate in practice sessions, and friendly matches, creating a vibrant environment to stay active and unwind from academic pressures. The club promotes mental agility, and social interaction, making it a hub for sports enthusiasts. Joining the Indoor Sports Club is a great way to sharpen skills, make friends, and enjoy healthy competition.
@@ -700,7 +727,7 @@
                             <div id="collapseNine1" class="panel-collapse collapse">
                                 <div class="row" style="margin-top: 10px;">
                                     <div class="col-md-6">
-                                        <div class="grid-item" style="text-align:center;">
+                                        <div class="grid-item" style="text-align:center; margin-bottom: 35px;">
                                             <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/maksudur_rabby.jpg" alt="Person 3" style="max-width: 60%;">
                                             <div style="text-align: center;">
                                                 <p><strong>Mr Maksudur Rabby</strong></p>
@@ -715,7 +742,10 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-md-6">
+                                    <div class="col-md-6 text-center">
+                                        <div class="d-flex justify-content-end pb-3">
+                                            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/outdoor-club.jpg" alt="Logo" class="img-fluid" style="max-width: 60%;">
+                                        </div>
                                         <p class="text-center">
                                             The university Outdoor Sports Club is a dynamic organization that promotes physical activity, teamwork, and a passion for the outdoor games. The club organizes and facilitates a variety of sports, such as football, cricket, basketball, volleyball. <br>
                                             It provides a platform for the club members to participate in practice sessions, competitions, and recreational matches. By encouraging an active lifestyle and fostering sportsmanship, the club helps students build fitness, resilience, and social connections. Joining the Outdoor Sports Club is a great way to enhance athletic abilities, make lifelong friendships, and enjoy the thrill of outdoor games.

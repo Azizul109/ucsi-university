@@ -744,7 +744,7 @@
                                     </div>
                                     <div class="col-md-6 text-center">
                                         <div class="d-flex justify-content-end pb-3">
-                                            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/outdoor-club.jpg" alt="Logo" class="img-fluid" style="max-width: 60%;">
+                                            <!-- <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/outdoor-club.jpg" alt="Logo" class="img-fluid" style="max-width: 60%;"> -->
                                         </div>
                                         <p class="text-center">
                                             The university Outdoor Sports Club is a dynamic organization that promotes physical activity, teamwork, and a passion for the outdoor games. The club organizes and facilitates a variety of sports, such as football, cricket, basketball, volleyball. <br>

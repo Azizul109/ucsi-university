@@ -17,7 +17,7 @@
         </div>
         <div class="mt-20">
             <p><i>You are required to fulfil the International English Language requirements for the programme.</i></p>
-            <p><b>Waiver</b> shall be considered should the following conditions be fulfilled:</p>
+            <p><b>Waiver</b> shall be considered with the following conditions:</p>
             <ul>
                 <li>Academic qualifications equivalent to a bachelor's degree which uses the English Language is the medium of instruction (each case will be reviewed individually).</li>
             </ul>

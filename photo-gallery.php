@@ -3,6 +3,41 @@
         <div class="views-field views-field-title"> <span class="field-content">
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <article class="entry-item">
+                        <div class="entry-thumb"> <a href="https://drive.google.com/drive/folders/1_gNlznSxzDhzxBT2ENomZOV6KTLjaMfU?usp=sharing" target="_blank"> <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/beyond_the_kitchen-2025.jpg" width="398" height="266"> </a></div>
+                        <div class="entry-content clearfix pb-40">
+                            <header class="text-center pt-10"> <span class="entry-categories-2"><a href="https://drive.google.com/drive/folders/1_gNlznSxzDhzxBT2ENomZOV6KTLjaMfU?usp=sharing" target="_blank">Beyond The Kitchen - 2025</a></span> </header>
+                        </div>
+                    </article>
+                </div>
+            </span>
+        </div>
+        <div class="views-field views-field-title"> <span class="field-content">
+                <div class="col-md-6 col-sm-6 col-xs-12">
+                    <article class="entry-item">
+                        <div class="entry-thumb"> <a href="https://drive.google.com/drive/folders/12T2pvD5iWv_vebpypC58FFctfPN7VrzM?usp=sharing" target="_blank"> <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/tarunner_utshob-2025_0.jpg" width="398" height="266"> </a></div>
+                        <div class="entry-content clearfix pb-40">
+                            <header class="text-center pt-10"> <span class="entry-categories-2"><a href="https://drive.google.com/drive/folders/12T2pvD5iWv_vebpypC58FFctfPN7VrzM?usp=sharing" target="_blank">Tarunner Utshob - 2025</a></span> </header>
+                        </div>
+                    </article>
+                </div>
+            </span>
+        </div>
+    </div>
+    <div class="row">
+        <div class="views-field views-field-title"> <span class="field-content">
+                <div class="col-md-6 col-sm-6 col-xs-12">
+                    <article class="entry-item">
+                        <div class="entry-thumb"> <a href="https://ucsiuniversity073.sharepoint.com/:f:/s/GCA.BD/Ep_TWVjvn3pFtXYV3U0FVuoB5MbHV0mq-p6nsmNKCwtlyA?e=3wRTDB" target="_blank"> <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/mind_marathon-2025_0.jpg" width="398" height="266"> </a></div>
+                        <div class="entry-content clearfix pb-40">
+                            <header class="text-center pt-10"> <span class="entry-categories-2"><a href="https://ucsiuniversity073.sharepoint.com/:f:/s/GCA.BD/Ep_TWVjvn3pFtXYV3U0FVuoB5MbHV0mq-p6nsmNKCwtlyA?e=3wRTDB" target="_blank">Mind Marathon - 2025</a></span> </header>
+                        </div>
+                    </article>
+                </div>
+            </span>
+        </div>
+        <div class="views-field views-field-title"> <span class="field-content">
+                <div class="col-md-6 col-sm-6 col-xs-12">
+                    <article class="entry-item">
                         <div class="entry-thumb"> <a href="https://ucsiuniversity073.sharepoint.com/:f:/s/GCA.BD/EgXEU1DE-ZVOlyBvr8cArC8B5_BsdWvKA1hYndXEC6Hmbg?e=cdwAjF" target="_blank"> <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/winter_donation_-_2025.jpg" width="398" height="266"> </a></div>
                         <div class="entry-content clearfix pb-40">
                             <header class="text-center pt-10"> <span class="entry-categories-2"><a href="https://ucsiuniversity073.sharepoint.com/:f:/s/GCA.BD/EgXEU1DE-ZVOlyBvr8cArC8B5_BsdWvKA1hYndXEC6Hmbg?e=cdwAjF" target="_blank">Winter Donation - 2025</a></span> </header>
@@ -11,6 +46,8 @@
                 </div>
             </span>
         </div>
+    </div>
+    <div class="row">
         <div class="views-field views-field-title"> <span class="field-content">
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <article class="entry-item">
@@ -22,8 +59,6 @@
                 </div>
             </span>
         </div>
-    </div>
-    <div class="row">
         <div class="views-field views-field-title"> <span class="field-content">
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <article class="entry-item">
@@ -35,6 +70,8 @@
                 </div>
             </span>
         </div>
+    </div>
+    <div class="row">
         <div class="views-field views-field-title"> <span class="field-content">
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <article class="entry-item">
@@ -46,8 +83,6 @@
                 </div>
             </span>
         </div>
-    </div>
-    <div class="row">
         <div class="views-field views-field-title"> <span class="field-content">
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <article class="entry-item">
@@ -59,6 +94,8 @@
                 </div>
             </span>
         </div>
+    </div>
+    <div class="row">
         <div class="views-field views-field-title"> <span class="field-content">
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <article class="entry-item">
@@ -70,8 +107,6 @@
                 </div>
             </span>
         </div>
-    </div>
-    <div class="row">
         <div class="views-field views-field-title"> <span class="field-content">
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <article class="entry-item">
@@ -83,6 +118,8 @@
                 </div>
             </span>
         </div>
+    </div>
+    <div class="row">
         <div class="views-field views-field-title"> <span class="field-content">
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <article class="entry-item">
@@ -94,8 +131,6 @@
                 </div>
             </span>
         </div>
-    </div>
-    <div class="row">
         <div class="views-field views-field-title"> <span class="field-content">
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <article class="entry-item">
@@ -107,6 +142,8 @@
                 </div>
             </span>
         </div>
+    </div>
+    <div class="row">
         <div class="views-field views-field-title"> <span class="field-content">
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <article class="entry-item">
@@ -118,8 +155,6 @@
                 </div>
             </span>
         </div>
-    </div>
-    <div class="row">
         <div class="views-field views-field-title"> <span class="field-content">
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <article class="entry-item">
@@ -137,6 +172,8 @@
                 </div>
             </span>
         </div>
+    </div>
+    <div class="row">
         <div class="views-field views-field-title"> <span class="field-content">
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <article class="entry-item">
@@ -148,8 +185,6 @@
                 </div>
             </span>
         </div>
-    </div>
-    <div class="row">
         <div class="views-field views-field-title"> <span class="field-content">
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <article class="entry-item">
@@ -161,6 +196,8 @@
                 </div>
             </span>
         </div>
+    </div>
+    <div class="row">
         <div class="views-field views-field-title"> <span class="field-content">
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <article class="entry-item">
@@ -172,8 +209,6 @@
                 </div>
             </span>
         </div>
-    </div>
-    <div class="row">
         <div class="views-field views-field-title"> <span class="field-content">
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <article class="entry-item">
@@ -185,6 +220,8 @@
                 </div>
             </span>
         </div>
+    </div>
+    <div class="row">
         <div class="views-field views-field-title"> <span class="field-content">
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <article class="entry-item">
@@ -196,8 +233,6 @@
                 </div>
             </span>
         </div>
-    </div>
-    <div class="row">
         <div class="views-field views-field-title"> <span class="field-content">
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <article class="entry-item">
@@ -209,6 +244,8 @@
                 </div>
             </span>
         </div>
+    </div>
+    <div class="row">
         <div class="views-field views-field-title"> <span class="field-content">
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <article class="entry-item">
@@ -220,8 +257,6 @@
                 </div>
             </span>
         </div>
-    </div>
-    <div class="row">
         <div class="views-field views-field-title"> <span class="field-content">
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <article class="entry-item">
@@ -233,6 +268,8 @@
                 </div>
             </span>
         </div>
+    </div>
+    <div class="row">
         <div class="views-field views-field-title"> <span class="field-content">
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <article class="entry-item">

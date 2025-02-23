@@ -37,7 +37,7 @@
                         <p>Tuesday - Thursday</p>
                     </td>
                     <td>
-                        <p>09:30 am - 05:30 pm</p>
+                        <p>09:30 am - 07:30 pm</p>
                     </td>
                 </tr>
                 <!-- <tr>

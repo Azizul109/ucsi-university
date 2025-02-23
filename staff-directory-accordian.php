@@ -301,6 +301,10 @@
                                         <div class="staff-col">Web Developer</div>
                                     </li>
                                     <li class="clearfix">
+                                        <div class="staff-col">Mr Md Fahim Foisol</div>
+                                        <div class="staff-col">Executive Officer (Web Developer)</div>
+                                    </li>
+                                    <li class="clearfix">
                                         <div class="staff-col">Ms Madhurja Mahrab Rumalee</div>
                                         <div class="staff-col">SAA Executive Officer & Coordinator to Director, CAD</div>
                                     </li>

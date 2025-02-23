@@ -10,37 +10,37 @@
             <ul class="table-list">
                 <div class="views-field views-field-title"> <span class="field-content">
                         <li class="clearfix">
-                            <div class="Mdate-col">17-Mar-2024</div>
-                            <div class="media-col">New Sarawak Tribune</div>
-                            <div class="title-col"><a href="https://www.newsarawaktribune.com.my/lee-foundation-awards-scholarships-to-sarawakian-students/" target="_blank">Lee Foundation awards scholarships to Sarawakian students</a></div>
+                            <div class="Mdate-col">15-Feb-2025</div>
+                            <div class="media-col">Ramadan Calendar</div>
+                            <div class="title-col"><a href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/ramadan_calender_2025.jpg" target="_blank">Ramadan Mubarak 2025</a></div>
                         </li>
                     </span></div>
                 <div class="views-field views-field-title"> <span class="field-content">
                         <li class="clearfix">
-                            <div class="Mdate-col">15-Mar-2024</div>
-                            <div class="media-col">Malaysian Business</div>
-                            <div class="title-col"><a href="https://content.isentia.io/?url=http%3A//www.malaysian-business.com/index.php/wordpress/item/8636-vivo-malaysia-introduces-the-vivo-v30-series-integrating-zeiss-technology-aura-light-3-0&amp;key=33e65384a690c9efa5325cf5c8d57c7e&amp;ver=1&amp;mid=1063036051" target="_blank">Vivo Malaysia Introduces The Vivo V30 Series, Integrating ZEISS Technology &amp; Aura Light 3.0</a></div>
+                            <div class="Mdate-col">12-Feb-2025</div>
+                            <div class="media-col">Registrar's Office</div>
+                            <div class="title-col"><a href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/master_time_table_for_jan_2025_circulation-a3.pdf" target="_blank">Timetable for January (2025-01) semester</a></div>
                         </li>
                     </span></div>
                 <div class="views-field views-field-title"> <span class="field-content">
                         <li class="clearfix">
-                            <div class="Mdate-col">14-Mar-2024</div>
-                            <div class="media-col">Malaysia News TV</div>
-                            <div class="title-col"><a href="https://url4195.isentia.com/ss/c/u001.0rRmGr3brzc22GaU9G84O6XtJmiSY4mrZB-q_w6O0c5sme8PD21kL0HLvh7Klxr1j57L2BjYvTUnIhO8ivlrrM0DIyhsVM2B77kOJrDjjWYRCDXruL-Rvs4KCiTS8iufNExM3-ayPGHr1tC8GIm-eeeHvaEPiIrJZscSBhUwyI0RZT8EvlQ7uQi3hOsZC99dV0ssmBHoKDposXLCzsTtYqpoRvrfkmL1TxE6Yz-o8C0qOqwAAbd5zRt35NnpXdKwMkY0JLC73kI_A4ZLJHehleM7-x0MxP_KzHwNggjLClk/44n/2R4A2CskT1S4_9mDJnaFBA/h2/h001.yPG1U_U6RrVYzHfvyjTAZoAltEDwpeQxomIZ1_OSsHs" target="_blank">Vivo Malaysia memperkenalkan siri Vivo V30 menggabungkan Teknologi ZEISS dan Aura Light 3.0</a></div>
+                            <div class="Mdate-col">5-feb-2025</div>
+                            <div class="media-col">Registrar's Office</div>
+                            <div class="title-col"><a href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/mid_sem_exam_notice_2025-01.pdf" target="_blank">Mid-Sem Examination Notice, 2025-01 Semester</a></div>
                         </li>
                     </span></div>
                 <div class="views-field views-field-title"> <span class="field-content">
                         <li class="clearfix">
-                            <div class="Mdate-col">13-Mar-2024</div>
-                            <div class="media-col">August Man</div>
-                            <div class="title-col"><a href="https://readnow.isentia.com/Temp/96787-1062362246/MY0058013184_20250313.pdf" target="_blank">Finding her voice</a></div>
+                            <div class="Mdate-col">14-Jan-2025</div>
+                            <div class="media-col">Registrar's Office</div>
+                            <div class="title-col"><a href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/supplementary_exam_notice_2025-01_1.pdf" target="_blank">Supplementary Exam for January 2025 (2025-01) Semester</a></div>
                         </li>
                     </span></div>
                 <div class="views-field views-field-title"> <span class="field-content">
                         <li class="clearfix">
-                            <div class="Mdate-col">13-Mar-2024</div>
-                            <div class="media-col">Maxit</div>
-                            <div class="title-col"><a href="https://www.maxit.my/2024/03/vivo-malaysia-introduces-the-vivo-v30-series-integrating-zeiss-technology-aura-light-3-0/" target="_blank">Vivo Malaysia introduces the vivo V30 Series, integrating Zeiss Technology &amp; Aura Light 3.0</a></div>
+                            <div class="Mdate-col">2-Jan-2025</div>
+                            <div class="media-col">Registrar's Office</div>
+                            <div class="title-col"><a href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/course_selection_for_january_semester.pdf" target="_blank">Course Selection for January 2025 Semester</a></div>
                         </li>
                     </span></div>
                 <div class="views-field views-field-title"> <span class="field-content">

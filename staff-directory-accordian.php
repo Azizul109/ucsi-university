@@ -87,7 +87,7 @@
                 </div>
             </div>
         </div>
-        <!--/panel panel-default-->        <!--/panel panel-default-->
+        <!--/panel panel-default--> <!--/panel panel-default-->
         <div class="panel panel-default">
             <div class="panel-heading">
                 <h4 class="panel-title">
@@ -261,7 +261,7 @@
                 </div>
             </div>
         </div>
-        <!--/panel panel-default-->        <!--/panel panel-default-->
+        <!--/panel panel-default--> <!--/panel panel-default-->
         <div class="panel panel-default">
             <div class="panel-heading">
                 <h4 class="panel-title">
@@ -315,7 +315,7 @@
                 </div>
             </div>
         </div>
-        <!--/panel panel-default-->        <!--/panel panel-default-->
+        <!--/panel panel-default--> <!--/panel panel-default-->
         <div class="panel panel-default">
             <div class="panel-heading">
                 <h4 class="panel-title">
@@ -369,7 +369,7 @@
                 </div>
             </div>
         </div>
-        <!--/panel panel-default-->        <!--/panel panel-default-->
+        <!--/panel panel-default--> <!--/panel panel-default-->
         <div class="panel panel-default">
             <div class="panel-heading">
                 <h4 class="panel-title">
@@ -493,7 +493,8 @@
         </div>
 
 
-        <br/><h4>Members of Academic Team</h4>
+        <br />
+        <h4>Members of Academic Team</h4>
         <!--/panel panel-default-->
         <div class="panel panel-default">
             <div class="panel-heading">

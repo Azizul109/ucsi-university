@@ -10,6 +10,30 @@
             <ul class="table-list">
                 <div class="views-field views-field-title"> <span class="field-content">
                         <li class="clearfix">
+                            <div class="Mdate-col">22-Feb-2025</div>
+                            <div class="media-col">Dainik Shiksha</div>
+                            <div class="title-col"><a href="https://www.dainikshiksha.com/bn/news/admission-fair-in-ucsi-university-294691" target="_blank">ইউসিএসআই ইউনিভার্সিটিতে অ্যাডমিশন ফেয়ার</a></div>
+                        </li>
+                    </span>
+                </div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
+                            <div class="Mdate-col">22-Feb-2025</div>
+                            <div class="media-col">The Daily Campus</div>
+                            <div class="title-col"><a href="https://thedailycampus.com/scholarship/171984/" target="_blank">মালয়েশিয়ার ইউসিএসআই ইউনিভার্সিটি বাংলাদেশ ব্রাঞ্চে এডমিশন ফেয়ার</a></div>
+                        </li>
+                    </span>
+                </div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
+                            <div class="Mdate-col">22-Feb-2025</div>
+                            <div class="media-col">Kalbela</div>
+                            <div class="title-col"><a href="https://www.kalbela.com/corporate/166383" target="_blank">ইউসিএসআই ইউনিভার্সিটি বাংলাদেশ ব্রাঞ্চ ক্যাম্পাসে ইন্ট্রোডাকশন অ্যান্ড অ্যাডমিশন ফেয়ার</a></div>
+                        </li>
+                    </span>
+                </div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
                             <div class="Mdate-col">08-Feb-2025</div>
                             <div class="media-col">Protidiner Bangla</div>
                             <div class="title-col"><a href="https://protidinerbangla.net/education/news/2904" target="_blank">ইউসিএসআই ইউনিভার্সিটি ক্যাম্পাসে চলছে ৩ দিনের স্কলারশিপ ডে</a></div>

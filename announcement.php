@@ -11,141 +11,228 @@
                 <div class="views-field views-field-title"> <span class="field-content">
                         <li class="clearfix">
                             <div class="Mdate-col">15-Feb-2025</div>
-                            <div class="media-col">Ramadan Calendar</div>
+                            <div class="media-col">Announcement</div>
                             <div class="title-col"><a href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/ramadan_calender_2025.jpg" target="_blank">Ramadan Mubarak 2025</a></div>
                         </li>
                     </span></div>
                 <div class="views-field views-field-title"> <span class="field-content">
                         <li class="clearfix">
                             <div class="Mdate-col">12-Feb-2025</div>
-                            <div class="media-col">Registrar's Office</div>
+                            <div class="media-col">Announcement</div>
                             <div class="title-col"><a href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/master_time_table_for_jan_2025_circulation-a3.pdf" target="_blank">Timetable for January (2025-01) semester</a></div>
                         </li>
                     </span></div>
                 <div class="views-field views-field-title"> <span class="field-content">
                         <li class="clearfix">
-                            <div class="Mdate-col">5-feb-2025</div>
-                            <div class="media-col">Registrar's Office</div>
+                            <div class="Mdate-col">05-feb-2025</div>
+                            <div class="media-col">Announcement</div>
                             <div class="title-col"><a href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/mid_sem_exam_notice_2025-01.pdf" target="_blank">Mid-Sem Examination Notice, 2025-01 Semester</a></div>
                         </li>
                     </span></div>
                 <div class="views-field views-field-title"> <span class="field-content">
                         <li class="clearfix">
                             <div class="Mdate-col">14-Jan-2025</div>
-                            <div class="media-col">Registrar's Office</div>
+                            <div class="media-col">Announcement</div>
                             <div class="title-col"><a href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/supplementary_exam_notice_2025-01_1.pdf" target="_blank">Supplementary Exam for January 2025 (2025-01) Semester</a></div>
                         </li>
                     </span></div>
                 <div class="views-field views-field-title"> <span class="field-content">
                         <li class="clearfix">
-                            <div class="Mdate-col">2-Jan-2025</div>
-                            <div class="media-col">Registrar's Office</div>
+                            <div class="Mdate-col">02-Jan-2025</div>
+                            <div class="media-col">Announcement</div>
                             <div class="title-col"><a href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/course_selection_for_january_semester.pdf" target="_blank">Course Selection for January 2025 Semester</a></div>
                         </li>
                     </span></div>
                 <div class="views-field views-field-title"> <span class="field-content">
                         <li class="clearfix">
-                            <div class="Mdate-col">13-Mar-2024</div>
-                            <div class="media-col">The Star</div>
-                            <div class="title-col"><a href="https://www.thestar.com.my/lifestyle/culture/2024/03/13/michael-jackson039s-timeless-hits-take-centre-stage-in-orchestral-tribute-concert" target="_blank">Michael Jackson's timeless hits take centre stage in orchestral tribute concert</a></div>
+                            <div class="Mdate-col">15-Dec-2024</div>
+                            <div class="media-col">Announcement</div>
+                            <div class="title-col"><a href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/december_24_notice.pdf" target="_blank">Holiday for the Month of December 2024
+                                </a></div>
                         </li>
                     </span></div>
                 <div class="views-field views-field-title"> <span class="field-content">
                         <li class="clearfix">
-                            <div class="Mdate-col">08-Mar-2024</div>
-                            <div class="media-col">Borneo Post (Kuching)</div>
-                            <div class="title-col"><a href="https://www.ucsiuniversity.edu.my/sites/default/files/borneo_post_kuching_ucsi_sarawak_inks_mou_with_gelm_to_enable_knowledge_exchange_8_march_2024.pdf" target="_blank">UCSI Sarawak inks MoU with GELM to enable knowledge exchange</a></div>
+                            <div class="Mdate-col">01-Dec-2024</div>
+                            <div class="media-col">Announcement</div>
+                            <div class="title-col"><a href="https://ucsiuniversity073.sharepoint.com/sites/GCA.BD/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FGCA%2EBD%2FShared%20Documents%2FGCA%20BD%2FPhotos%2FStudent%20Affairs%20%26%20Alumni%2FDean%27s%20Honour%20List%20%2D%20May%202024&p=true&ga=1" target="_blank">Dean's Honour List - May 2024
+                                </a></div>
                         </li>
                     </span></div>
                 <div class="views-field views-field-title"> <span class="field-content">
                         <li class="clearfix">
-                            <div class="Mdate-col">03-Mar-2024</div>
-                            <div class="media-col">The Star</div>
-                            <div class="title-col"><a href="https://www.thestar.com.my/news/education/2024/03/03/agile-students-the-way-to-go" target="_blank">Agile students, the way to go</a></div>
+                            <div class="Mdate-col">08-Oct-2024</div>
+                            <div class="media-col">Announcement</div>
+                            <div class="title-col"><a href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/holiday-durga_puja_dashami-october2024.pdf" target="_blank">Holiday of Durga Puja
+                                </a></div>
                         </li>
                     </span></div>
                 <div class="views-field views-field-title"> <span class="field-content">
                         <li class="clearfix">
-                            <div class="Mdate-col">03-Mar-2024</div>
-                            <div class="media-col">The Star</div>
-                            <div class="title-col"><a href="https://www.thestar.com.my/news/education/2024/03/03/digital-tvet-to-launch-careers" target="_blank">Digital TVET to launch careers</a></div>
+                            <div class="Mdate-col">09-Sep-2024</div>
+                            <div class="media-col">Announcement</div>
+                            <div class="title-col"><a href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/holiday-eid-e-milad-un-nabi-16_september_2024.pdf" target="_blank">Holiday of Eid-e-Milad-un-Nabi
+                                </a></div>
                         </li>
                     </span></div>
                 <div class="views-field views-field-title"> <span class="field-content">
                         <li class="clearfix">
-                            <div class="Mdate-col">15-Feb-2024</div>
-                            <div class="media-col">Malaysia Marketing</div>
-                            <div class="title-col"><a href="https://www.malaysiamarketing.my/under-armour-celebrates-curry-x-bruce-lee-collection-with-1st-5-on-5-basketball-competition/" target="_blank">Under Armour Celebrates Curry X Bruce Lee Collection With 1st 5-On-5 Basketball Competition</a></div>
+                            <div class="Mdate-col">05-Sep-2024</div>
+                            <div class="media-col">Announcement</div>
+                            <div class="title-col"><a href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/congratulations_to_professor_sma_faiz_phd.jpg" target="_blank">Congratulations to Newly Elected UGC Chairman
+                                </a></div>
                         </li>
                     </span></div>
                 <div class="views-field views-field-title"> <span class="field-content">
                         <li class="clearfix">
-                            <div class="Mdate-col">04-Feb-2024</div>
-                            <div class="media-col">Sin Chew Daily</div>
-                            <div class="title-col"><a href="https://ucsiuniversity073.sharepoint.com/:b:/s/GCA/EQyIEmkG6GZHrRtVpi9hQ-QBr3gnfqK1QEQ89bca8ZDTJQ?e=Zh5rwQ" target="_blank">Children learning from the fun moment</a></div>
+                            <div class="Mdate-col">24-Aug-2024</div>
+                            <div class="media-col">Announcement</div>
+                            <div class="title-col"><a href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/holiday-jonmastomi-26_august_2024.pdf" target="_blank">Declaration of Holiday on 26th August 2024
+                                </a></div>
                         </li>
                     </span></div>
                 <div class="views-field views-field-title"> <span class="field-content">
                         <li class="clearfix">
-                            <div class="Mdate-col">03-Feb-2024</div>
-                            <div class="media-col">Sin Chew</div>
-                            <div class="title-col"><a href="https://sarawak.sinchew.com.my/news/20240203/sarawak/5368722#google_vignette" target="_blank">Anthony Xu: 6 Star Academy. The employment rate of IBS graduates is 95%</a></div>
+                            <div class="Mdate-col">14-Aug-2024</div>
+                            <div class="media-col">Announcement</div>
+                            <div class="title-col"><a href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/resumption_of_class_for_summer-2024_semester.pdf" target="_blank">Resumption of class for Summer-2024 Semester
+                                </a></div>
                         </li>
                     </span></div>
                 <div class="views-field views-field-title"> <span class="field-content">
                         <li class="clearfix">
-                            <div class="Mdate-col">29-Jan-2024</div>
-                            <div class="media-col">New Straits Times</div>
-                            <div class="title-col"><a href="https://www.nst.com.my/news/nation/2024/01/1007328/zambry-well-follow-what-pm-wants-regarding-pension-scheme" target="_blank">Zambry : We'll follow what PM wants regarding pension scheme</a></div>
+                            <div class="Mdate-col">17-July-2024</div>
+                            <div class="media-col">Announcement</div>
+                            <div class="title-col"><a href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/academic_activities_suspension_notice_17_july_2024-2.pdf" target="_blank">Academic Activities Suspension Notice
+                                </a></div>
                         </li>
                     </span></div>
                 <div class="views-field views-field-title"> <span class="field-content">
                         <li class="clearfix">
-                            <div class="Mdate-col">29-Jan-2024</div>
-                            <div class="media-col">New Straits Times</div>
-                            <div class="title-col"><a href="https://www.nst.com.my/news/nation/2024/01/1007350/higher-education-ministry-may-consider-additional-allocation-rd-private" target="_blank">Higher Education Ministry may consider additional allocation for R&amp;D in private institutions under 2025 Budget</a></div>
+                            <div class="Mdate-col">16-July-2024</div>
+                            <div class="media-col">Announcement</div>
+                            <div class="title-col"><a href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/ugc_instruction_july_2024.pdf" target="_blank">UGC Instruction on University Closure
+                                </a></div>
                         </li>
                     </span></div>
                 <div class="views-field views-field-title"> <span class="field-content">
                         <li class="clearfix">
-                            <div class="Mdate-col">29-Jan-2024</div>
-                            <div class="media-col">Guangming</div>
-                            <div class="title-col"><a href="https://guangming.com.my/%e6%93%ac%e7%82%ba%e7%a7%81%e5%b0%88%e6%8f%90%e4%be%9b%e9%a1%8d%e5%a4%96%e7%8d%8e%e6%8e%96-%e8%b4%8a%e6%af%94%e9%87%8c%ef%bc%9a%e6%93%b4%e5%a4%a7%e7%a0%94%e7%a9%b6%e7%99%bc%e5%b1%95%e9%a0%85%e7%9b%ae" target="_blank">Plans to provide additional incentives for private students Zambry: Expand research and development projects</a></div>
+                            <div class="Mdate-col">09-July-2024</div>
+                            <div class="media-col">Announcement</div>
+                            <div class="title-col"><a href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/holiday_for_the_month_of_july-2024.pdf" target="_blank">Holiday for the Month of July 2024
+                                </a></div>
                         </li>
                     </span></div>
                 <div class="views-field views-field-title"> <span class="field-content">
                         <li class="clearfix">
-                            <div class="Mdate-col">29-Jan-2024</div>
-                            <div class="media-col">Sin Chew</div>
-                            <div class="title-col"><a href="https://www.sinchew.com.my/news/20240129/nation/5356126" target="_blank">Plans to provide additional incentives for private students Zambry: Expand research and development projects</a></div>
+                            <div class="Mdate-col">09-Jun-2024</div>
+                            <div class="media-col">Announcement</div>
+                            <div class="title-col"><a href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/amendment-eid-ul-adha-holiday-2024.pdf" target="_blank">Amendment Eid ul Adha Holiday 2024
+                                </a></div>
                         </li>
                     </span></div>
                 <div class="views-field views-field-title"> <span class="field-content">
                         <li class="clearfix">
-                            <div class="Mdate-col">24-Jan-2024</div>
-                            <div class="media-col">Sinar Harian</div>
-                            <div class="title-col"><a href="https://www.sinarharian.com.my/article/645923/khas/wacana/pemansuhan-upsr-pt3-memenuhi-aspirasi-fpk" target="_blank">Pemansuhan UPSR, PT3 memenuhi aspirasi FPK</a></div>
+                            <div class="Mdate-col">08-Jun-2024</div>
+                            <div class="media-col">Announcement</div>
+                            <div class="title-col"><a href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/office_notice_eid-ul-adha_2024_holiday_02.06.24.pdf" target="_blank">Holiday Notice for the Month of June 2024
+                                </a></div>
                         </li>
                     </span></div>
                 <div class="views-field views-field-title"> <span class="field-content">
                         <li class="clearfix">
-                            <div class="Mdate-col">23-Jan-2024</div>
-                            <div class="media-col">Sinar Harian</div>
-                            <div class="title-col"><a href="https://www.sinarharian.com.my/article/645919/khas/wacana/pbs-pbd-perlu-dinilai-ikut-standard---mohd-nazri?utm_source=Newswav&amp;utm_medium=Website" target="_blank">‘PBS, PBD perlu dinilai ikut standard' - Mohd Nazri</a></div>
+                            <div class="Mdate-col">05-Mar-2024</div>
+                            <div class="media-col">Announcement</div>
+                            <div class="title-col"><a href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/office_timing_in_ramadan-2024.pdf" target="_blank">Office Timing in Ramadan 2024
+                                </a></div>
                         </li>
                     </span></div>
                 <div class="views-field views-field-title"> <span class="field-content">
                         <li class="clearfix">
-                            <div class="Mdate-col">22-Jan-2024</div>
-                            <div class="media-col">Daily Express (KK)</div>
-                            <div class="title-col"><a href="https://www.ucsiuniversity.edu.my/sites/default/files/daily_express_kk_eye_care_professionals_22_jan_2024.pdf" target="_blank">Eye care professionals</a></div>
+                            <div class="Mdate-col">05-mar-2024</div>
+                            <div class="media-col">Announcement</div>
+                            <div class="title-col"><a href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/holiday_notice_1.pdf" target="_blank">Holiday Notice for the month of March 2024
+                                </a></div>
                         </li>
                     </span></div>
                 <div class="views-field views-field-title"> <span class="field-content">
                         <li class="clearfix">
-                            <div class="Mdate-col">20-Jan-2024</div>
-                            <div class="media-col">The Star</div>
-                            <div class="title-col"><a href="https://www.ucsiuniversity.edu.my/sites/default/files/the_star_values_for_a_harmonious_nation_20_jan_2024.pdf" target="_blank">Values for a harmonious nation</a></div>
+                            <div class="Mdate-col">06-Dec-2023</div>
+                            <div class="media-col">Announcement</div>
+                            <div class="title-col"><a href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/holyday-notice-december-2023-compress.pdf" target="_blank">Declaration of Government Holiday for the month of December 2023
+                                </a></div>
+                        </li>
+                    </span></div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
+                            <div class="Mdate-col">08-Nov-2023</div>
+                            <div class="media-col">Announcement</div>
+                            <div class="title-col"><a href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/calendar_2024_0.pdf" target="_blank">Academic Calendar of 2024
+                                </a></div>
+                        </li>
+                    </span></div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
+                            <div class="Mdate-col">08-Nov-2023</div>
+                            <div class="media-col">Announcement</div>
+                            <div class="title-col"><a href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/calendar_2023_0.pdf" target="_blank">Academic Calendar of 2023
+                                </a></div>
+                        </li>
+                    </span></div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
+                            <div class="Mdate-col">14-Oct-2023</div>
+                            <div class="media-col">Announcement</div>
+                            <div class="title-col"><a href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/durga_puja_government_holiday.pdf" target="_blank">Durga Puja Holiday Notice
+                                </a></div>
+                        </li>
+                    </span></div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
+                            <div class="Mdate-col">04-Sep-2023</div>
+                            <div class="media-col">Announcement</div>
+                            <div class="title-col"><a href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/september_holiday_notice_0.pdf" target="_blank">Shuba Janmashtami and Eid-e-Milad un-Nabi Holiday Notice
+                                </a></div>
+                        </li>
+                    </span></div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
+                            <div class="Mdate-col">03-Aug-2023</div>
+                            <div class="media-col">Announcement</div>
+                            <div class="title-col"><a href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/holiday_notice_0.pdf" target="_blank">15th August 2023 Holiday, "National Mourning Day"
+                                </a></div>
+                        </li>
+                    </span></div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
+                            <div class="Mdate-col">23-July-2023</div>
+                            <div class="media-col">Announcement</div>
+                            <div class="title-col"><a href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/holiday_0.pdf" target="_blank">Ashura Holiday Notice
+                                </a></div>
+                        </li>
+                    </span></div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
+                            <div class="Mdate-col">15-July-2023</div>
+                            <div class="media-col">Announcement</div>
+                            <div class="title-col"><a href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/15_july_2023_notice_0.pdf" target="_blank">Postponement of classes on 17th July 2023
+                                </a></div>
+                        </li>
+                    </span></div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
+                            <div class="Mdate-col">10-July-2023</div>
+                            <div class="media-col">Announcement</div>
+                            <div class="title-col"><a href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/newspaper_advertisement_0.pdf" target="_blank">Vacancy Announcement Advertisement in New Age and Dainik Bangla
+                                </a></div>
+                        </li>
+                    </span></div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
+                            <div class="Mdate-col">07-Jun-2023</div>
+                            <div class="media-col">Announcement</div>
+                            <div class="title-col"><a href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/class_routine_may_intake_2023_0.pdf" target="_blank">May Intake 2023
+                                </a></div>
                         </li>
                     </span></div>
             </ul>

@@ -143,7 +143,7 @@
                         <li class="clearfix">
                             <div class="Mdate-col">05-Mar-2024</div>
                             <div class="media-col">Announcement</div>
-                            <div class="title-col"><a href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/office_timing_in_ramadan_2024.pdf" target="_blank">Office Timing in Ramadan 2024
+                            <div class="title-col"><a href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/office_timing_in_ramadan-2024.pdf" target="_blank">Office Timing in Ramadan 2024
                                 </a></div>
                         </li>
                     </span></div>

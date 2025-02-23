@@ -11,35 +11,35 @@
                 <div class="views-field views-field-title"> <span class="field-content">
                         <li class="clearfix">
                             <div class="Mdate-col">15-Feb-2025</div>
-                            <div class="media-col">Ramadan Calendar</div>
+                            <div class="media-col">Announcement</div>
                             <div class="title-col"><a href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/ramadan_calender_2025.jpg" target="_blank">Ramadan Mubarak 2025</a></div>
                         </li>
                     </span></div>
                 <div class="views-field views-field-title"> <span class="field-content">
                         <li class="clearfix">
                             <div class="Mdate-col">12-Feb-2025</div>
-                            <div class="media-col">Registrar's Office</div>
+                            <div class="media-col">Announcement</div>
                             <div class="title-col"><a href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/master_time_table_for_jan_2025_circulation-a3.pdf" target="_blank">Timetable for January (2025-01) semester</a></div>
                         </li>
                     </span></div>
                 <div class="views-field views-field-title"> <span class="field-content">
                         <li class="clearfix">
                             <div class="Mdate-col">05-feb-2025</div>
-                            <div class="media-col">Registrar's Office</div>
+                            <div class="media-col">Announcement</div>
                             <div class="title-col"><a href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/mid_sem_exam_notice_2025-01.pdf" target="_blank">Mid-Sem Examination Notice, 2025-01 Semester</a></div>
                         </li>
                     </span></div>
                 <div class="views-field views-field-title"> <span class="field-content">
                         <li class="clearfix">
                             <div class="Mdate-col">14-Jan-2025</div>
-                            <div class="media-col">Registrar's Office</div>
+                            <div class="media-col">Announcement</div>
                             <div class="title-col"><a href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/supplementary_exam_notice_2025-01_1.pdf" target="_blank">Supplementary Exam for January 2025 (2025-01) Semester</a></div>
                         </li>
                     </span></div>
                 <div class="views-field views-field-title"> <span class="field-content">
                         <li class="clearfix">
                             <div class="Mdate-col">02-Jan-2025</div>
-                            <div class="media-col">Registrar's Office</div>
+                            <div class="media-col">Announcement</div>
                             <div class="title-col"><a href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/course_selection_for_january_semester.pdf" target="_blank">Course Selection for January 2025 Semester</a></div>
                         </li>
                     </span></div>

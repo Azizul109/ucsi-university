@@ -229,9 +229,29 @@
                                             </p>
                                         </div>
                                     </div>
-                                    <!-- <h2 style="text-align:center;">Gallery</h2>
+                                    <h2 style="text-align:center;">Gallery</h2>
                                     <div class="row">
-                                    </div> -->
+                                        <div class="col-md-4">
+                                            <div class="grid-item-gallery" style="text-align:center;">
+                                                <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/enter-1.jpeg" alt="Person 3">
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <div class="grid-item-gallery" style="text-align:center;">
+                                                <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/enter-2.jpeg" alt="Person 3">
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <div class="grid-item-gallery" style="text-align:center;">
+                                                <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/enter-3.jpeg" alt="Person 3">
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <div class="grid-item-gallery" style="text-align:center;">
+                                                <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/enter-4.jpeg" alt="Person 3">
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -442,6 +462,16 @@
                                     <div class="col-md-4">
                                         <div class="grid-item-gallery" style="text-align:center;">
                                             <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/img_4054.jpg" alt="Person 3">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <div class="grid-item-gallery" style="text-align:center;">
+                                            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/cultural-1.jpeg" alt="Person 3">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <div class="grid-item-gallery" style="text-align:center;">
+                                            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/cultural-2.jpeg" alt="Person 3">
                                         </div>
                                     </div>
                                 </div>
@@ -762,6 +792,21 @@
                                     <div class="col-md-4">
                                         <div class="grid-item-gallery" style="text-align:center;">
                                             <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/thumbnail.jpg" alt="Person 3">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <div class="grid-item-gallery" style="text-align:center;">
+                                            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/outdoor-1.jpeg" alt="Person 3">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <div class="grid-item-gallery" style="text-align:center;">
+                                            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/outdoor-2.jpeg" alt="Person 3">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <div class="grid-item-gallery" style="text-align:center;">
+                                            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/outdoor-3.jpeg" alt="Person 3">
                                         </div>
                                     </div>
                                 </div>

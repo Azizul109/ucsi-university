@@ -12,6 +12,27 @@
                         <li class="clearfix">
                             <div class="Mdate-col">25-Feb-2025</div>
                             <div class="media-col">Announcement</div>
+                            <div class="title-col"><a href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/holy_ramadan_master_timetable_2025.pdf" target="_blank">Holy Ramadan Master Timetable 2025</a></div>
+                        </li>
+                    </span></div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
+                            <div class="Mdate-col">25-Feb-2025</div>
+                            <div class="media-col">Announcement</div>
+                            <div class="title-col"><a href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/holy_ramadan_timetable_structure_for_jan_20251.pdf" target="_blank">Holy Ramadan Class Timing Structure</a></div>
+                        </li>
+                    </span></div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
+                            <div class="Mdate-col">25-Feb-2025</div>
+                            <div class="media-col">Announcement</div>
+                            <div class="title-col"><a href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/ramadan_library_opening_hours.pdf" target="_blank">Holy Ramadan Library Opening Hours 2025</a></div>
+                        </li>
+                    </span></div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
+                            <div class="Mdate-col">25-Feb-2025</div>
+                            <div class="media-col">Announcement</div>
                             <div class="title-col"><a href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/ramadan-office_time_2025.pdf" target="_blank">Office and Class time for Ramadan</a></div>
                         </li>
                     </span></div>

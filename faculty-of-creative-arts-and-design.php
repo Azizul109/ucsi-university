@@ -1,7 +1,7 @@
 <div class="widget kopa-nothumb-widget">
     <div class="widget-title widget-title-s2 clearfix" style="padding-left:15px;"></div>
     <div class="widget-content">
-        <ul style="list-style-type:none; color:#000; padding-right:30px;"> 
+        <ul style="list-style-type:none; color:#000; padding-right:30px;">
             <!--<span class="field-content">
                 <li>
                     <article class="entry-item row clearfix">
@@ -36,12 +36,12 @@
                     </article>
                 </li>
                 <hr>
-            </span> 
+            </span>
             <span class="field-content">
                 <li>
                     <article class="entry-item row clearfix">
                         <div class="col-md-3 col-sm-3 col-xs-12"> <img typeof="foaf:Image"
-                                src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/styles/facultylistnew/public/40824.png?itok=etCoFCn_"
+                                src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/04_dr_siti_fatimah_icad_1.jpg"
                                 width="117" height="124"></div>
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">
                             <header>
@@ -72,7 +72,7 @@
                     </article>
                 </li>
                 <hr>
-            </span> 
+            </span>
             <span class="field-content">
                 <li>
                     <article class="entry-item row clearfix">
@@ -125,7 +125,7 @@
                     </article>
                 </li>
                 <hr>
-            </span> 
+            </span>
             <span class="field-content">
                 <li>
                     <article class="entry-item row clearfix">
@@ -142,7 +142,7 @@
                     </article>
                 </li>
                 <hr>
-            </span> 
+            </span>
             <span class="field-content">
                 <li>
                     <article class="entry-item row clearfix">
@@ -159,7 +159,7 @@
                     </article>
                 </li>
                 <hr>
-            </span> 
+            </span>
             <span class="field-content">
                 <li>
                     <article class="entry-item row clearfix">
@@ -175,7 +175,7 @@
                     </article>
                 </li>
                 <hr>
-            </span> 
+            </span>
             <span class="field-content">
                 <li>
                     <article class="entry-item row clearfix">
@@ -192,7 +192,7 @@
                     </article>
                 </li>
                 <hr>
-            </span> 
+            </span>
         </ul>
     </div>
 </div>

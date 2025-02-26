@@ -8,6 +8,38 @@
         </div>
         <div class="widget-content">
             <ul class="table-list">
+            <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
+                            <div class="Mdate-col">25-Feb-2025</div>
+                            <div class="media-col">The Daily Campus</div>
+                            <div class="title-col"><a href="https://thedailycampus.com/private-university/172409/" target="_blank">ইউসিএসআই ইউনিভার্সিটি বাংলাদেশ ব্রাঞ্চ ক্যাম্পাসে ইন্ট্রোডাকশন অ্যান্ড অ্যাডমিশন ফেয়ার</a></div>
+                        </li>
+                    </span>
+                </div>
+            <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
+                            <div class="Mdate-col">25-Feb-2025</div>
+                            <div class="media-col">Jagoron Express</div>
+                            <div class="title-col"><a href="https://jagoronexpress.com/details/?pid=1584" target="_blank">ইউসিএসআই ইউনিভার্সিটি বাংলাদেশ ব্রাঞ্চ ক্যাম্পাসে প্রোগ্রাম ইন্ট্রোডাকশন এন্ড এডমিশন ফেয়ার</a></div>
+                        </li>
+                    </span>
+                </div>
+            <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
+                            <div class="Mdate-col">23-Feb-2025</div>
+                            <div class="media-col">Dhaka Times</div>
+                            <div class="title-col"><a href="https://www.dhakatimes24.com/2025/02/23/380215" target="_blank">ইউসিএসআই ইউনিভার্সিটি বাংলাদেশ শাখায় এডমিশন ফেয়ার</a></div>
+                        </li>
+                    </span>
+                </div>
+            <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
+                            <div class="Mdate-col">23-Feb-2025</div>
+                            <div class="media-col">Ajkaler Khobor</div>
+                            <div class="title-col"><a href="https://www.ajkalerkhobor.net/news/176480" target="_blank">ইউসিএসআই ইউনিভার্সিটিতে অ্যাডমিশন ফেয়ার</a></div>
+                        </li>
+                    </span>
+                </div>
                 <div class="views-field views-field-title"> <span class="field-content">
                         <li class="clearfix">
                             <div class="Mdate-col">22-Feb-2025</div>

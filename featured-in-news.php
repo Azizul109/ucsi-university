@@ -8,7 +8,15 @@
         </div>
         <div class="widget-content">
             <ul class="table-list">
-            <div class="views-field views-field-title"> <span class="field-content">
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
+                            <div class="Mdate-col">27-Feb-2025</div>
+                            <div class="media-col">Manabzamin</div>
+                            <div class="title-col"><a href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/2025-02-2718_page-27_02_2025_copy.webp" target="_blank">ইউসিএসআই ইউনিভার্সিটি বাংলাদেশ ব্রাঞ্চ ক্যাম্পাসে ইন্ট্রোডাকশন অ্যান্ড অ্যাডমিশন ফেয়ার</a></div>
+                        </li>
+                    </span>
+                </div>
+                <div class="views-field views-field-title"> <span class="field-content">
                         <li class="clearfix">
                             <div class="Mdate-col">25-Feb-2025</div>
                             <div class="media-col">The Daily Campus</div>
@@ -16,7 +24,7 @@
                         </li>
                     </span>
                 </div>
-            <div class="views-field views-field-title"> <span class="field-content">
+                <div class="views-field views-field-title"> <span class="field-content">
                         <li class="clearfix">
                             <div class="Mdate-col">25-Feb-2025</div>
                             <div class="media-col">Jagoron Express</div>
@@ -24,7 +32,7 @@
                         </li>
                     </span>
                 </div>
-            <div class="views-field views-field-title"> <span class="field-content">
+                <div class="views-field views-field-title"> <span class="field-content">
                         <li class="clearfix">
                             <div class="Mdate-col">23-Feb-2025</div>
                             <div class="media-col">Dhaka Times</div>
@@ -32,7 +40,7 @@
                         </li>
                     </span>
                 </div>
-            <div class="views-field views-field-title"> <span class="field-content">
+                <div class="views-field views-field-title"> <span class="field-content">
                         <li class="clearfix">
                             <div class="Mdate-col">23-Feb-2025</div>
                             <div class="media-col">Ajkaler Khobor</div>

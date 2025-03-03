@@ -308,6 +308,10 @@
                                         <div class="staff-col">Ms Madhurja Mahrab Rumalee</div>
                                         <div class="staff-col">SAA Executive Officer & Coordinator to Director, CAD</div>
                                     </li>
+                                    <li class="clearfix">
+                                        <div class="staff-col">Most. Shanjida Alam</div>
+                                        <div class="staff-col">Executive Officer (Graphic Designer)</div>
+                                    </li>
                                 </ul>
                             </div>
                         </div><!-- kopa-course-list-table -->

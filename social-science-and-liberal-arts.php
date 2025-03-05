@@ -1,21 +1,21 @@
 <div class="widget kopa-nothumb-widget">
     <div class="widget-title widget-title-s2 clearfix" style="padding-left:15px;"></div>
     <div class="widget-content">
-        <ul style="list-style-type:none; color:#000; padding-right:30px;"> 
+        <ul style="list-style-type:none; color:#000; padding-right:30px;">
             <span class="field-content">
                 <li>
                     <article class="entry-item row clearfix">
-                        <div class="col-md-3 col-sm-3 col-xs-12"> <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/styles/facultylistnew/public/img_0763.jpg?itok=Wum4FUOq" width="117" height="124" alt="Dr. Faruqui "></div>
+                        <div class="col-md-3 col-sm-3 col-xs-12"> <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/bijoy_prasad_barua_phd_0.jpeg" width="117" height="124" alt="Dr. Bijoy "></div>
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">
                             <header>
-                                <h2 class="entry-title" style="padding-bottom:3px"><a href="/professor-dr-golam-ahmed-faruqui-0">Professor Golam Ahmed Faruqui, PhD</a></h2>
-                                <div class="designation-box">Dean</div>
+                                <h2 class="entry-title" style="padding-bottom:3px"><a href="/professor-bijoy-prasad-barua-phd">Professor Bijoy Prasad Barua, PhD</a></h2>
+                                <div class="designation-box">Dean & Professor</div>
                             </header>
                         </div>
                     </article>
                 </li>
                 <hr>
-            </span> 
+            </span>
             <span class="field-content">
                 <li>
                     <article class="entry-item row clearfix">
@@ -29,7 +29,7 @@
                     </article>
                 </li>
                 <hr>
-            </span> 
+            </span>
             <span class="field-content">
                 <li>
                     <article class="entry-item row clearfix">
@@ -43,7 +43,7 @@
                     </article>
                 </li>
                 <hr>
-            </span> 
+            </span>
             <span class="field-content">
                 <li>
                     <article class="entry-item row clearfix">
@@ -57,7 +57,7 @@
                     </article>
                 </li>
                 <hr>
-            </span> 
+            </span>
             <span class="field-content">
                 <li>
                     <article class="entry-item row clearfix">
@@ -71,7 +71,7 @@
                     </article>
                 </li>
                 <hr>
-            </span> 
+            </span>
             <span class="field-content">
                 <li>
                     <article class="entry-item row clearfix">
@@ -85,7 +85,7 @@
                     </article>
                 </li>
                 <hr>
-            </span> 
+            </span>
             <span class="field-content">
                 <li>
                     <article class="entry-item row clearfix">

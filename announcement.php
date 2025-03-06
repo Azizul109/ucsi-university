@@ -10,6 +10,13 @@
             <ul class="table-list">
                 <div class="views-field views-field-title"> <span class="field-content">
                         <li class="clearfix">
+                            <div class="Mdate-col">6-Mar-2025</div>
+                            <div class="media-col">Announcement</div>
+                            <div class="title-col"><a href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/eid_ul_fitr_holiday_notice_2025_2025.pdf" target="_blank">Eid Ul Fitr Holiday Notice 2025</a></div>
+                        </li>
+                    </span></div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
                             <div class="Mdate-col">25-Feb-2025</div>
                             <div class="media-col">Announcement</div>
                             <div class="title-col"><a href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/holy_ramadan_master_timetable_2025.pdf" target="_blank">Holy Ramadan Master Timetable 2025</a></div>

@@ -305,8 +305,8 @@
                                         <div class="staff-col">Executive Officer (Web Developer)</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Ms Madhurja Mahrab Rumalee</div>
-                                        <div class="staff-col">SAA Executive Officer & Coordinator to Director, CAD</div>
+                                        <div class="staff-col">Most. Shanjida Alam</div>
+                                        <div class="staff-col">Executive Officer (Graphic Designer)</div>
                                     </li>
                                 </ul>
                             </div>
@@ -991,8 +991,8 @@
                             <div class="widget-content">
                                 <ul class="table-list staff">
                                     <li class="clearfix">
-                                        <div class="staff-col">Professor Golam Ahmed Faruqui, PhD</div>
-                                        <div class="staff-col">Dean</div>
+                                        <div class="staff-col">Professor Bijoy Prasad Barua, PhD</div>
+                                        <div class="staff-col">Dean & Professor</div>
                                     </li>
                                     <li class="clearfix">
                                         <div class="staff-col">Professor Rogayah Bt A Razak, PhD</div>
@@ -1127,7 +1127,7 @@
                             <div class="widget-content">
                                 <ul class="table-list staff">
                                     <li class="clearfix">
-                                        <div class="staff-col">Professor Nor Kamariah Noordin, PhD</div>
+                                        <div class="staff-col">Professor Md. Selim Al Mamun, PhD</div>
                                         <div class="staff-col">Dean</div>
                                     </li>
                                     <li class="clearfix">
@@ -1137,6 +1137,10 @@
                                     <li class="clearfix">
                                         <div class="staff-col">Professor Ts Ghassan Saleh Hussein Al-Dharhani, PhD</div>
                                         <div class="staff-col">Affiliate Associate Professor</div>
+                                    </li>
+                                    <li class="clearfix">
+                                        <div class="staff-col">Professor Farhana Huq, PhD</div>
+                                        <div class="staff-col">Assistant Professor</div>
                                     </li>
                                     <li class="clearfix">
                                         <div class="staff-col">Mr H M Mostafizur Rahman</div>

@@ -27,11 +27,11 @@
     <br>
     <br>
     <br> -->
-    <div class="col-md-4 col-sm-4 col-xs-12">
+    <!-- <div class="col-md-4 col-sm-4 col-xs-12">
         <article class="entry-item">
         </article>
-    </div>
-    <div class="col-md-8 col-sm-8 col-xs-12 d-flex flex-column">
+    </div> -->
+    <div class="col-md-12 col-sm-12 col-xs-12 d-flex flex-column">
         <div class="widget-title widget-title-custom text-center">
             <span></span>
             <h2>About Club Activities</h2>
@@ -45,7 +45,7 @@
             <div class="views-field views-field-title">
                 <span class="field-content">
                     <div class="entry-content">
-                        <h6>
+                        <h6 style="text-align: justify;">
                             Welcome to the UCSI Bangladesh Branch Campus Student Council and Clubs! We are your dedicated student representatives, striving to make your academic journey as rewarding as possible. Our diverse team, hailing from various academic majors and backgrounds, is committed to being the voice of the students and acting as a vital link between the student body and the university management. <br> <br>
 
                             Our mission encompasses a variety of essential functions, all aimed at enhancing your rights, opportunities, and overall experience, regardless of your origin. We are determined to create a level playing field for all, ensuring that every student can thrive in a supportive and inclusive learning environment.
@@ -1107,6 +1107,10 @@
         margin: 10px;
     }
 
+    ul li {
+        margin-bottom: 5px !important;
+    }
+
     @media (max-width: 767px) {
         .grid-item {
             width: 100%;
@@ -1117,6 +1121,10 @@
         .grid-item img {
             width: 100%;
             height: auto;
+        }
+
+        .slidedown {
+            max-height: 4500px;
         }
     }
 </style>

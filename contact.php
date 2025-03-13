@@ -24,7 +24,7 @@
                         </p>
                         <p class="contact-phone">
                             <i class="fa fa-phone-alt"></i>
-                            <span style="color:#ffffff;">+8809610919999</span>
+                            <span style="color:#ffffff;">16798</span>
                         </p>
                         <p class="contact-phone">
                             <i class="fa fa-mobile-alt"></i>

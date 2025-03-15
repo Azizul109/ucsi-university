@@ -28,54 +28,6 @@
                 </div>
             </div>
         </div>
-        <div class="panel-separator"></div>
-
-        <div class="contextual-links-region panel-pane pane-block pane-bean-usp-fobis">
-            <div class="entity entity-bean bean-custom-content clearfix" about="/block/usp-fobis">
-                <div class="content">
-                    <div class="field field-name-field-custom-information field-type-text-with-summary field-label-hidden">
-                        <div class="field-items">
-                            <div class="field-item even">
-                                <div class="col-md-12">
-                                    <div class="widget kopa-owl-5-widget">
-                                        <div class="widget-title widget-title-custom text-center"> <span></span>
-                                            <h2>Study at UCSI</h2>
-                                        </div>
-                                    </div>
-                                    <div class="row">
-                                        <div class="col-md-12 col-sm-12 col-xs-12 panel-col-center">
-                                            <div class="entry-content">
-                                                <div class="col-sm-4 col-xs-12 ">
-                                                    <p class="shortcutlink" style="text-align:center"><img src="https://www.ucsiuniversity.edu.my/sites/default/files/fobis-usp-1_0.jpg" style="width:90%"></p>
-                                                </div>
-                                                <div class="col-sm-4 col-xs-12 ">
-                                                    <p class="shortcutlink" style="text-align:center"><img src="https://www.ucsiuniversity.edu.my/sites/default/files/fobis-usp-2.jpg" style="width:90%"></p>
-                                                </div>
-                                                <div class="col-sm-4 col-xs-12">
-                                                    <p class="shortcutlink" style="text-align:center"><img src="https://www.ucsiuniversity.edu.my/sites/default/files/fobis-usp-3.jpg" style="width:90%"></p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="row">
-                                        <div class="col-md-12 col-sm-12 col-xs-12 panel-col-center">
-                                            <div class="entry-content">
-                                                <div class="col-sm-4 col-xs-12">
-                                                    <p class="shortcutlink" style="text-align:center"><img src="https://www.ucsiuniversity.edu.my/sites/default/files/fobis-usp-4.jpg" style="width:90%"></p>
-                                                </div>
-                                                <div class="col-sm-4 col-xs-12">
-                                                    <p class="shortcutlink" style="text-align:center"><img src="https://www.ucsiuniversity.edu.my/sites/default/files/fobis-usp-6.jpg" style="width:90%"></p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
 
         <iframe style="margin-top: 20px;" width="560" height="315" src="https://www.youtube.com/embed/QSG8On3U3ew?si=FZ9bAC-1ccjIODV2" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

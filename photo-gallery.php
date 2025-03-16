@@ -3,9 +3,9 @@
         <div class="views-field views-field-title"> <span class="field-content">
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <article class="entry-item">
-                        <div class="entry-thumb"> <a href="https://ucsiuniversity073.sharepoint.com/sites/GCA.BD/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FGCA%2EBD%2FShared%20Documents%2FGCA%20BD%2FPhotos%2FStudent%20Affairs%20%26%20Alumni%2FDean%27s%20Honour%20List%20%2D%20Sept%202024&p=true&ga=1" target="_blank"> <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/deans_honour_list_-_sept_2024_0.jpeg" width="398" height="266"> </a></div>
+                        <div class="entry-thumb"> <a href="https://ucsiuniversity073.sharepoint.com/:f:/s/GCA.BD/EqcalpMhP2RMlakV2bG_v_ABTLYcvkS9IysGwAEcm6hUtg?e=QeCHSh" target="_blank"> <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/deans_honour_list_-_sept_2024_0.jpeg" width="398" height="266"> </a></div>
                         <div class="entry-content clearfix pb-40">
-                            <header class="text-center pt-10"> <span class="entry-categories-2"><a href="https://ucsiuniversity073.sharepoint.com/sites/GCA.BD/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FGCA%2EBD%2FShared%20Documents%2FGCA%20BD%2FPhotos%2FStudent%20Affairs%20%26%20Alumni%2FDean%27s%20Honour%20List%20%2D%20Sept%202024&p=true&ga=1" target="_blank">Dean's Honour List - Sept 2024</a></span> </header>
+                            <header class="text-center pt-10"> <span class="entry-categories-2"><a href="https://ucsiuniversity073.sharepoint.com/:f:/s/GCA.BD/EqcalpMhP2RMlakV2bG_v_ABTLYcvkS9IysGwAEcm6hUtg?e=QeCHSh" target="_blank">Dean's Honour List - Sept 2024</a></span> </header>
                         </div>
                     </article>
                 </div>

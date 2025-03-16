@@ -36,7 +36,7 @@
                         <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/about-us/the-pro-chancellor?display=ul">University Leadership</a></li>
                         <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/staff-directory/bangladesh/board-of-directors-and-top-management?display=ul">Board of Directors and Top Management</a></li>
                         <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/professor-dr-atiur-rahman">Academic Advisors</a></li>
-                        <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/pro-vice-chancellor">Pro Vice-Chancellor</a></li>
+                        <!-- <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/pro-vice-chancellor">Pro Vice-Chancellor</a></li> -->
                         <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/provost">Provost</a></li>
                         <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/staff-directory/bangladesh">Staff Directory</a></li>
                         <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/about-ucsi/affiliation-ranking-recognition/affiliation">Affiliation, Ranking and Recognition</a></li>
@@ -81,7 +81,7 @@
                         <!-- <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/scholarship-and-financial-aid-malaysian-student">Scholarships & Financial Aid (Malaysian)</a></li>-->
                         <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/scholarships">Scholarships</a></li>
                         <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/Tuition-Fees">Tuition Fees</a></li>
-                        <!-- <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/downloads">Downloads</a></li> -->
+                        <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/downloads">Downloads</a></li>
                     </ul>
                 </div>
             </div>
@@ -112,9 +112,14 @@
             <div id="collapseThree" class="collapse" role="tabpanel" aria-labelledby="headingThree">
                 <div class="card-block">
                     <ul class="widget-list list-unstyled p-0">
+                        <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/library-policy">Library Policy</a></li>
+                        <li><a href="https://koha.ucsiuniversity.edu.my/cgi-bin/koha/opac-main.pl" target="_blank">OPAC</a></li>
+                        <li><a href="https://lib.ucsiuniversity.edu.my/e-resource/online-database" target="_blank">Online Database</a></li>
                         <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/students-activities-and-recreation/Bangladesh?display=Bangladesh-Branch-Campus">Students Activities and Recreation</a></li>
                         <!-- <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/student-development-counselling/Kuala-Lumpur?display=Kuala-Lumpur">Student Development & Counselling</a></li> -->
-                        <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/accommodation/Kuala-Lumpur?display=Kuala-Lumpur">Accommodation</a></li>
+                        <!-- <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/accommodation/Kuala-Lumpur?display=Kuala-Lumpur">Accommodation</a></li> -->
+                        <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/student-affairs-and-alumni">Student Council and Student Clubs</a></li>
+                        <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/student-affairs-and-alumni">Student Council and Student Clubs</a></li>
                         <!-- <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/orientation-day">Orientation Day</a></li> -->
                     </ul>
                 </div>
@@ -154,7 +159,12 @@
                         <!-- <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/events/2023">Events</a></li> -->
                         <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/photo-gallery/all/all">Photo Gallery</a></li>
                         <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/Video-Gallery">Video Gallery</a></li>
+                        <li><a href="https://ucsiradio.ucsiuniversity.edu.my/">UCSI Radio (Live)</a></li>
+                        <li><a href="https://ucsiradio.ucsiuniversity.edu.my/podcast/" target="_blank">UCSI Radio (Podcast)</a></li>
                         <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/announcement">Notices & Announcements</a></li>
+                        <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/privacy-policy">Privacy Policy</a></li>
+                        <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/about-us/other-informations?display=tu">Other Informations</a></li>
+                        <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/partners">Partners</a></li>
                     </ul>
                 </div>
             </div>

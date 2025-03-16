@@ -11,6 +11,24 @@
                                 </div>
                                 <div class="widget-content">
                                     <div class="row">
+                                    <div class="views-field views-field-title"> <span class="field-content">
+                                                <div class="col-md-4 col-sm-4 col-xs-12">
+                                                    <article class="entry-item">
+                                                        <div class="entry-thumb"> <a href="https://ucsiuniversity073.sharepoint.com/sites/GCA.BD/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FGCA%2EBD%2FShared%20Documents%2FGCA%20BD%2FPhotos%2FStudent%20Affairs%20%26%20Alumni%2FDean%27s%20Honour%20List%20%2D%20Sept%202024&p=true&ga=1" target="_blank"> <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/deans_honour_list_-_sept_2024_0.jpeg" width="398" height="266" alt="" title=""> </a></div>
+                                                        <div class="entry-content">
+                                                            <header class="clearfix"> <span class="entry-time-white pull-left">13 Mar 2025</span> </header>
+                                                            <h3 class="entry-title happenings"><a href="https://ucsiuniversity073.sharepoint.com/sites/GCA.BD/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FGCA%2EBD%2FShared%20Documents%2FGCA%20BD%2FPhotos%2FStudent%20Affairs%20%26%20Alumni%2FDean%27s%20Honour%20List%20%2D%20Sept%202024&p=true&ga=1" target="_blank">Dean's Honour List</a></h3>
+                                                            <div class="qna-2">
+                                                                <div class="question-2"><span></span></div>
+                                                                <div class="answer-2">
+                                                                    <p>22 meritorious students from various faculties of UCSI University Bangladesh Branch Campus have been awarded with the “Dean's Honour List” for their exceptional academic achievements in the Sept 2024 semester.</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </article>
+                                                </div>
+                                            </span>
+                                        </div>
                                         <div class="views-field views-field-title"> <span class="field-content">
                                                 <div class="col-md-4 col-sm-4 col-xs-12">
                                                     <article class="entry-item">
@@ -40,24 +58,6 @@
                                                                 <div class="question-2"><span></span></div>
                                                                 <div class="answer-2">
                                                                     <p>Festival of Youth – A Celebration of Bengali, Culture & Sports was organized by the Cultural Club & Outdoor Sports Club.</p>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </article>
-                                                </div>
-                                            </span>
-                                        </div>
-                                        <div class="views-field views-field-title"> <span class="field-content">
-                                                <div class="col-md-4 col-sm-4 col-xs-12">
-                                                    <article class="entry-item">
-                                                        <div class="entry-thumb"> <a href="https://ucsiuniversity073.sharepoint.com/sites/GCA.BD/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FGCA%2EBD%2FShared%20Documents%2FGCA%20BD%2FPhotos%2FStudent%20Affairs%20%26%20Alumni%2FMind%20Marathon%20%2D%20Kahoot&p=true&ga=1" target="_blank"> <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/mind_marathon-2025.jpg" width="398" height="266" alt="" title=""> </a></div>
-                                                        <div class="entry-content">
-                                                            <header class="clearfix"> <span class="entry-time-white pull-left">12 Feb 2025</span> </header>
-                                                            <h3 class="entry-title happenings"><a href="https://ucsiuniversity073.sharepoint.com/sites/GCA.BD/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FGCA%2EBD%2FShared%20Documents%2FGCA%20BD%2FPhotos%2FStudent%20Affairs%20%26%20Alumni%2FMind%20Marathon%20%2D%20Kahoot&p=true&ga=1" target="_blank">Mind Marathon - 2025</a></h3>
-                                                            <div class="qna-2">
-                                                                <div class="question-2"><span></span></div>
-                                                                <div class="answer-2">
-                                                                    <p>The Student Affairs and Alumni (SAA) Department arranged "Mind Marathon", a fascinating event, with the exploration of Kahoot, a Norwegian online game-based learning platform.</p>
                                                                 </div>
                                                             </div>
                                                         </div>

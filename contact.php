@@ -24,11 +24,11 @@
                         </p>
                         <p class="contact-phone">
                             <i class="fa fa-phone-alt"></i>
-                            <span style="color:#ffffff;">16798</span>
+                            <span style="color:#ffffff;"><a href="tel:16798">16798</a></span>
                         </p>
                         <p class="contact-phone">
                             <i class="fa fa-mobile-alt"></i>
-                            <span style="color:#ffffff;">+8801619999697, +8801949943444, +8801844616516, +8801844616515, +8801327414199</span>
+                            <span style="color:#ffffff;"><a href="tel:+8801619999697">+8801619999697</a>, <a href="tel:+8801949943444">+8801949943444</a>, <a href="tel:+8801844616516">+8801844616516</a>, <a href="tel:+8801844616515">+8801844616515</a>, <a href="tel:+8801327414199">+8801327414199</a></span>
                         </p>
                         <p class="contact-mail">
                             <i class="fa fa-envelope"></i>

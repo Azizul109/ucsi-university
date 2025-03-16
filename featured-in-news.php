@@ -10,6 +10,14 @@
             <ul class="table-list">
                 <div class="views-field views-field-title"> <span class="field-content">
                         <li class="clearfix">
+                            <div class="Mdate-col">16-Mar-2025</div>
+                            <div class="media-col">Ajker Patrika</div>
+                            <div class="title-col"><a href="https://www.ajkerpatrika.com/education/campus/ajpxdvqxtycvk" target="_blank">উজ্জ্বল ক্যারিয়ারের দুয়ার খুলছে ইউসিএসআই ইউনিভার্সিটি</a></div>
+                        </li>
+                    </span>
+                </div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
                             <div class="Mdate-col">27-Feb-2025</div>
                             <div class="media-col">Manabzamin</div>
                             <div class="title-col"><a href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/2025-02-2718_page-27_02_2025_copy.webp" target="_blank">ইউসিএসআই ইউনিভার্সিটি বাংলাদেশ ব্রাঞ্চ ক্যাম্পাসে ইন্ট্রোডাকশন অ্যান্ড অ্যাডমিশন ফেয়ার</a></div>

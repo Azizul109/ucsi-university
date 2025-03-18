@@ -10,6 +10,14 @@
             <ul class="table-list">
                 <div class="views-field views-field-title"> <span class="field-content">
                         <li class="clearfix">
+                            <div class="Mdate-col">17-Mar-2025</div>
+                            <div class="media-col">Bangladesh Pratidin</div>
+                            <div class="title-col"><a href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/bd_protidin-01-02-01-01-01_copy.jpg" target="_blank">The Admission Circular of May 2025 Semester in the Special Supplement of Country's One of the Prominent National Dailies</a></div>
+                        </li>
+                    </span>
+                </div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
                             <div class="Mdate-col">16-Mar-2025</div>
                             <div class="media-col">Ajker Patrika</div>
                             <div class="title-col"><a href="https://www.ajkerpatrika.com/education/campus/ajpxdvqxtycvk" target="_blank">উজ্জ্বল ক্যারিয়ারের দুয়ার খুলছে ইউসিএসআই ইউনিভার্সিটি</a></div>

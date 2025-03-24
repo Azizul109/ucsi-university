@@ -8,7 +8,15 @@
         </div>
         <div class="widget-content">
             <ul class="table-list">
-            <div class="views-field views-field-title"> <span class="field-content">
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
+                            <div class="Mdate-col">24-Mar-2025</div>
+                            <div class="media-col">Samakal</div>
+                            <div class="title-col"><a href="https://samakal.com/campus/article/287036" target="_blank">দেশেই আন্তর্জাতিক ডিগ্রির সুযোগ</a></div>
+                        </li>
+                    </span>
+                </div>
+                <div class="views-field views-field-title"> <span class="field-content">
                         <li class="clearfix">
                             <div class="Mdate-col">18-Mar-2025</div>
                             <div class="media-col">The Daily Campus</div>

@@ -457,6 +457,10 @@
                                         <div class="staff-col">Affiliate Deputy Registrar</div>
                                     </li>
                                     <li class="clearfix">
+                                        <div class="staff-col">Mr Syed Lubaab Rahman</div>
+                                        <div class="staff-col">Deputy Registrar (Academic)</div>
+                                    </li>
+                                    <li class="clearfix">
                                         <div class="staff-col">Mr Nikhil Chandra Sarker, PhD</div>
                                         <div class="staff-col">Librarian</div>
                                     </li>

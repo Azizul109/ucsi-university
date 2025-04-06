@@ -30,17 +30,17 @@
     <div class="col-md-4 col-sm-4 col-xs-12">
         <article class="entry-item">
             <div>
-                <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/saa_officer.jpg" width="255" height="255" alt="Ms Madhurja Mahrab Rumalee" title="Ms Madhurja Mahrab Rumalee">
+                <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/deputy_register_academic.jpg" width="255" height="255" alt="Mr Syed Lubaab Rahman" title="Mr Syed Lubaab Rahman">
             </div>
             <div class="entry-content">
                 <header>
-                    <h6>Ms Madhurja Mahrab Rumalee</h6>
-                    <p>Executive Officer (Events & SAA)</p>
-                    <p>Bachelor of Science (BSc.) in Biotechnology</p>
-                    <p>UCSI University, Malaysia</p>
+                    <h6>Mr Syed Lubaab Rahman</h6>
+                    <p>Deputy Registrar (Academic)</p>
+                    <p>Master of Economics (Major: Policy Economics)</p>
+                    <p>Monash University</p>
                 </header>
                 <p></p>
-                <p><span style="font-size:12px">Email:&nbsp;<a href="mailto:madhurja.mahrab@ucsiuniversity.edu.my">madhurja.mahrab@ucsiuniversity.edu.my</a><br></span></p>
+                <p><span style="font-size:12px">Email:&nbsp;<a href="mailto:syedlubaab@ucsiuniversity.edu.my">syedlubaab@ucsiuniversity.edu.my</a><br></span></p>
                 <p></p>
             </div>
         </article>
@@ -490,9 +490,9 @@
                                 <div class="row" style="margin-top: 10px;">
                                     <div class="col-md-6">
                                         <div class="grid-item" style="text-align:center; margin-bottom: 35px;">
-                                            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/saa_officer.jpg" alt="Person 3" style="max-width: 60%;">
+                                            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/deputy_register_academic.jpg" alt="Person 3" style="max-width: 60%;">
                                             <div style="text-align: center;">
-                                                <p><strong>Ms Madhurja Mahrab Rumalee</strong></p>
+                                                <p><strong>Mr Syed Lubaab Rahman</strong></p>
                                                 <p>Advisor</p>
                                             </div>
                                         </div>
@@ -1123,6 +1123,10 @@
         margin: 10px;
     }
 
+    ul li {
+        margin-bottom: 4px !important;
+    }
+
     @media (max-width: 767px) {
         .grid-item {
             width: 100%;
@@ -1133,6 +1137,10 @@
         .grid-item img {
             width: 100%;
             height: auto;
+        }
+
+        .slidedown {
+            max-height: 4500px;
         }
     }
 </style>

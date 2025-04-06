@@ -131,7 +131,7 @@
             <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/mst._tasniya_afrin-resize.jpg" alt="Person 3">
             <div
                 style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin-top: 18px; line-height: 10px;">
-                <p><strong>Ms Mst. Tasniya Afrin</strong></p>
+                <p><strong>Ms Mst Tasniya Afrin</strong></p>
                 <p>Junior Executive Officer, Library</p>
                 <p style="color: #bf0007; font-size: small;">tasniya.afrin@ucsiuniversity.edu.my</p>
             </div>

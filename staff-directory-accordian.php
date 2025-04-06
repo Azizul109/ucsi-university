@@ -40,7 +40,7 @@
                                     </li>
                                     <li class="clearfix">
                                         <div class="staff-col">Ms Ummay Habiba</div>
-                                        <div class="staff-col">Executive Officer - Administrative and HR Coordinator</div>
+                                        <div class="staff-col">Executive Officer - Administrative & HR Coordinator</div>
                                     </li>
                                 </ul>
                             </div>
@@ -151,7 +151,7 @@
                                         <div class="staff-col">Assistant Officer</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Sgt Mohammad Sirazul Islam (Rtd)</div>
+                                        <div class="staff-col">Sgt Mohammad Sirazul Islam (Retd)</div>
                                         <div class="staff-col">Security Supervisor</div>
                                     </li>
                                     <li class="clearfix">
@@ -159,7 +159,7 @@
                                         <div class="staff-col">Security Supervisor</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Sergeant Bikash Chandra Das (Retd)</div>
+                                        <div class="staff-col">Sgt Bikash Chandra Das (Retd)</div>
                                         <div class="staff-col">Junior Executive Officer (Office and Store)</div>
                                     </li>
                                     <li class="clearfix">
@@ -195,11 +195,11 @@
                                         <div class="staff-col">Office Assistant</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Mr Md. Limon Hossain</div>
+                                        <div class="staff-col">Mr Md Limon Hossain</div>
                                         <div class="staff-col">Office Assistant</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Mr Md. Yeasin</div>
+                                        <div class="staff-col">Mr Md Yeasin</div>
                                         <div class="staff-col">Office Assistant</div>
                                     </li>
                                     <li class="clearfix">
@@ -207,7 +207,7 @@
                                         <div class="staff-col">Office Assistant</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Mr Md. Sohag Mia</div>
+                                        <div class="staff-col">Mr Md Sohag Mia</div>
                                         <div class="staff-col">Office Assistant</div>
                                     </li>
                                     <li class="clearfix">
@@ -220,7 +220,7 @@
                                     </li>
                                     <li class="clearfix">
                                         <div class="staff-col">Mr Ashraful Islam</div>
-                                        <div class="staff-col">Sr. Electrician</div>
+                                        <div class="staff-col">Sr Electrician</div>
                                     </li>
                                     <li class="clearfix">
                                         <div class="staff-col">Snk Sumi Khatun</div>
@@ -239,7 +239,7 @@
                                         <div class="staff-col">Security</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Mr Md. Rifat Mia</div>
+                                        <div class="staff-col">Mr Md Rifat Mia</div>
                                         <div class="staff-col">Security</div>
                                     </li>
                                     <li class="clearfix">
@@ -305,7 +305,7 @@
                                         <div class="staff-col">Executive Officer (Web Developer)</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Most. Shanjida Alam</div>
+                                        <div class="staff-col">Mst Shanjida Alam</div>
                                         <div class="staff-col">Executive Officer (Graphic Designer)</div>
                                     </li>
                                 </ul>
@@ -355,11 +355,11 @@
                                         <div class="staff-col">Executive Officer</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Mr Md. Azharul Islam</div>
+                                        <div class="staff-col">Mr Md Azharul Islam</div>
                                         <div class="staff-col">Executive Officer</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Mr Md. Nurul Islam</div>
+                                        <div class="staff-col">Mr Md Nurul Islam</div>
                                         <div class="staff-col">Junior Executive Officer</div>
                                     </li>
                                 </ul>
@@ -413,7 +413,7 @@
                                         <div class="staff-col">Junior Executive Officer, Sales and Marketing</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Mr MD Suny Ahamed</div>
+                                        <div class="staff-col">Mr Md Suny Ahamed</div>
                                         <div class="staff-col">Junior Executive Officer</div>
                                     </li>
                                 </ul>
@@ -485,7 +485,7 @@
                                         <div class="staff-col">Junior Executive Officer</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Ms Mst. Tasniya Afrin</div>
+                                        <div class="staff-col">Ms Mst Tasniya Afrin</div>
                                         <div class="staff-col">Junior Executive Officer, Library</div>
                                     </li>
                                 </ul>
@@ -765,7 +765,7 @@
                                         <div class="staff-col">Coordinator</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Professor Md. Kashedul Wahab Tuhin, PhD</div>
+                                        <div class="staff-col">Professor Md Kashedul Wahab Tuhin, PhD</div>
                                         <div class="staff-col">Adjunct Professor</div>
                                     </li>
                                     <li class="clearfix">
@@ -823,11 +823,11 @@
                                         <div class="staff-col">Adjunct Professor</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Professor Md. Nurun Nabi, PhD</div>
+                                        <div class="staff-col">Professor Md Nurun Nabi, PhD</div>
                                         <div class="staff-col">Adjunct Professor</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Major General Md. Mahbubur Rashid</div>
+                                        <div class="staff-col">Major General Md Mahbubur Rashid</div>
                                         <div class="staff-col">Adjunct Faculty</div>
                                     </li>
                                     <li class="clearfix">
@@ -1027,7 +1027,7 @@
                                         <div class="staff-col">Adjunct Lecturer</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Mr Md. Ragib Ekhowan</div>
+                                        <div class="staff-col">Mr Md Ragib Ekhowan</div>
                                         <div class="staff-col">Adjunct Lecturer</div>
                                     </li>
                                     <li class="clearfix">

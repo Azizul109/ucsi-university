@@ -55,7 +55,7 @@
                         <div class="entry-thumb img-bg"> <img typeof="foaf:Image" style="padding-top: 0px;" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/styles/staff_photo__230x185_/public/ms_aniza_parveen_1.png?itok=pqEqqHU3" width="230" height="244"></div>
                         <div class="entry-content">
                             <h6 class="pt-10" style="margin-bottom:0">Ms Aniza Parveen</h6>
-                            <p>Director &amp; Vice President</p>
+                            <p>Director</p>
                         </div>
                     </article>
                 </div>
@@ -90,7 +90,7 @@
                     <article class="entry-item">
                         <div class="entry-thumb img-bg"> <img typeof="foaf:Image" style="padding-top: 0px;" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/ashraful_bari_sir.png" width="230" height="244"></div>
                         <div class="entry-content">
-                            <h6 class="pt-10" style="margin-bottom:0">Ashraful Bari</h6>
+                            <h6 class="pt-10" style="margin-bottom:0">Mr Ashraful Bari</h6>
                             <p>Director</p>
                         </div>
                     </article>
@@ -102,7 +102,7 @@
                     <article class="entry-item">
                         <div class="entry-thumb img-bg"> <img typeof="foaf:Image" style="padding-top: 0px;" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/siam.jpg" width="230" height="244"></div>
                         <div class="entry-content">
-                            <h6 class="pt-10" style="margin-bottom:0">Ehsanul Bari Mojumder</h6>
+                            <h6 class="pt-10" style="margin-bottom:0">Mr Ehsanul Bari Mojumder</h6>
                             <p>Director</p>
                         </div>
                     </article>

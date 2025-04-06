@@ -1123,6 +1123,10 @@
         margin: 10px;
     }
 
+    ul li {
+        margin-bottom: 4px !important;
+    }
+
     @media (max-width: 767px) {
         .grid-item {
             width: 100%;
@@ -1133,6 +1137,10 @@
         .grid-item img {
             width: 100%;
             height: auto;
+        }
+
+        .slidedown {
+            max-height: 4500px;
         }
     }
 </style>

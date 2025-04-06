@@ -18,10 +18,10 @@
                             <i class="fa fa-map-marker"></i>
                             <span style="color:#ffffff;">26, Kemal Ataturk Avenue, Banani, Dhaka-1213, Bangladesh.</span>
                         </p>
-                        <p class="contact-user">
+                        <!-- <p class="contact-user">
                             <i class="fa fa-user"></i>
                             <span style="color:#ffffff;">Admission Department</span>
-                        </p>
+                        </p> -->
                         <p class="contact-phone">
                             <i class="fa fa-phone-alt"></i>
                             <span style="color:#ffffff;"><a href="tel:16798">16798</a></span>

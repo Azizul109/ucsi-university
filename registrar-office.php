@@ -43,17 +43,16 @@
                 </div>
             </div>
 
-            <!-- <div class="grid-item">
-                <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/mr_syed_shariful_haque.png"
+            <div class="grid-item">
+                <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/deputy_register_office.jpg"
                     alt="Person 5">
                 <div
                     style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin-top: 18px; line-height: 10px;">
-                    <p><strong>Mr Syed Shariful Haque</strong></p>
-                    <p>IT Administrator</p>
-                    <p>(Head of IT)</p>
-                    <p style="color: #bf0007; font-size: small;">SyedShariful@ucsiuniversity.edu.my</p>
+                    <p><strong>Mr Syed Lubaab Rahman</strong></p>
+                    <p>Deputy Registrar (Academic)</p>
+                    <p style="color: #bf0007; font-size: small;">syedlubaab@ucsiuniversity.edu.my</p>
                 </div>
-            </div> -->
+            </div>
 
         </div>
     </div>
@@ -132,7 +131,7 @@
             <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/mst._tasniya_afrin-resize.jpg" alt="Person 3">
             <div
                 style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin-top: 18px; line-height: 10px;">
-                <p><strong>Ms Mst. Tasniya Afrin</strong></p>
+                <p><strong>Ms Mst Tasniya Afrin</strong></p>
                 <p>Junior Executive Officer, Library</p>
                 <p style="color: #bf0007; font-size: small;">tasniya.afrin@ucsiuniversity.edu.my</p>
             </div>

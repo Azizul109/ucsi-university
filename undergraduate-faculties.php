@@ -41,7 +41,7 @@
                                 </article>
                             </li>
 
-                            <li class="por-item1 col-md-4 col-sm-4 col-xs-4" data-filter-class="[&quot;kopa-all&quot;, &quot;kopa-business&quot;]" style="position: absolute; top: 0px; left: 760px;">
+                            <!-- <li class="por-item1 col-md-4 col-sm-4 col-xs-4" data-filter-class="[&quot;kopa-all&quot;, &quot;kopa-business&quot;]" style="position: absolute; top: 0px; left: 760px;">
                                 <article class="entry-item">
                                     <div class="entry-thumb">
                                         <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/faculty-photo-foe.jpg" width="350" height="215" alt="" title="">
@@ -59,9 +59,9 @@
                                         </h6>
                                     </div>
                                 </article>
-                            </li>
+                            </li> -->
 
-                            <li class="por-item1 col-md-4 col-sm-4 col-xs-4" data-filter-class="[&quot;kopa-all&quot;, &quot;kopa-technology&quot;]" style="position: absolute; top: 358px; left: 0px;">
+                            <!-- <li class="por-item1 col-md-4 col-sm-4 col-xs-4" data-filter-class="[&quot;kopa-all&quot;, &quot;kopa-technology&quot;]" style="position: absolute; top: 358px; left: 0px;">
                                 <article class="entry-item">
                                     <div class="entry-thumb">
                                         <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/faculty-photo-fhtm.jpg" width="350" height="215" alt="" title="">
@@ -81,7 +81,7 @@
                                         </h6>
                                     </div>
                                 </article>
-                            </li>
+                            </li> -->
 
                             <li class="por-item1 col-md-4 col-sm-4 col-xs-4" data-filter-class="[&quot;kopa-all&quot;, &quot;kopa-technology&quot;, &quot;kopa-photography&quot;]" style="position: absolute; top: 358px; left: 380px;">
                                 <article class="entry-item">
@@ -117,7 +117,7 @@
                                     <div class="entry-content  entry-content-faculties ">
                                         <header class="text-center"></header>
                                         <h6 class="entry-title">
-                                            <a href="about-us/faculty-of-creative-arts-design-and-architecture"> Faculty of Creative Arts, Design and Architecture </a>
+                                            <a href="about-us/faculty-of-creative-arts-design-and-architecture"> Faculty of Creative Arts and Design </a>
                                         </h6>
                                     </div>
                                 </article>

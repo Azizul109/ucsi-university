@@ -10,6 +10,30 @@
             <ul class="table-list">
                 <div class="views-field views-field-title"> <span class="field-content">
                         <li class="clearfix">
+                            <div class="Mdate-col">5-Apr-2025</div>
+                            <div class="media-col">Announcement</div>
+                            <div class="title-col"><a href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/course_selection_for_2025-05-_05.04.25.pdf" target="_blank">Course Selection for May (2025-05) Semester</a></div>
+                        </li>
+                    </span>
+                </div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
+                            <div class="Mdate-col">24-Mar-2025</div>
+                            <div class="media-col">Announcement</div>
+                            <div class="title-col"><a href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/last_day_of_full_payment_2025-01_-_24.03.25.pdf" target="_blank">Last Day of Full Payment January (2025-01) Semester</a></div>
+                        </li>
+                    </span>
+                </div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
+                            <div class="Mdate-col">6-Mar-2025</div>
+                            <div class="media-col">Announcement</div>
+                            <div class="title-col"><a href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/deans_honour_list_2024-09_semester_-_06.03.25.pdf" target="_blank">Dean's Honour List September 2024-09 Semester</a></div>
+                        </li>
+                    </span>
+                </div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
                             <div class="Mdate-col">6-Mar-2025</div>
                             <div class="media-col">Announcement</div>
                             <div class="title-col"><a href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/eid_ul_fitr_holiday_notice_2025_2025.pdf" target="_blank">Eid Ul Fitr Holiday Notice 2025</a></div>
@@ -328,17 +352,20 @@
     }
 
     .media-col {
-        flex: 1;  /* Category column */
+        flex: 1;
+        /* Category column */
     }
 
     .title-col {
-        flex: 2;  /* Title column takes more space */
+        flex: 2;
+        /* Title column takes more space */
     }
 
     /* Media Queries for responsiveness */
     @media (max-width: 768px) {
         .media-col {
-            font-size: 14px; /* Reduce the font size for the category */
+            font-size: 14px;
+            /* Reduce the font size for the category */
         }
 
         .title-col {
@@ -348,7 +375,8 @@
 
     @media (max-width: 480px) {
         .media-col {
-            font-size: 10px;  /* Even smaller font size on very small screens */
+            font-size: 10px;
+            /* Even smaller font size on very small screens */
         }
 
         .title-col {

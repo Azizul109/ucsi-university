@@ -1,6 +1,7 @@
 <div class="main-logo" style="float:left;">
     <span><a href="https://www.bangladesh.ucsiuniversity.edu.my/"><img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/logo-new-2-bangladesh-ucsi.png" alt="UCSI University"></a></span>
-    <span><img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/tag.png" alt="QS Ranking" class="QS_logo"></span>
+    <span><img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/ugc-latest.png" alt="UGC" class="UGC"></span>
+
 </div>
 <div class="inside" style="float:right;">
     <div class="widget kopa-social-link-widget">

@@ -139,10 +139,6 @@
                                         <div class="staff-col">Executive Officer</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Ms Orchi Rahman</div>
-                                        <div class="staff-col">Executive Officer</div>
-                                    </li>
-                                    <li class="clearfix">
                                         <div class="staff-col">Mr Md Rashedul Islam</div>
                                         <div class="staff-col">Junior Executive Officer</div>
                                     </li>
@@ -401,7 +397,7 @@
                                         <div class="staff-col">Consultant</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Mr Yasin Bari</div>
+                                        <div class="staff-col">Mr Md Yasin Bari</div>
                                         <div class="staff-col">Team Leader (Marketing)</div>
                                     </li>
                                     <li class="clearfix">
@@ -410,11 +406,11 @@
                                     </li>
                                     <li class="clearfix">
                                         <div class="staff-col">Mr Azizul Farhaz</div>
-                                        <div class="staff-col">Junior Executive Officer, Sales and Marketing</div>
+                                        <div class="staff-col">Junior Executive Officer (Sales and Marketing)</div>
                                     </li>
                                     <li class="clearfix">
                                         <div class="staff-col">Mr Md Suny Ahamed</div>
-                                        <div class="staff-col">Junior Executive Officer</div>
+                                        <div class="staff-col">Junior Executive Officer (Sales and Marketing)</div>
                                     </li>
                                 </ul>
                             </div>
@@ -486,7 +482,7 @@
                                     </li>
                                     <li class="clearfix">
                                         <div class="staff-col">Ms Mst Tasniya Afrin</div>
-                                        <div class="staff-col">Junior Executive Officer, Library</div>
+                                        <div class="staff-col">Executive Officer, Library</div>
                                     </li>
                                 </ul>
                             </div>

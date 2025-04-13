@@ -231,39 +231,12 @@
                 </div>
             </div>
         </strong></div>
-    <div class="views-field views-field-title"> <strong class="field-content">
-            <div class="exhibition-list-box">
-                <div class="row">
-                    <div class="col-md-2 col-sm-2 col-xs-12">
-                        <div class="details-bg">
-                            <p class="title-hidden"><b>Date:</b></p> 23 Apr 2025 - 25 Apr 2025
-                        </div>
-                    </div>
-                    <div class="col-md-2 col-sm-2 col-xs-12">
-                        <div class="details-bg">
-                            <p class="title-hidden"><b>Semester:</b></p> Jan 2025
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-sm-6 col-xs-12 pb-10-mobile">
-                        <div class="details-bg">
-                            <p class="title-hidden"><b>Event:</b></p>
-                            <h6>Scholarship Day</h6><br> 10am – 6pm<br>
-                        </div>
-                    </div>
-                    <div class="col-md-2 col-sm-2 col-xs-12">
-                        <div class="details-bg">
-                            <p class="title-hidden"><b>Venue:</b></p> Hall Room
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </strong></div>
         <div class="views-field views-field-title"> <strong class="field-content">
             <div class="exhibition-list-box">
                 <div class="row">
                     <div class="col-md-2 col-sm-2 col-xs-12">
                         <div class="details-bg">
-                            <p class="title-hidden"><b>Date:</b></p> 16 Apr 2025 - 18 Apr 2025
+                            <p class="title-hidden"><b>Date:</b></p> 24 Apr 2025 - 26 Apr 2025
                         </div>
                     </div>
                     <div class="col-md-2 col-sm-2 col-xs-12">
@@ -279,7 +252,7 @@
                     </div>
                     <div class="col-md-2 col-sm-2 col-xs-12">
                         <div class="details-bg">
-                            <p class="title-hidden"><b>Venue:</b></p> Hall Room
+                            <p class="title-hidden"><b>Venue:</b></p> Admission Office
                         </div>
                     </div>
                 </div>

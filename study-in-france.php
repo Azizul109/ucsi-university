@@ -203,7 +203,7 @@
                                     </div>
                                     <div class="col-md-3 col-sm-4 col-xs-6"> <i class="fa-solid fa-hand-holding-dollar"></i>
                                         <h5 class="pt-15">Tuition Fee</h5>
-                                        <p>Euro 13,000 to Euro 15,000 per year</p>
+                                        <p>Euro 9,900 to Euro 11,700 per year</p>
                                     </div>
                                 </div>
                             </div>

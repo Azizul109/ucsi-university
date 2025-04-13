@@ -11,7 +11,7 @@
                 <!--<li><a href="https://www.bangladesh.ucsiuniversity.edu.my/pro-vice-chancellor">Pro Vice-Chancellor</a></li> -->
                 <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/provost">Provost</a></li>
                 <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/staff-directory-0">Staff Directory</a></li>
-                <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/about-ucsi/affiliation-ranking-recognition/affiliation">Affiliation, Ranking and Recognition</a></li>
+                <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/about-us/affiliation-ranking-recognition/ranking">Awards and Recognition</a></li>
                 <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/registrars-office">Registrar's Office</a></li>
                 <!-- <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/kuala-lumpur-campus/about-the-campus">Kuala Lumpur Campus</a></li> -->
                 <!-- <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/kuching-campus/about-the-campus">Kuching Campus</a></li> -->
@@ -39,7 +39,7 @@
                         <!-- <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/pro-vice-chancellor">Pro Vice-Chancellor</a></li> -->
                         <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/provost">Provost</a></li>
                         <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/staff-directory/bangladesh">Staff Directory</a></li>
-                        <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/about-ucsi/affiliation-ranking-recognition/affiliation">Affiliation, Ranking and Recognition</a></li>
+                        <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/about-us/affiliation-ranking-recognition/ranking">Awards and Recognition</a></li>
                         <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/registrars-office">Registrar's Office</a></li>
                         <!-- <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/kuala-lumpur-campus/about-the-campus">Kuala Lumpur Campus</a></li> -->
                         <!-- <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/kuching-campus/about-the-campus">Kuching Campus</a></li> -->

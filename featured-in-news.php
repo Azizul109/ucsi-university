@@ -10,6 +10,14 @@
             <ul class="table-list">
                 <div class="views-field views-field-title"> <span class="field-content">
                         <li class="clearfix">
+                            <div class="Mdate-col">12-Apr-2025</div>
+                            <div class="media-col">The Daily Campus</div>
+                            <div class="title-col"><a href="https://thedailycampus.com/private-university/178633" target="_blank">দেশে-বিদেশে বহুমুখী ক্যারিয়ারের হাতছানি ইউসিএসআই’র কম্পিউটার সায়েন্স অ্যান্ড ডিজিটাল ইনোভেশন অনুষদে পড়ে</a></div>
+                        </li>
+                    </span>
+                </div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
                             <div class="Mdate-col">29-Mar-2025</div>
                             <div class="media-col">The Daily Campus</div>
                             <div class="title-col"><a href="https://thedailycampus.com/international-university/176947" target="_blank">ব্যবসায় অনুষদেও নিজেদের শ্রেষ্ঠত্ব ধরে রাখতে চায় ইউসিএসআই</a></div>

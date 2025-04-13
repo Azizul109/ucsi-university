@@ -8,6 +8,22 @@
         </div>
         <div class="widget-content">
             <ul class="table-list">
+            <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
+                            <div class="Mdate-col">10-Apr-2025</div>
+                            <div class="media-col">Announcement</div>
+                            <div class="title-col"><a href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/office_notice_pohela_boishakh_20250410_0001.pdf" target="_blank">Declaration of Holiday on 14th April- 2025 for Pohela Boishakh</a></div>
+                        </li>
+                    </span>
+                </div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
+                            <div class="Mdate-col">8-Apr-2025</div>
+                            <div class="media-col">Announcement</div>
+                            <div class="title-col"><a href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/final_exam_notice_2025-01.pdf" target="_blank">Admit Card Collection (Final Examination 2025-01 Semester)</a></div>
+                        </li>
+                    </span>
+                </div>
                 <div class="views-field views-field-title"> <span class="field-content">
                         <li class="clearfix">
                             <div class="Mdate-col">5-Apr-2025</div>

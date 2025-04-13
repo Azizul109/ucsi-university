@@ -11,12 +11,7 @@
                                         <li class=""> <a href="#" class="sf-with-ul"> The University </a>
                                             <ul style="display: none;">
                                                 <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/bangladesh/about-the-campus"> Overview </a></li>
-                                                <li> <a href="#" class="sf-with-ul"> Awards &amp; Recognition </a>
-                                                    <ul style="display: none;">
-                                                        <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/about-ucsi/affiliation-ranking-recognition/ranking"> Ranking </a></li>
-                                                        <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/https%3A//bangladesh.ucsiuniversity.edu.my/about-ucsi/affiliation-ranking-recognition/recognition"> Recognition </a></li>
-                                                        <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/about-ucsi/affiliation-ranking-recognition/affiliation"> Affliliation </a></li>
-                                                    </ul>
+                                                <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/about-ucsi/affiliation-ranking-recognition/ranking" class="sf-with-ul"> Awards &amp; Recognition </a>
                                                 </li>
                                             </ul>
                                         </li>
@@ -90,6 +85,14 @@
                                     <ul style="display: none;">
                                         <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/all-campus-facilities"> Campus Facilities </a></li>
                                         <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/facilities/student-counsiling"> Student Counselling and Enrollment Center </a></li>
+                                        <li> <a href="#" class="sf-with-ul"> Credit Transfer Facilities </a>
+                                            <ul style="display: none;">
+                                                <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/credit-transfer-facilities/study-in-united-kingdom"> Study in UK </a></li>
+                                                <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/credit-transfer-facilities/study-in-australia"> Study in Australia </a></li>
+                                                <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/credit-transfer-facilities/study-in-france"> Study in France </a></li>
+                                                <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/credit-transfer-facilities/study-in-malaysia"> Study in Malaysia </a></li>
+                                            </ul>
+                                        </li>
                                         <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/facilities/security-services"> Security Services </a></li>
                                         <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/facilities/lobby"> Spacious Lobby </a></li>
                                     </ul>

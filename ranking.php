@@ -5,6 +5,19 @@
 
 <div class="row awards-row">
     <div class="col-md-4 col-sm-4 col-xs-12">
+        <p><img alt="" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/qs_subject_ranking-2025.png" style="width:83%"></p>
+    </div>
+    <div class="col-md-8 col-sm-8 col-xs-12">
+        <div class="awards-header">Top 150 Arts and Design</div>
+        <div class="awards-header">Top 250 Business &amp; Management Studies</div>
+        <div class="awards-header">Top 250 School of Graduate Studies</div>
+        <!-- <div class="awards-header">Top 100 Hospitality &amp; Leisure Management</div> -->
+        <div class="awards-header">Rank 132 Social Sciences &amp; Management</div>
+        <div class="awards-header">Top 500 Computer Science &amp; Information Systems</div>
+    </div>
+</div>
+<div class="row awards-row">
+    <div class="col-md-4 col-sm-4 col-xs-12">
         <p><img alt="" src="https://www.ucsiuniversity.edu.my/sites/default/files/qs_asia_2025.png" style="width: 84%;"></p>
     </div>
     <div class="col-md-8 col-sm-8 col-xs-12">
@@ -334,6 +347,294 @@
         <div class="awards-header">QS Asian University Rankings 2015</div>
 
         <p>Top 300 in the QS Asian University Rankings (2015)</p>
+    </div>
+    <!-- col-md-6 -->
+</div>
+
+<p>&nbsp;</p>
+
+<p>UCSI University has been recognised and honoured by many organisations. We are very proud to list these awards on this page.</p>
+
+<p>&nbsp;</p>
+
+<div class="row awards-row">
+    <div class="col-md-4 col-sm-4 col-xs-12">
+        <p><img alt="" src="https://www.ucsiuniversity.edu.my/sites/default/files/rcekl_logo.png" style="width:80%" /></p>
+    </div>
+    <!-- col-md-6 -->
+
+    <div class="col-md-8 col-sm-8 col-xs-12">
+        <div class="awards-header">RCE Greater Kuala Lumpur</div>
+
+        <p>Acknowledged as a Regional Centre of Expertise Greater Kuala Lumpur (RCE Greater KL) by United Nations University (2021).</p>
+    </div>
+    <!-- col-md-6 -->
+</div>
+
+<div class="row awards-row">
+    <div class="col-md-4 col-sm-4 col-xs-12">
+        <p><img alt="" src="https://www.ucsiuniversity.edu.my/sites/default/files/imus-top-100-2020-qs-ranking.png" style="width:80%" /></p>
+    </div>
+    <!-- col-md-6 -->
+
+    <div class="col-md-8 col-sm-8 col-xs-12">
+        <div class="awards-header">Third time best for performing arts</div>
+
+        <p>Institute of Music (IMus) emerged as one of top 100 schools for performing arts in the QS World University Rankings by Subject 2020</p>
+    </div>
+    <!-- col-md-6 -->
+</div>
+
+<div class="row awards-row">
+    <div class="col-md-4 col-sm-4 col-xs-12">
+        <p><img alt="" src="https://www.ucsiuniversity.edu.my/sites/default/files/setara_2019_very_competitive.jpg" style="width:80%" /></p>
+    </div>
+    <!-- col-md-6 -->
+
+    <div class="col-md-8 col-sm-8 col-xs-12">
+        <div class="awards-header">Rating System for Malaysian Higher Education Institutions 2019</div>
+
+        <p>UCSI earned a Five Star rating in SETARA 2019 as VERY COMPETITIVE in the MATURE UNIVERSITY category.</p>
+    </div>
+    <!-- col-md-6 -->
+</div>
+
+<div class="row awards-row">
+    <div class="col-md-4 col-sm-4 col-xs-12">
+        <p><img alt="" src="https://www.ucsiuniversity.edu.my/sites/default/files/cropped-fa-edited.png" style="width:80%" /></p>
+    </div>
+    <!-- col-md-6 -->
+
+    <div class="col-md-8 col-sm-8 col-xs-12">
+        <div class="awards-header">RCE Kuching</div>
+
+        <p>Acknowledged as a Regional Centre of Expertise Kuching (RCE Kuching) by United Nations University (2018).</p>
+    </div>
+    <!-- col-md-6 -->
+</div>
+
+<div class="row awards-row">
+    <div class="col-md-4 col-sm-4 col-xs-12">
+        <p><img alt="" src="https://www.ucsiuniversity.edu.my/sites/default/files/Setara_5_Logo_OL.png" style="width:80%" /></p>
+    </div>
+    <!-- col-md-6 -->
+
+    <div class="col-md-8 col-sm-8 col-xs-12">
+        <div class="awards-header">Rating System for Malaysian Higher Education Institutions 2017</div>
+
+        <p>UCSI is rated in Tier 5 (Emerging Universities) in SETARA 2017, placing it on par with established foreign branch campuses in Malaysia.</p>
+    </div>
+    <!-- col-md-6 -->
+</div>
+
+<div class="row awards-row">
+    <div class="col-md-4 col-sm-4 col-xs-12">
+        <p><img alt="" src="https://www.ucsiuniversity.edu.my/sites/default/files/award-temp.jpg" style="width:70%" /></p>
+    </div>
+    <!-- col-md-6 -->
+
+    <div class="col-md-8 col-sm-8 col-xs-12">
+        <div class="awards-header">The Time Honor Brand, An Everlasting Glory by Sin Chew Daily</div>
+
+        <p>Lifetime Achievement Brand Award (2014) (2015)</p>
+    </div>
+    <!-- col-md-6 -->
+</div>
+
+<div class="row awards-row">
+    <div class="col-md-4 col-sm-4 col-xs-12">
+        <p><img alt="" src="https://www.ucsiuniversity.edu.my/sites/default/files/world-sense-award.jpg" style="width:70%" /></p>
+    </div>
+    <!-- col-md-6 -->
+
+    <div class="col-md-8 col-sm-8 col-xs-12">
+        <div class="awards-header">World Sense of Place Awards</div>
+
+        <p>University Precinct of the Year (2013)</p>
+    </div>
+    <!-- col-md-6 -->
+</div>
+
+<div class="row awards-row">
+    <div class="col-md-4 col-sm-4 col-xs-12">
+        <p><img alt="" src="https://www.ucsiuniversity.edu.my/sites/default/files/the-brandlauratte-2009.jpg" style="width:70%" /></p>
+    </div>
+    <!-- col-md-6 -->
+
+    <div class="col-md-8 col-sm-8 col-xs-12">
+        <div class="awards-header">The Brand Laureate</div>
+
+        <p>Brand Laureate SMEs Chapter Award for the Best Brand in Tertiary Education 2008/09</p>
+    </div>
+    <!-- col-md-6 -->
+</div>
+
+<div class="row awards-row">
+    <div class="col-md-4 col-sm-4 col-xs-12">
+        <p><img alt="" src="https://www.ucsiuniversity.edu.my/sites/default/files/miti.jpg" style="width:70%" /></p>
+    </div>
+    <!-- col-md-6 -->
+
+    <div class="col-md-8 col-sm-8 col-xs-12">
+        <div class="awards-header">Ministry of International Trade and Industry</div>
+
+        <ul>
+            <li>
+                <p>Export Excellence Award - Education Services (2008)</p>
+            </li>
+            <li>
+                <p>Special Award for Quality Management (2007)</p>
+            </li>
+            <li>
+                <p>Special Awards for Quality (2006)</p>
+            </li>
+        </ul>
+
+        <p>&nbsp;</p>
+    </div>
+    <!-- col-md-6 -->
+</div>
+<!-- list 1 -->
+
+<div class="row awards-row">
+    <div class="col-md-4 col-sm-4 col-xs-12">
+        <p><img alt="" src="https://www.ucsiuniversity.edu.my/sites/default/files/logo-ministry-of-human-resource-v1.png" style="width:80%" /></p>
+    </div>
+    <!-- col-md-6 -->
+
+    <div class="col-md-8 col-sm-8 col-xs-12">
+        <div class="awards-header">Ministry of Human Resources, Malaysia</div>
+
+        <p>Human Resources Minister Award (2003)</p>
+    </div>
+    <!-- col-md-6 -->
+</div>
+<!-- list 1 -->
+
+<div class="row awards-row">
+    <div class="col-md-4 col-sm-4 col-xs-12">
+        <p><img alt="" src="https://www.ucsiuniversity.edu.my/sites/default/files/matrade-logo.jpg" style="width:80%" /></p>
+    </div>
+    <!-- col-md-6 -->
+
+    <div class="col-md-8 col-sm-8 col-xs-12">
+        <div class="awards-header">Malaysia External Trade Development Corporation (MATRADE)</div>
+
+        <p>Export Excellence Award for Services (2004)</p>
+    </div>
+    <!-- col-md-6 -->
+</div>
+<!-- list 1 -->
+
+<div class="row awards-row">
+    <div class="col-md-4 col-sm-4 col-xs-12">
+        <p><img alt="" src="https://www.ucsiuniversity.edu.my/sites/default/files/logo-iprl.png" style="width:80%" /></p>
+    </div>
+    <!-- col-md-6 -->
+
+    <div class="col-md-8 col-sm-8 col-xs-12">
+        <div class="awards-header">Institute of Public Relations Malaysia (IPRM)</div>
+
+        <p>IPRM Crystal Award</p>
+    </div>
+    <!-- col-md-6 -->
+</div>
+
+</div>
+<!-- list 1 -->
+
+<div class="row awards-row">
+    <div class="col-md-4 col-sm-4 col-xs-12">
+        <p><img alt="" src="https://www.ucsiuniversity.edu.my/sites/default/files/award-icon.jpg" style="width:80%" /></p>
+    </div>
+    <!-- col-md-6 -->
+
+    <div class="col-md-8 col-sm-8 col-xs-12">
+        <div class="awards-header">International Organization For Standardization (ISO)</div>
+
+        <p>ISO 9001:2000 Certification</p>
+    </div>
+    <!-- col-md-6 -->
+</div>
+<!-- list 1 -->
+
+<div class="row awards-row">
+    <div class="col-md-4 col-sm-4 col-xs-12">
+        <p><img alt="" src="https://www.ucsiuniversity.edu.my/sites/default/files/award-icon.jpg" style="width:80%" /></p>
+    </div>
+    <!-- col-md-6 -->
+
+    <div class="col-md-8 col-sm-8 col-xs-12">
+        <div class="awards-header">GTI Specialist Publishers</div>
+
+        <p>
+            Top Customers (Local University College)<br />
+            Most Page Views Course Profile (www.ucsiuniversity.edu.my)
+        </p>
+    </div>
+    <!-- col-md-6 -->
+</div>
+<!-- list 1 -->
+
+<p>&nbsp;</p>
+
+<p>UCSI University has been recognised and honoured by many organisations. We are very proud to list these awards on this page.</p>
+
+<p>&nbsp;</p>
+<!-- list 1 -->
+
+<div class="row awards-row">
+    <div class="col-md-4 col-sm-4 col-xs-12">
+        <p><img alt="" src="https://www.ucsiuniversity.edu.my/sites/default/files/msc-company-1.jpg" style="width:80%" /></p>
+    </div>
+    <!-- col-md-6 -->
+
+    <div class="col-md-8 col-sm-8 col-xs-12">
+        <div class="awards-header">Multimedia Development Corporation (MDC)</div>
+
+        <p>MSC-Status Company (Since 1999)</p>
+    </div>
+    <!-- col-md-6 -->
+</div>
+
+
+<div class="row awards-row">
+    <div class="col-md-4 col-sm-4 col-xs-12">
+        <p><img alt="" src="https://www.ucsiuniversity.edu.my/sites/default/files/malaysia-canada-business-council.jpg" style="width:80%" /></p>
+    </div>
+    <!-- col-md-6 -->
+
+    <div class="col-md-8 col-sm-8 col-xs-12">
+        <div class="awards-header">Malaysia Canada Business Council</div>
+
+        <ul>
+            <li>
+                <p>Company of the Year (2008)</p>
+            </li>
+            <li>
+                <p>Company of the Year (2003)</p>
+            </li>
+            <li>
+                <p>Good Corporate Citizen Award (2002)</p>
+            </li>
+            <li>
+                <p>Entrepreneur of the Year (2002)</p>
+            </li>
+        </ul>
+    </div>
+    <!-- col-md-6 -->
+</div>
+
+<div class="row awards-row">
+    <div class="col-md-4 col-sm-4 col-xs-12">
+        <p><img alt="" src="https://www.ucsiuniversity.edu.my/sites/default/files/logo-qaa.jpg" style="width:80%" /></p>
+    </div>
+    <!-- col-md-6 -->
+
+    <div class="col-md-8 col-sm-8 col-xs-12">
+        <div class="awards-header">Quality Assurance Agency For Higher Education, UK</div>
+
+        <p>Top of the Class Commendation</p>
     </div>
     <!-- col-md-6 -->
 </div>

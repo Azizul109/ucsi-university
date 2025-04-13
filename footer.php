@@ -58,6 +58,7 @@
                 <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/admission/bangladeshi-students/overview">Bangladeshi Students</a></li>
                 <!-- <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/admission/international-students/overview">International Students</a></li>-->
                 <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/intakes-and-calendar">Intakes and Calendar</a></li>
+                <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/exhibitions-and-roadshows">Exhibitions And Roadshows</a></li>
                 <!-- <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/scholarship-and-financial-aid-malaysian-student">Scholarships & Financial Aid (Malaysian)</a></li>-->
                 <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/scholarships">Scholarships</a></li>
                 <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/Tuition-Fees">Tuition Fees</a></li>
@@ -68,7 +69,7 @@
             <div role="tab" id="headingTwo">
                 <h4 class="card-header py-3 border-0 text-uppercase text-bold">
                     <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                        Admission
+                        Admissions
                     </a>
                 </h4>
             </div>
@@ -78,6 +79,7 @@
                         <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/admission/bangladeshi-students/overview">Bangladeshi Students</a></li>
                         <!-- <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/admission/international-students/overview">International Students</a></li>-->
                         <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/intakes-and-calendar">Intakes and Calendar</a></li>
+                        <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/exhibitions-and-roadshows">Exhibitions And Roadshows</a></li>
                         <!-- <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/scholarship-and-financial-aid-malaysian-student">Scholarships & Financial Aid (Malaysian)</a></li>-->
                         <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/scholarships">Scholarships</a></li>
                         <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/Tuition-Fees">Tuition Fees</a></li>

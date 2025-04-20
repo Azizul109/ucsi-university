@@ -198,8 +198,8 @@
         <div class="col-md-12">
             <div class="widget kopa-ads-1-widget">
                 <ul class="clearfix">
-                    <li> <a href="https://www.ucsiuniversity.edu.my/employment-and-co-op-placement-centre/co-op-placement-centre/students/eresources/Kuala-Lumpur?display=Kuala-Lumpur-Campus" target=""> <img typeof="foaf:Image" src="https://www.ucsiuniversity.edu.my/sites/default/files/styles/featured_box_395x110/public/e-resourcecenter.jpg?itok=hpltYDWf" width="395" height="110"> </a></li>
-                    <li> <a href="https://www.ucsiuniversity.edu.my/employment-and-co-op-placement-centre/co-op-placement-centre/students/generalforms/Kuala-Lumpur?display=Kuala-Lumpur-Campus" target=""> <img typeof="foaf:Image" src="https://www.ucsiuniversity.edu.my/sites/default/files/styles/featured_box_395x110/public/co-opforms.jpg?itok=tWF7CW9k" width="395" height="110"> </a></li>
+                    <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/employment-and-co-op-placement-centre/co-op-placement-centre/students/eresources" target=""> <img typeof="foaf:Image" src="https://www.ucsiuniversity.edu.my/sites/default/files/styles/featured_box_395x110/public/e-resourcecenter.jpg?itok=hpltYDWf" width="395" height="110"> </a></li>
+                    <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/employment-and-co-op-placement-centre/co-op-placement-centre/students/generalforms" target=""> <img typeof="foaf:Image" src="https://www.ucsiuniversity.edu.my/sites/default/files/styles/featured_box_395x110/public/co-opforms.jpg?itok=tWF7CW9k" width="395" height="110"> </a></li>
                 </ul>
             </div>
         </div>

@@ -8,7 +8,15 @@
         </div>
         <div class="widget-content">
             <ul class="table-list">
-            <div class="views-field views-field-title"> <span class="field-content">
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
+                            <div class="Mdate-col">20-Apr-2025</div>
+                            <div class="media-col">Announcement</div>
+                            <div class="title-col"><a href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/admission_fair_notice.jpeg" target="_blank">UCSI University Bangladesh Branch Campus arranges Programme Introduction & Admission Fair from 24-26 April 2025</a></div>
+                        </li>
+                    </span>
+                </div>
+                <div class="views-field views-field-title"> <span class="field-content">
                         <li class="clearfix">
                             <div class="Mdate-col">10-Apr-2025</div>
                             <div class="media-col">Announcement</div>

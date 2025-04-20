@@ -72,13 +72,10 @@
                                                 <li> <a href="https://lib.ucsiuniversity.edu.my/e-resource/online-database"> Online Database </a></li>
                                             </ul>
                                         </li>
-                                        <li> <a href="#" class="sf-with-ul"> Student Experience </a>
-                                            <ul style="display: none;">
-                                                <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/student-affairs-and-alumni"> Student Affairs and Alumni </a></li>
-                                                <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/students-activities-and-recreation-new"> Students' Activities and Recreation </a></li>
-                                            </ul>
-                                        </li>
-                                        <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/graduate-attribute" class="sf-with-ul"> Graduate Attribute </a></li>
+                                        <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/student-affairs-and-alumni"> Student Affairs and Alumni </a></li>
+                                        <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/students-activities-and-recreation-new"> Students' Activities and Recreation </a></li>
+                                        <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/co-op-placement"> Co-Op Placement Centre </a></li>
+                                        <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/graduate-attribute"> Graduate Attribute </a></li>
                                     </ul>
                                 </li>
                                 <li class=""> <a href="#" class="sf-with-ul"> Facilities </a>

@@ -203,7 +203,7 @@
                                     </div>
                                     <div class="col-md-3 col-sm-4 col-xs-6"> <i class="fa-solid fa-hand-holding-dollar"></i>
                                         <h5 class="pt-15">Tuition Fee</h5>
-                                        <p>AUD 22,000 to AUD 33,850 per year</p>
+                                        <p>AUD 50,560 per year</p>
                                     </div>
                                 </div>
                             </div>
@@ -272,15 +272,15 @@
                                                                         </tr>
                                                                         <tr>
                                                                             <th>IELTS</th>
-                                                                            <td>6.5 to 7.0</td>
+                                                                            <td>6.5</td>
                                                                         </tr>
                                                                         <tr>
                                                                             <th>TOEFL</th>
-                                                                            <td>60 to 90</td>
+                                                                            <td>87</td>
                                                                         </tr>
                                                                         <tr>
                                                                             <th>PTE Academic</th>
-                                                                            <td>50 to 64</td>
+                                                                            <td>64</td>
                                                                         </tr>
                                                                     </tbody>
                                                                 </table>
@@ -297,7 +297,7 @@
                                                     <div class="panel-body">
                                                         <ul>
                                                             <li>Apply for the appropriate student visa, meeting health and character requirements.</li>
-                                                            <li>Demonstrate sufficient financial resources and obtain Overseas Student Health Cover (OSHC).</li>
+                                                            <li>Demonstrate sufficient financial resources.</li>
                                                             <li> Requirements for Student Visa:<ul>
                                                                     <li>Proof of enrolment</li>
                                                                     <li>A valid passport</li>
@@ -306,7 +306,6 @@
                                                                     <li>Academic and work experience documents</li>
                                                                     <li>English proficiency test</li>
                                                                     <li>Evidence of financial ability</li>
-                                                                    <li>Details of your health insurance policy (OSHC)</li>
                                                                     <li>Passport-sized photographs</li>
                                                                 </ul>
                                                             </li>

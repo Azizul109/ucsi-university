@@ -10,6 +10,46 @@
             <ul class="table-list">
                 <div class="views-field views-field-title"> <span class="field-content">
                         <li class="clearfix">
+                            <div class="Mdate-col">18-Apr-2025</div>
+                            <div class="media-col">Amar Desh</div>
+                            <div class="title-col"><a href="https://eamardesh.com/2025-04-18/edition-2/13/28358" target="_blank">ইউসিএসআই ইউনিভার্সিটিতে বর্ণিল আয়োজনে পহেলা বৈশাখ উদযাপন</a></div>
+                        </li>
+                    </span>
+                </div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
+                            <div class="Mdate-col">17-Apr-2025</div>
+                            <div class="media-col">Ajker Patrika</div>
+                            <div class="title-col"><a href="https://www.ajkerpatrika.com/education/campus/ajpqdonrml7x3" target="_blank">ইউসিএসআই ইউনিভার্সিটি বাংলাদেশ শাখা ক্যাম্পাসে বর্ণিল আয়োজনে পয়লা বৈশাখ ১৪৩২ উদ্‌যাপন</a></div>
+                        </li>
+                    </span>
+                </div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
+                            <div class="Mdate-col">17-Apr-2025</div>
+                            <div class="media-col">Kaler Kantho</div>
+                            <div class="title-col"><a href="https://www.kalerkantho.com/online/campus-online/2025/04/17/1505432" target="_blank">ইউসিএসআই ইউনিভার্সিটির বাংলাদেশ ক্যাম্পাসে বর্ণিল নববর্ষ উদযাপন</a></div>
+                        </li>
+                    </span>
+                </div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
+                            <div class="Mdate-col">17-Apr-2025</div>
+                            <div class="media-col">The Daily Campus</div>
+                            <div class="title-col"><a href="https://thedailycampus.com/private-university/179293/" target="_blank">ইউসিএসআই ইউনিভার্সিটিতে বর্ণিল আয়োজনে পহেলা বৈশাখ উদযাপন</a></div>
+                        </li>
+                    </span>
+                </div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
+                            <div class="Mdate-col">17-Apr-2025</div>
+                            <div class="media-col">Ajkaler Khobor</div>
+                            <div class="title-col"><a href="https://www.ajkalerkhobor.net/news/179878" target="_blank">ইউসিএসআই ইউনিভার্সিটি বাংলাদেশ ক্যাম্পাসে পহেলা বৈশাখ উদযাপন</a></div>
+                        </li>
+                    </span>
+                </div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
                             <div class="Mdate-col">12-Apr-2025</div>
                             <div class="media-col">The Daily Campus</div>
                             <div class="title-col"><a href="https://thedailycampus.com/private-university/178633" target="_blank">দেশে-বিদেশে বহুমুখী ক্যারিয়ারের হাতছানি ইউসিএসআই’র কম্পিউটার সায়েন্স অ্যান্ড ডিজিটাল ইনোভেশন অনুষদে পড়ে</a></div>

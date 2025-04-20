@@ -199,7 +199,7 @@
                                     </div>
                                     <div class="col-md-3 col-sm-4 col-xs-6"> <i class="fa-solid fa-school"></i>
                                         <h5 class="pt-15">Cost of Living</h5>
-                                        <p>RM 33,000</p>
+                                        <p>RM 1,543 to RM 1,764 per Month</p>
                                     </div>
                                     <div class="col-md-3 col-sm-4 col-xs-6"> <i class="fa-solid fa-hand-holding-dollar"></i>
                                         <h5 class="pt-15">Tuition Fee</h5>
@@ -316,7 +316,7 @@
                                                     <div class="panel-body">
                                                         <ul>
                                                             <li>Apply for the appropriate student visa, meeting health and character requirements.</li>
-                                                            <li>Demonstrate sufficient financial resources and obtain Overseas Student Health Cover (OSHC).</li>
+                                                            <li>Demonstrate sufficient financial resources.</li>
                                                             <li> Requirements for Student Visa:<ul>
                                                                     <li>Proof of enrollment</li>
                                                                     <li>A valid passport</li>
@@ -325,7 +325,6 @@
                                                                     <li>Academic and work experience documents</li>
                                                                     <li>English proficiency test</li>
                                                                     <li>Evidence of financial ability</li>
-                                                                    <li>Details of your health insurance policy (OSHC)</li>
                                                                     <li>Passport-sized photographs</li>
                                                                 </ul>
                                                             </li>

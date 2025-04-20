@@ -11,7 +11,25 @@
                                 </div>
                                 <div class="widget-content">
                                     <div class="row">
-                                    <div class="views-field views-field-title"> <span class="field-content">
+                                        <div class="views-field views-field-title"> <span class="field-content">
+                                                <div class="col-md-4 col-sm-4 col-xs-12">
+                                                    <article class="entry-item">
+                                                        <div class="entry-thumb"> <a href="https://ucsiuniversity073.sharepoint.com/sites/GCA.BD/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FGCA%2EBD%2FShared%20Documents%2FGCA%20BD%2FPhotos%2FStudent%20Events%2FShuvo%20Noboborsho%201432&p=true&ga=1" target="_blank"> <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/bangla_noboborsho_1432.jpg" width="398" height="266"> </a></div>
+                                                        <div class="entry-content">
+                                                            <header class="clearfix"> <span class="entry-time-white pull-left">16 Apr 2025</span> </header>
+                                                            <h3 class="entry-title happenings"><a href="https://ucsiuniversity073.sharepoint.com/sites/GCA.BD/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FGCA%2EBD%2FShared%20Documents%2FGCA%20BD%2FPhotos%2FStudent%20Events%2FShuvo%20Noboborsho%201432&p=true&ga=1" target="_blank">Bangla Noboborsho 1432</a></h3>
+                                                            <div class="qna-2">
+                                                                <div class="question-2"><span></span></div>
+                                                                <div class="answer-2">
+                                                                    <p>On Wednesday, April 16, 2025, the Bangladesh Branch Campus of Malaysian UCSI University celebrated the Pahela Baishakh 1432 Event with festive fervour. The University's Cultural Club and Photography Club jointly organized the event, initiated by the Student Affairs and Alumni (SAA).</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </article>
+                                                </div>
+                                            </span>
+                                        </div>
+                                        <div class="views-field views-field-title"> <span class="field-content">
                                                 <div class="col-md-4 col-sm-4 col-xs-12">
                                                     <article class="entry-item">
                                                         <div class="entry-thumb"> <a href="https://ucsiuniversity073.sharepoint.com/sites/GCA.BD/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FGCA%2EBD%2FShared%20Documents%2FGCA%20BD%2FPhotos%2FStudent%20Affairs%20%26%20Alumni%2FDean%27s%20Honour%20List%20%2D%20Sept%202024&p=true&ga=1" target="_blank"> <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/deans_honour_list_-_sept_2024_0.jpeg" width="398" height="266" alt="" title=""> </a></div>
@@ -47,25 +65,7 @@
                                                 </div>
                                             </span>
                                         </div>
-                                        <div class="views-field views-field-title"> <span class="field-content">
-                                                <div class="col-md-4 col-sm-4 col-xs-12">
-                                                    <article class="entry-item">
-                                                        <div class="entry-thumb"> <a href="https://drive.google.com/drive/folders/12T2pvD5iWv_vebpypC58FFctfPN7VrzM" target="_blank"> <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/tarunner_utshob-2025.jpg" width="398" height="266"> </a></div>
-                                                        <div class="entry-content">
-                                                            <header class="clearfix"> <span class="entry-time-white pull-left">16 Feb 2025</span> </header>
-                                                            <h3 class="entry-title happenings"><a href="https://drive.google.com/drive/folders/12T2pvD5iWv_vebpypC58FFctfPN7VrzM" target="_blank">Tarunner Utshob - 2025</a></h3>
-                                                            <div class="qna-2">
-                                                                <div class="question-2"><span></span></div>
-                                                                <div class="answer-2">
-                                                                    <p>Festival of Youth – A Celebration of Bengali, Culture & Sports was organized by the Cultural Club & Outdoor Sports Club.</p>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </article>
-                                                </div>
-                                            </span>
-                                        </div>
-                                    </div> 
+                                    </div>
                                 </div>
                                 <script type="text/javascript">
                                     let question = document.querySelectorAll(".question-2");

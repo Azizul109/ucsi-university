@@ -187,7 +187,7 @@
                                     </div>
                                     <div class="col-md-3 col-sm-4 col-xs-6"> <i class="fa-solid fa-file-pen"></i>
                                         <h5 class="pt-15">Exams Required</h5>
-                                        <p>IELTS, TOEFL, or ICIMS</p>
+                                        <p>IELTS, TOEFL or TOEIC</p>
                                     </div>
                                     <div class="col-md-3 col-sm-4 col-xs-6"> <i class="fa-regular fa-file-lines"></i>
                                         <h5 class="pt-15">Intakes</h5>
@@ -203,7 +203,7 @@
                                     </div>
                                     <div class="col-md-3 col-sm-4 col-xs-6"> <i class="fa-solid fa-hand-holding-dollar"></i>
                                         <h5 class="pt-15">Tuition Fee</h5>
-                                        <p>Euro 9,900 to Euro 11,700 per year</p>
+                                        <p>Euro 13,000 per year</p>
                                     </div>
                                 </div>
                             </div>
@@ -262,7 +262,7 @@
                                                 <div id="collapse2" class="panel-collapse collapse">
                                                     <div class="panel-body">
                                                         <ul>
-                                                            <li>Proficiency in English is required, with accepted tests including IELTS, TOEFL, or ICIMS.</li>
+                                                            <li>Proficiency in English is required, with accepted tests including IELTS, TOEFL, or TOEIC.</li>
                                                             <li> Minimum scores are typically specified for each program.<table class="mt-20">
                                                                     <tbody>
                                                                         <tr>
@@ -271,15 +271,15 @@
                                                                         </tr>
                                                                         <tr>
                                                                             <th>IELTS</th>
-                                                                            <td>5.5 to 7.0</td>
+                                                                            <td>6.0</td>
                                                                         </tr>
                                                                         <tr>
                                                                             <th>TOEFL</th>
-                                                                            <td>75 to 90</td>
+                                                                            <td>80</td>
                                                                         </tr>
                                                                         <tr>
-                                                                            <th>ICIMS</th>
-                                                                            <td>60 to 70</td>
+                                                                            <th>TOEIC</th>
+                                                                            <td>700</td>
                                                                         </tr>
                                                                     </tbody>
                                                                 </table>

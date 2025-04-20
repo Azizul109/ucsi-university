@@ -103,7 +103,7 @@
                                 </div>
                             </div>
                             <p>The next step is to ‘filter’ the information collected and come up with a conclusion. The few categories you could focus on are as set out below:</p>
-                            <p class="text-center"><img src="https://www.ucsiuniversity.edu.my/sites/default/files/img1.png"></p>
+                            <p class="text-center"><img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/img1-new.png"></p>
                             <p class="pt-20">Bear in mind that the categories also depend on your current situation and personal values. A few off-the-list that some might want to consider are the ‘company’s reputation,’ ‘geographical location,’ ‘growth prospects,’ or whether or not you fit in with the ‘requirements.’</p>
                         </div>
                     </div>
@@ -200,6 +200,7 @@
                 <ul class="clearfix">
                     <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/employment-and-co-op-placement-centre/co-op-placement-centre/students/eresources" target=""> <img typeof="foaf:Image" src="https://www.ucsiuniversity.edu.my/sites/default/files/styles/featured_box_395x110/public/e-resourcecenter.jpg?itok=hpltYDWf" width="395" height="110"> </a></li>
                     <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/employment-and-co-op-placement-centre/co-op-placement-centre/students/generalforms" target=""> <img typeof="foaf:Image" src="https://www.ucsiuniversity.edu.my/sites/default/files/styles/featured_box_395x110/public/co-opforms.jpg?itok=tWF7CW9k" width="395" height="110"> </a></li>
+                    <li> <a href="https://apps.ucsiuniversity.edu.my/mycoopbd/Front.aspx" target="_blank"> <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/styles/featured_box_395x110/public/co-op-portal-new.jpg?itok=U7ljB8jq" width="395" height="110"> </a></li>
                 </ul>
             </div>
         </div>

@@ -1,7 +1,7 @@
 <div class="panel-separator"></div>
 <div class="row">
     <div class="col-md-12 col-sm-12 col-xs-12 mb-40">
-        <h3>Co-Op Placement Centre (Students)</h3> <br>
+        <h3>Students</h3> <br>
         <div class="widget" style="margin-bottom:0;">
             <div class="widget-title widget-title-s11 clearfix"> <i class="fa fa-newspaper-o pull-left"></i>
                 <h4 class="pull-left">GETTING STARTED</h4>
@@ -103,7 +103,7 @@
                                 </div>
                             </div>
                             <p>The next step is to ‘filter’ the information collected and come up with a conclusion. The few categories you could focus on are as set out below:</p>
-                            <p class="text-center"><img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/img1-new.png"></p>
+                            <p class="text-center"><img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/i1mg1.png"></p>
                             <p class="pt-20">Bear in mind that the categories also depend on your current situation and personal values. A few off-the-list that some might want to consider are the ‘company’s reputation,’ ‘geographical location,’ ‘growth prospects,’ or whether or not you fit in with the ‘requirements.’</p>
                         </div>
                     </div>

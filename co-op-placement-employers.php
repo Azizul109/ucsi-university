@@ -1,7 +1,7 @@
 <div class="panel-separator"></div>
 <div class="row">
     <div class="col-md-12 col-sm-12 col-xs-12 mb-40">
-        <h3>Co-Op Placement Centre (Employers)</h3> <br>
+        <h3>Employers</h3> <br>
         <div class="widget" style="margin-bottom:0;">
             <div class="widget-title widget-title-s11 clearfix"> <i class="fa fa-newspaper-o pull-left"></i>
                 <h4 class="pull-left">OVERVIEW</h4>

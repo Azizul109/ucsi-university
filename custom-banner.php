@@ -1,6 +1,6 @@
 <header class="page-header">
     <div class="mask-pattern"></div>
-    <div class="mask"></div> <img class="page-header-bg page-header-bg-1" typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/library_banner.jpg" width="1960" height="330" alt="Current Students" title="Current Students">
+    <div class="mask"></div> <img class="page-header-bg page-header-bg-1" typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/intern-co-op-3.jpeg" width="1960" height="330" alt="Current Students" title="Current Students">
     <div class="page-header-inner">
         <div class="container">
             <div class="row">

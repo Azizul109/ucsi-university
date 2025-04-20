@@ -5,9 +5,7 @@
         <p style="text-align: justify;">Co-Op Placement Centre provide integrated services to all UCSI University students to contribute to their intentional and rewarding career journey.</p>
         <p style="text-align: justify;">The staff acts as a liaison between students, employers and the different faculties within the UCSI University to establish and facilitate employment opportunities. We also support, train and lead students as they build their careers.</p>
     </div>
-    <div class="col-xs-12 mb-40 text-center" style="margin-top: 30px; padding-right: 0; padding-left: 0">
-        <hr style="margin: 0; border: 1px solid red;"> <b style="border: 2px solid red; color: #fe0100; padding: 8px 10px; position: relative; top: 5px; box-shadow: #dad6d6 3px 4px;">Service</b>
-    </div>
+    <div class="widget kopa-owl-5-widget"><div class="widget-title widget-title-custom text-center"> <span></span><h2>Service</h2></div></div>
     <div class="mb-10">
         <div class="col-sm-6"> <a href="https://www.bangladesh.ucsiuniversity.edu.my/co-op-student">
                 <div class="accomm-pic">

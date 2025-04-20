@@ -342,7 +342,7 @@
                                                                        <div id="collapse4" class="panel-collapse collapse">
                                                                            <div class="panel-body">
                                                                                <ul>
-                                                                                   <li>For students from Malaysia and other specified nations, a Tier 4 (General) Student Visa is required.</li>
+                                                                                   <li>For students a Tier 4 (General) Student Visa is required.</li>
                                                                                    <li>Submit an online application form and provide evidence of financial stability, English proficiency, and other necessary documents like a valid passport, CAS reference number, TB test results (if applicable), and visa fee.</li>
                                                                                </ul>
                                                                            </div>

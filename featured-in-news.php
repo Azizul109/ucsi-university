@@ -10,6 +10,15 @@
             <ul class="table-list">
                 <div class="views-field views-field-title"> <span class="field-content">
                         <li class="clearfix">
+                            <div class="Mdate-col">20-Apr-2025</div>
+                            <div class="media-col">Ajker Patrika</div>
+                            <div class="title-col"><a href="https://www.ajkerpatrika.com/education/campus/ajplcha0li4x5" target="_blank">দেশে বসেই বিদেশি বিশ্ববিদ্যালয়ে পড়ার সুযোগ বাড়ছে
+                                </a></div>
+                        </li>
+                    </span>
+                </div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
                             <div class="Mdate-col">18-Apr-2025</div>
                             <div class="media-col">Amar Desh</div>
                             <div class="title-col"><a href="https://eamardesh.com/2025-04-18/edition-2/13/28358" target="_blank">ইউসিএসআই ইউনিভার্সিটিতে বর্ণিল আয়োজনে পহেলা বৈশাখ উদযাপন</a></div>

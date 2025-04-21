@@ -1,7 +1,7 @@
 <div class="panel-separator"></div>
 <div class="row">
     <div class="col-md-12 col-sm-12 col-xs-12 mb-40">
-        <h3>Co-Op Placement Centre (Students)</h3> <br>
+        <h3>Students</h3> <br>
         <div class="widget" style="margin-bottom:0;">
             <div class="widget-title widget-title-s11 clearfix"> <i class="fa fa-newspaper-o pull-left"></i>
                 <h4 class="pull-left">GETTING STARTED</h4>
@@ -103,7 +103,7 @@
                                 </div>
                             </div>
                             <p>The next step is to ‘filter’ the information collected and come up with a conclusion. The few categories you could focus on are as set out below:</p>
-                            <p class="text-center"><img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/img1-new.png"></p>
+                            <p class="text-center"><img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/i1mg1.png"></p>
                             <p class="pt-20">Bear in mind that the categories also depend on your current situation and personal values. A few off-the-list that some might want to consider are the ‘company’s reputation,’ ‘geographical location,’ ‘growth prospects,’ or whether or not you fit in with the ‘requirements.’</p>
                         </div>
                     </div>
@@ -118,8 +118,8 @@
                             <table class="mt-30" style="width:100%">
                                 <tbody>
                                     <tr>
-                                        <th>Common Job Search</th>
-                                        <th>Non-advertised Jobs</th>
+                                        <th style="background-color: maroon; color: white;">Common Job Search</th>
+                                        <th style="background-color: maroon; color: white;">Non-advertised Jobs</th>
                                     </tr>
                                     <tr>
                                         <td>
@@ -198,11 +198,34 @@
         <div class="col-md-12">
             <div class="widget kopa-ads-1-widget">
                 <ul class="clearfix">
-                    <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/employment-and-co-op-placement-centre/co-op-placement-centre/students/eresources" target=""> <img typeof="foaf:Image" src="https://www.ucsiuniversity.edu.my/sites/default/files/styles/featured_box_395x110/public/e-resourcecenter.jpg?itok=hpltYDWf" width="395" height="110"> </a></li>
+                    <!-- <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/employment-and-co-op-placement-centre/co-op-placement-centre/students/eresources" target=""> <img typeof="foaf:Image" src="https://www.ucsiuniversity.edu.my/sites/default/files/styles/featured_box_395x110/public/e-resourcecenter.jpg?itok=hpltYDWf" width="395" height="110"> </a></li> -->
                     <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/employment-and-co-op-placement-centre/co-op-placement-centre/students/generalforms" target=""> <img typeof="foaf:Image" src="https://www.ucsiuniversity.edu.my/sites/default/files/styles/featured_box_395x110/public/co-opforms.jpg?itok=tWF7CW9k" width="395" height="110"> </a></li>
                     <li> <a href="https://apps.ucsiuniversity.edu.my/mycoopbd/Front.aspx" target="_blank"> <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/styles/featured_box_395x110/public/co-op-portal-new.jpg?itok=U7ljB8jq" width="395" height="110"> </a></li>
                 </ul>
             </div>
+        </div>
+    </div>
+</div>
+<div class="panel-separator"></div>
+<div class="widget kopa-article-list-9-widget">
+    <div class="widget kopa-owl-5-widget">
+        <div class="widget-title widget-title-custom text-center"> <span></span>
+            <h2>Contact Us</h2>
+        </div>
+    </div>
+    <div class="col-xs-12 mb-40 accomm-contact" style="padding-top: 20px; padding-right: 0; padding-left: 0; background-color: #9c0e1e;">
+        <div class="style-box2" style="min-height: 0px; padding-bottom: 20px;">
+            <hr style="border: 1px solid #d18390; margin-top: 0;" />
+            <b>Student Affairs & Alumni Office</b>
+            <br />
+            <br />
+            <address>
+                11th Floor, Registrar's Office, UCSI University Bangladesh Branch Campus<br />
+                26, Kemal Ataturk Avenue, Banani,<br />
+                Dhaka-1213,<br />
+                Bangladesh
+            </address>
+
         </div>
     </div>
 </div>

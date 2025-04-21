@@ -12,7 +12,7 @@
                         <li class="clearfix">
                             <div class="Mdate-col">20-Apr-2025</div>
                             <div class="media-col">Announcement</div>
-                            <div class="title-col"><a href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/admission_fair_notice.jpeg" target="_blank">UCSI University Bangladesh Branch Campus arranges Programme Introduction & Admission Fair from 24-26 April 2025</a></div>
+                            <div class="title-col"><a href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/admission_fair_notice.jpeg" target="_blank">UCSI University Bangladesh Branch Campus arranges Admission Fair from 24-26 April 2025</a></div>
                         </li>
                     </span>
                 </div>

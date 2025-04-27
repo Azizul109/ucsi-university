@@ -11,6 +11,24 @@
                                 </div>
                                 <div class="widget-content">
                                     <div class="row">
+                                    <div class="views-field views-field-title"> <span class="field-content">
+                                                <div class="col-md-4 col-sm-4 col-xs-12">
+                                                    <article class="entry-item">
+                                                        <div class="entry-thumb"> <a href="https://ucsiuniversity073.sharepoint.com/:f:/s/GCA.BD/Ejk4ISB5Dv1MnFyovGm7wD0BXSg9E-bNgFZIsW6FBQb0mg?e=DmtkO5" target="_blank"> <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/sustainable_business_practical_impact.jpg" width="398" height="266"> </a></div>
+                                                        <div class="entry-content">
+                                                            <header class="clearfix"> <span class="entry-time-white pull-left">17 Apr 2025</span> </header>
+                                                            <h3 class="entry-title happenings"><a href="https://ucsiuniversity073.sharepoint.com/:f:/s/GCA.BD/Ejk4ISB5Dv1MnFyovGm7wD0BXSg9E-bNgFZIsW6FBQb0mg?e=DmtkO5" target="_blank">Seminar on : Sustainable Business, Practical Impact: Insights from the Front Liners</a></h3>
+                                                            <div class="qna-2">
+                                                                <div class="question-2"><span></span></div>
+                                                                <div class="answer-2">
+                                                                    <p>The Faculty of Business and Management at UCSI University Bangladesh Branch Campus proudly hosted an impactful seminar titled "Sustainable Business, Practical Impact: Insights from the Front Liners".</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </article>
+                                                </div>
+                                            </span>
+                                        </div>
                                         <div class="views-field views-field-title"> <span class="field-content">
                                                 <div class="col-md-4 col-sm-4 col-xs-12">
                                                     <article class="entry-item">
@@ -40,24 +58,6 @@
                                                                 <div class="question-2"><span></span></div>
                                                                 <div class="answer-2">
                                                                     <p>22 meritorious students from various faculties of UCSI University Bangladesh Branch Campus have been awarded with the “Dean's Honour List” for their exceptional academic achievements in the Sept 2024 semester.</p>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </article>
-                                                </div>
-                                            </span>
-                                        </div>
-                                        <div class="views-field views-field-title"> <span class="field-content">
-                                                <div class="col-md-4 col-sm-4 col-xs-12">
-                                                    <article class="entry-item">
-                                                        <div class="entry-thumb"> <a href="https://drive.google.com/drive/folders/1_gNlznSxzDhzxBT2ENomZOV6KTLjaMfU" target="_blank"> <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/beyond_the_kitchen-2025.jpg" width="398" height="266"> </a></div>
-                                                        <div class="entry-content">
-                                                            <header class="clearfix"> <span class="entry-time-white pull-left">19 Feb 2025</span> </header>
-                                                            <h3 class="entry-title happenings"><a href="https://drive.google.com/drive/folders/1_gNlznSxzDhzxBT2ENomZOV6KTLjaMfU" target="_blank">Beyond The Kitchen - 2025</a></h3>
-                                                            <div class="qna-2">
-                                                                <div class="question-2"><span></span></div>
-                                                                <div class="answer-2">
-                                                                    <p>The Entrepreneurship Club of UCSI University Bangladesh Branch Campus organised “Beyond the Kitchen: Business Lessons from a Chefpreneur”, featuring Executive Chef Kazi Piash from Pearl Hotel.</p>
                                                                 </div>
                                                             </div>
                                                         </div>

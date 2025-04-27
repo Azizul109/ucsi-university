@@ -118,8 +118,8 @@
                             <table class="mt-30" style="width:100%">
                                 <tbody>
                                     <tr>
-                                        <th style="background-color: maroon; color: white;">Common Job Search</th>
-                                        <th style="background-color: maroon; color: white;">Non-advertised Jobs</th>
+                                        <th style="background-color: #cc0000; color: white;">Common Job Search</th>
+                                        <th style="background-color: #cc0000; color: white;">Non-advertised Jobs</th>
                                     </tr>
                                     <tr>
                                         <td>
@@ -200,7 +200,7 @@
                 <ul class="clearfix">
                     <!-- <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/employment-and-co-op-placement-centre/co-op-placement-centre/students/eresources" target=""> <img typeof="foaf:Image" src="https://www.ucsiuniversity.edu.my/sites/default/files/styles/featured_box_395x110/public/e-resourcecenter.jpg?itok=hpltYDWf" width="395" height="110"> </a></li> -->
                     <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/employment-and-co-op-placement-centre/co-op-placement-centre/students/generalforms" target=""> <img typeof="foaf:Image" src="https://www.ucsiuniversity.edu.my/sites/default/files/styles/featured_box_395x110/public/co-opforms.jpg?itok=tWF7CW9k" width="395" height="110"> </a></li>
-                    <li> <a href="https://apps.ucsiuniversity.edu.my/mycoopbd/Front.aspx" target="_blank"> <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/styles/featured_box_395x110/public/co-op-portal-new.jpg?itok=U7ljB8jq" width="395" height="110"> </a></li>
+                    <li> <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/styles/featured_box_395x110/public/co-op-portal-new.jpg?itok=U7ljB8jq" width="395" height="110"></li>
                 </ul>
             </div>
         </div>
@@ -216,14 +216,16 @@
     <div class="col-xs-12 mb-40 accomm-contact" style="padding-top: 20px; padding-right: 0; padding-left: 0; background-color: #9c0e1e;">
         <div class="style-box2" style="min-height: 0px; padding-bottom: 20px;">
             <hr style="border: 1px solid #d18390; margin-top: 0;" />
-            <b>Student Affairs & Alumni Office</b>
+            <b>Co Op Placement Centre</b>
             <br />
             <br />
             <address>
                 11th Floor, Registrar's Office, UCSI University Bangladesh Branch Campus<br />
                 26, Kemal Ataturk Avenue, Banani,<br />
                 Dhaka-1213,<br />
-                Bangladesh
+                Bangladesh<br />
+                Telephone: +8801844616505<br />
+                Email: co-op.ucsibd@ucsiuniversity.edu.my <br />
             </address>
 
         </div>

@@ -38,7 +38,13 @@
                                 <li>Able to work under pressure, possess a mature attitude, and be a good team player.</li>
                                 <li> Good attitude, proactive, eager to learn, and able to work independently or in a team.</li>
                             </ul> <br>
-                            <div align="center" class="mb-20"> <a href="mailto:hr.ucsibd@ucsiuniversity.edu.my?subject=Application%20for%20the%20post%20of%20Executive Officer- Digital Content Creation" class="kopa-button red-button small-button">Apply Now</a></div>
+                            <div align="center" class="mb-20">
+                                <a href="mailto:hr.ucsibd@ucsiuniversity.edu.my?subject=Application%20for%20the%20post%20of%20Executive Officer- Digital Content Creation"
+                                    class="kopa-button red-button small-button"
+                                    style="pointer-events: none; color: gray; cursor: default;">
+                                    Apply Now
+                                </a>
+                            </div>
                             <div class="text-center"> Deadline: 21 Apr 2025 | Last Update: 6 Apr 2025</div>
                         </div>
                     </div>

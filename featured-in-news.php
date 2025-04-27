@@ -10,6 +10,38 @@
             <ul class="table-list">
                 <div class="views-field views-field-title"> <span class="field-content">
                         <li class="clearfix">
+                            <div class="Mdate-col">23-Apr-2025</div>
+                            <div class="media-col">Dainik Shiksha</div>
+                            <div class="title-col"><a href="https://www.dainikshiksha.com/bn/news/admission-fair-at-ucsi-university-298770" target="_blank">ইউসিএসআই ইউনিভার্সিটিতে অ্যাডমিশন ফেয়ার</a></div>
+                        </li>
+                    </span>
+                </div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
+                            <div class="Mdate-col">23-Apr-2025</div>
+                            <div class="media-col">The Daily Campus</div>
+                            <div class="title-col"><a href="https://thedailycampus.com/private-university/180081" target="_blank">মালয়েশিয়ার ইউসিএসআই ইউনিভার্সিটি বাংলাদেশ শাখা ক্যাম্পাসে এডমিশন ফেয়ার</a></div>
+                        </li>
+                    </span>
+                </div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
+                            <div class="Mdate-col">22-Apr-2025</div>
+                            <div class="media-col">The Daily Campus</div>
+                            <div class="title-col"><a href="https://thedailycampus.com/private-university/179920" target="_blank">সৃজনশীলতা থেকে কর্মসংস্থান—দেশেই বিশ্বমানের শিক্ষা দিচ্ছে ইউসিএসআই’র ক্রিয়েটিভ আর্টস অ্যান্ড ডিজাইন</a></div>
+                        </li>
+                    </span>
+                </div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
+                            <div class="Mdate-col">21-Apr-2025</div>
+                            <div class="media-col">Samakal</div>
+                            <div class="title-col"><a href="https://epaper.samakal.com/nogor-edition/2025-04-21/9/5038/detail" target="_blank">ইউসিএসআই ইউনিভার্সিটি বাংলাদেশ ক্যাম্পাসে পহেলা বৈশাখ উদযাপন</a></div>
+                        </li>
+                    </span>
+                </div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
                             <div class="Mdate-col">20-Apr-2025</div>
                             <div class="media-col">Ajker Patrika</div>
                             <div class="title-col"><a href="https://www.ajkerpatrika.com/education/campus/ajplcha0li4x5" target="_blank">দেশে বসেই বিদেশি বিশ্ববিদ্যালয়ে পড়ার সুযোগ বাড়ছে

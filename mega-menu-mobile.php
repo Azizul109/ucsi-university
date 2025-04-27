@@ -59,7 +59,9 @@
                     <li><a href="#">Life at UCSI<span class=""></span></a>
                         <ul class="menu" data-index="7" style="display: none;">
                             <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/library-0">Library Services</a></li>
-                            <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/student-affairs-and-alumni">Student Experience</a></li>
+                            <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/student-affairs-and-alumni">Student Affairs And Alumni</a></li>
+                            <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/students-activities-and-recreation-new">Students Activities And Recreation</a></li>
+                            <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/co-op-placement">Co Op Placement Centre</a></li>
                             <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/graduate-attribute">Graduate Attribute</a></li>
                         </ul>
                     </li>

@@ -7,7 +7,7 @@
                 <h4 class="pull-left">OVERVIEW</h4>
             </div>
         </div>
-        <p>UCSI University offers a one-stop centre to the widest selection of undergraduate students to be placed in a company/organisation for two months in a year for relevant Co-Op Placement related to their field of study. We offer students who are highly skilled and motivated from the various faculties to the relevant company /organisation.</p>
+        <p>UCSI University offers a one-stop centre to a selection of undergraduate students to be placed in a company/organisation for two months in a year for relevant Co-Op Placement related to their field of study. We offer students who are highly skilled and motivated from the various faculties to the relevant company /organisation.</p>
         <p>To potential employers: We are your recruitment solution provider. We will assist you in your process and request to recruit the best Co-Op student to fill a position.</p>
     </div>
 </div>
@@ -23,11 +23,36 @@
             <div class="widget kopa-ads-1-widget">
                 <ul class="clearfix">
                     <li> <a href="https://bangladesh.ucsiuniversity.edu.my/employment-and-co-op-placement-centre/co-op-placement-centre/employers/recruiting-strategies" target=""> <img typeof="foaf:Image" src="https://www.ucsiuniversity.edu.my/sites/default/files/styles/featured_box_395x110/public/recruiting-strategies.jpg?itok=S-1BHwV-" width="395" height="110"> </a></li>
-                    <li> <a href="https://bangladesh.ucsiuniversity.edu.my/employment-and-co-op-placement-centre/co-op-placement-centre/employers/sponsorship" target=""> <img typeof="foaf:Image" src="https://www.ucsiuniversity.edu.my/sites/default/files/styles/featured_box_395x110/public/sponsorship.jpg?itok=jtTdjPIJ" width="395" height="110"> </a></li>
-                    <li> <a href="https://bangladesh.ucsiuniversity.edu.my/employment-and-co-op-placement-centre/co-op-placement-centre/employers/skills-set" target=""> <img typeof="foaf:Image" src="https://www.ucsiuniversity.edu.my/sites/default/files/styles/featured_box_395x110/public/skills-set.jpg?itok=mNiwnPtv" width="395" height="110"> </a></li>
+                    <!-- <li> <a href="https://bangladesh.ucsiuniversity.edu.my/employment-and-co-op-placement-centre/co-op-placement-centre/employers/sponsorship" target=""> <img typeof="foaf:Image" src="https://www.ucsiuniversity.edu.my/sites/default/files/styles/featured_box_395x110/public/sponsorship.jpg?itok=jtTdjPIJ" width="395" height="110"> </a></li>
+                    <li> <a href="https://bangladesh.ucsiuniversity.edu.my/employment-and-co-op-placement-centre/co-op-placement-centre/employers/skills-set" target=""> <img typeof="foaf:Image" src="https://www.ucsiuniversity.edu.my/sites/default/files/styles/featured_box_395x110/public/skills-set.jpg?itok=mNiwnPtv" width="395" height="110"> </a></li> -->
                     <li> <a href="https://bangladesh.ucsiuniversity.edu.my/employment-and-co-op-placement-centre/co-op-placement-centre/employers/career-events" target=""> <img typeof="foaf:Image" src="https://www.ucsiuniversity.edu.my/sites/default/files/styles/featured_box_395x110/public/careerevent_0.jpg?itok=7x49zDMq" width="395" height="110"> </a></li>
                 </ul>
             </div>
+        </div>
+    </div>
+</div>
+<div class="panel-separator"></div>
+<div class="widget kopa-article-list-9-widget">
+    <div class="widget kopa-owl-5-widget">
+        <div class="widget-title widget-title-custom text-center"> <span></span>
+            <h2>Contact Us</h2>
+        </div>
+    </div>
+    <div class="col-xs-12 mb-40 accomm-contact" style="padding-top: 20px; padding-right: 0; padding-left: 0; background-color: #9c0e1e;">
+        <div class="style-box2" style="min-height: 0px; padding-bottom: 20px;">
+            <hr style="border: 1px solid #d18390; margin-top: 0;" />
+            <b>Co Op Placement Centre</b>
+            <br />
+            <br />
+            <address>
+                11th Floor, Registrar's Office, UCSI University Bangladesh Branch Campus<br />
+                26, Kemal Ataturk Avenue, Banani,<br />
+                Dhaka-1213,<br />
+                Bangladesh<br />
+                Telephone: +8801844616505<br />
+                Email: co-op.ucsibd@ucsiuniversity.edu.my <br />
+            </address>
+
         </div>
     </div>
 </div>

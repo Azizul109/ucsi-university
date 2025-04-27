@@ -96,11 +96,10 @@
                 <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/library-policy">Library Policy</a></li>
                 <li><a href="https://koha.ucsiuniversity.edu.my/cgi-bin/koha/opac-main.pl" target="_blank">OPAC</a></li>
                 <li><a href="https://lib.ucsiuniversity.edu.my/e-resource/online-database" target="_blank">Online Database</a></li>
-                <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/students-activities-and-recreation-new">Students Activities and Recreation</a></li>
-                <!-- <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/accommodation/Kuala-Lumpur?display=Kuala-Lumpur">Accommodation</a></li> -->
-                <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/student-affairs-and-alumni">Student Council and Student Clubs</a></li>
-                <!-- <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/orientation-day">Orientation Day</a></li> -->
-                <!-- <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/f-a-q">FAQ</a></li> -->
+                <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/student-affairs-and-alumni"> Student Affairs and Alumni </a></li>
+                <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/students-activities-and-recreation-new"> Students' Activities and Recreation </a></li>
+                <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/co-op-placement"> Co-Op Placement Centre </a></li>
+                <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/graduate-attribute"> Graduate Attribute </a></li>
             </ul>
         </div>
         <div id="accordion" role="tablist" aria-multiselectable="true" class="widget hidden-sm-up">
@@ -117,12 +116,10 @@
                         <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/library-policy">Library Policy</a></li>
                         <li><a href="https://koha.ucsiuniversity.edu.my/cgi-bin/koha/opac-main.pl" target="_blank">OPAC</a></li>
                         <li><a href="https://lib.ucsiuniversity.edu.my/e-resource/online-database" target="_blank">Online Database</a></li>
-                        <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/students-activities-and-recreation/Bangladesh?display=Bangladesh-Branch-Campus">Students Activities and Recreation</a></li>
-                        <!-- <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/student-development-counselling/Kuala-Lumpur?display=Kuala-Lumpur">Student Development & Counselling</a></li> -->
-                        <!-- <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/accommodation/Kuala-Lumpur?display=Kuala-Lumpur">Accommodation</a></li> -->
-                        <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/student-affairs-and-alumni">Student Council and Student Clubs</a></li>
-                        <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/student-affairs-and-alumni">Student Council and Student Clubs</a></li>
-                        <!-- <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/orientation-day">Orientation Day</a></li> -->
+                        <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/student-affairs-and-alumni"> Student Affairs and Alumni </a></li>
+                        <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/students-activities-and-recreation-new"> Students' Activities and Recreation </a></li>
+                        <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/co-op-placement"> Co-Op Placement Centre </a></li>
+                        <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/graduate-attribute"> Graduate Attribute </a></li>
                     </ul>
                 </div>
             </div>

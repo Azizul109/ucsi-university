@@ -10,7 +10,7 @@
             <ul class="table-list">
             <div class="views-field views-field-title"> <span class="field-content">
                         <li class="clearfix">
-                            <div class="Mdate-col">20-Apr-2025</div>
+                            <div class="Mdate-col">26-Apr-2025</div>
                             <div class="media-col">Announcement</div>
                             <div class="title-col"><a href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/office_notice_international_labor_day_20250426_0001.pdf" target="_blank">Holiday Notice for International Labor Day - 1st May</a></div>
                         </li>

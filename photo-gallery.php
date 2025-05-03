@@ -27,9 +27,9 @@
         <div class="views-field views-field-title"> <span class="field-content">
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <article class="entry-item">
-                        <div class="entry-thumb"> <a href="https://ucsiuniversity073.sharepoint.com/sites/GCA.BD/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FGCA%2EBD%2FShared%20Documents%2FGCA%20BD%2FPhotos%2FStudent%20Events%2FShuvo%20Noboborsho%201432&p=true&ga=1" target="_blank"> <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/bangla_noboborsho_1432.jpg" width="398" height="266"> </a></div>
+                        <div class="entry-thumb"> <a href="https://ucsiuniversity073.sharepoint.com/:f:/s/GCA.BD/Ehk6TvwHihpFs7hKBCr2peYBC13w_qTUHBKADToFoWZryA?e=Gvshdn" target="_blank"> <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/bangla_noboborsho_1432.jpg" width="398" height="266"> </a></div>
                         <div class="entry-content clearfix pb-40">
-                            <header class="text-center pt-10"> <span class="entry-categories-2"><a href="https://ucsiuniversity073.sharepoint.com/sites/GCA.BD/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FGCA%2EBD%2FShared%20Documents%2FGCA%20BD%2FPhotos%2FStudent%20Events%2FShuvo%20Noboborsho%201432&p=true&ga=1" target="_blank">Bangla Noboborsho 1432</a></span> </header>
+                            <header class="text-center pt-10"> <span class="entry-categories-2"><a href="https://ucsiuniversity073.sharepoint.com/:f:/s/GCA.BD/Ehk6TvwHihpFs7hKBCr2peYBC13w_qTUHBKADToFoWZryA?e=Gvshdn" target="_blank">Bangla Noboborsho 1432</a></span> </header>
                         </div>
                     </article>
                 </div>

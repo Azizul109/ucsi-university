@@ -741,10 +741,6 @@
                                         <div class="staff-col">Dean</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Professor Cham Tat Huei, PhD</div>
-                                        <div class="staff-col">Affiliate Dean</div>
-                                    </li>
-                                    <li class="clearfix">
                                         <div class="staff-col">Affiliate Distinguished Professor Ts Ooi Keng Boon, FASc, PhD</div>
                                         <div class="staff-col">Affiliate Distinguished Professor</div>
                                     </li>
@@ -763,10 +759,6 @@
                                     <li class="clearfix">
                                         <div class="staff-col">Professor Md Kashedul Wahab Tuhin, PhD</div>
                                         <div class="staff-col">Adjunct Professor</div>
-                                    </li>
-                                    <li class="clearfix">
-                                        <div class="staff-col">Mr Mosharrof Hosen, PhD</div>
-                                        <div class="staff-col">Affiliate Lecturer</div>
                                     </li>
                                 </ul>
                             </div>
@@ -805,10 +797,6 @@
                                     <li class="clearfix">
                                         <div class="staff-col">Professor Mohammed Mizanur Rahman, PhD</div>
                                         <div class="staff-col">Professor</div>
-                                    </li>
-                                    <li class="clearfix">
-                                        <div class="staff-col">Assistant Professor Hasbollah Bin Mat Saad, PhD</div>
-                                        <div class="staff-col">Affiliate Dean</div>
                                     </li>
                                     <li class="clearfix">
                                         <div class="staff-col">Professor Abdul Bayes</div>
@@ -1127,10 +1115,6 @@
                             <div class="widget-content">
                                 <ul class="table-list staff">
                                     <li class="clearfix">
-                                        <div class="staff-col">Professor Md. Selim Al Mamun, PhD</div>
-                                        <div class="staff-col">Dean</div>
-                                    </li>
-                                    <li class="clearfix">
                                         <div class="staff-col">Assistant Professor Ts Raenu A/L Kolandaisamy, PhD</div>
                                         <div class="staff-col">Affiliate Dean</div>
                                     </li>
@@ -1153,10 +1137,6 @@
                                     <li class="clearfix">
                                         <div class="staff-col">Mr Rajibul Anam</div>
                                         <div class="staff-col">Adjunct Lecturer</div>
-                                    </li>
-                                    <li class="clearfix">
-                                        <div class="staff-col">Ms Mhamuda Yesmin</div>
-                                        <div class="staff-col">Faculty Coordinator</div>
                                     </li>
                                 </ul>
                             </div>

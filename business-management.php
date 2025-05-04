@@ -42,24 +42,6 @@
                 <li>
                     <article class="entry-item row clearfix">
                         <div class="col-md-3 col-sm-3 col-xs-12"> <img typeof="foaf:Image"
-                                src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/styles/facultylistnew/public/dr_hasbollah_photo.jpg?itok=P21hFZ0w"
-                                width="117" height="124" alt="dr_hasbollah"></div>
-                        <div class="entry-content col-md-9 col-sm-9 col-xs-12">
-                            <header>
-                                <h2 class="entry-title" style="padding-bottom:3px"><a
-                                        href="/assistant-professor-dr-hasbollah-bin-mat-saad">Assistant Professor
-                                        Hasbollah Bin Mat Saad, PhD</a></h2>
-                                <div class="designation-box">Affiliate Dean</div>
-                            </header>
-                        </div>
-                    </article>
-                </li>
-                <hr>
-            </span>
-            <span class="field-content">
-                <li>
-                    <article class="entry-item row clearfix">
-                        <div class="col-md-3 col-sm-3 col-xs-12"> <img typeof="foaf:Image"
                                 src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/styles/facultylistnew/public/profbayes_0.jpeg?itok=LYKrhdS-"
                                 width="117" height="124" alt="Professor Bayes" title="Professor Bayes"></div>
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">

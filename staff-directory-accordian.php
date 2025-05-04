@@ -792,7 +792,7 @@
                                 <ul class="table-list staff">
                                     <li class="clearfix">
                                         <div class="staff-col">Professor Golam Ahmed Faruqui, PhD</div>
-                                        <div class="staff-col">Dean & Coordinator</div>
+                                        <div class="staff-col">Dean</div>
                                     </li>
                                     <li class="clearfix">
                                         <div class="staff-col">Professor Mohammed Mizanur Rahman, PhD</div>
@@ -980,7 +980,7 @@
                                 <ul class="table-list staff">
                                     <li class="clearfix">
                                         <div class="staff-col">Professor Bijoy Prasad Barua, PhD</div>
-                                        <div class="staff-col">Dean & Professor</div>
+                                        <div class="staff-col">Dean</div>
                                     </li>
                                     <li class="clearfix">
                                         <div class="staff-col">Professor Rogayah Bt A Razak, PhD</div>
@@ -988,7 +988,7 @@
                                     </li>
                                     <li class="clearfix">
                                         <div class="staff-col">Ms Mashiat Noor Prapti</div>
-                                        <div class="staff-col">Lecturer & Coordinator</div>
+                                        <div class="staff-col">Lecturer</div>
                                     </li>
                                     <li class="clearfix">
                                         <div class="staff-col">Ms Nuzhat Ahmad</div>
@@ -1128,7 +1128,7 @@
                                     </li>
                                     <li class="clearfix">
                                         <div class="staff-col">Mr H M Mostafizur Rahman</div>
-                                        <div class="staff-col">Lecturer & Coordinator</div>
+                                        <div class="staff-col">Lecturer</div>
                                     </li>
                                     <li class="clearfix">
                                         <div class="staff-col">Mr Niaz Makhdum</div>

@@ -9,7 +9,7 @@
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">
                             <header>
                                 <h2 class="entry-title" style="padding-bottom:3px"><a href="/professor-dr-zulkornain-yusop">Professor Zulkornain Yusop, PhD</a></h2>
-                                <div class="designation-box">Dean (School of Graduate Studies)</div>
+                                <div class="designation-box">Dean</div>
                             </header>
                         </div>
                     </article>

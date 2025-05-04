@@ -1,7 +1,7 @@
 <div class="widget kopa-nothumb-widget">
     <div class="widget-title widget-title-s2 clearfix" style="padding-left:15px;"></div>
     <div class="widget-content">
-        <ul style="list-style-type:none; color:#000; padding-right:30px;">
+        <ul style="list-style-type:none; color:#000; padding-right:30px;"> 
             <span class="field-content">
                 <li>
                     <article class="entry-item row clearfix">
@@ -9,13 +9,13 @@
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">
                             <header>
                                 <h2 class="entry-title" style="padding-bottom:3px"><a href="/professor-bijoy-prasad-barua-phd">Professor Bijoy Prasad Barua, PhD</a></h2>
-                                <div class="designation-box">Dean & Professor</div>
+                                <div class="designation-box">Dean</div>
                             </header>
                         </div>
                     </article>
                 </li>
                 <hr>
-            </span>
+            </span> 
             <span class="field-content">
                 <li>
                     <article class="entry-item row clearfix">
@@ -29,7 +29,7 @@
                     </article>
                 </li>
                 <hr>
-            </span>
+            </span> 
             <span class="field-content">
                 <li>
                     <article class="entry-item row clearfix">
@@ -37,13 +37,13 @@
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">
                             <header>
                                 <h2 class="entry-title" style="padding-bottom:3px"><a href="/mashiat-noor-prapti">Ms Mashiat Noor Prapti</a></h2>
-                                <div class="designation-box">Lecturer & Coordinator</div>
+                                <div class="designation-box">Lecturer</div>
                             </header>
                         </div>
                     </article>
                 </li>
                 <hr>
-            </span>
+            </span> 
             <span class="field-content">
                 <li>
                     <article class="entry-item row clearfix">
@@ -57,7 +57,7 @@
                     </article>
                 </li>
                 <hr>
-            </span>
+            </span> 
             <span class="field-content">
                 <li>
                     <article class="entry-item row clearfix">
@@ -71,7 +71,7 @@
                     </article>
                 </li>
                 <hr>
-            </span>
+            </span> 
             <span class="field-content">
                 <li>
                     <article class="entry-item row clearfix">
@@ -85,7 +85,7 @@
                     </article>
                 </li>
                 <hr>
-            </span>
+            </span> 
             <span class="field-content">
                 <li>
                     <article class="entry-item row clearfix">

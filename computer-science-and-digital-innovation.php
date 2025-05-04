@@ -47,7 +47,7 @@
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">
                             <header>
                                 <h2 class="entry-title" style="padding-bottom:3px"><a href="/mr-h-m-mostafizur-rahman">Mr H M Mostafizur Rahman</a></h2>
-                                <div class="designation-box">Lecturer &amp; Coordinator</div>
+                                <div class="designation-box">Lecturer</div>
                             </header>
                         </div>
                     </article>

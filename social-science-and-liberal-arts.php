@@ -5,7 +5,7 @@
             <span class="field-content">
                 <li>
                     <article class="entry-item row clearfix">
-                        <div class="col-md-3 col-sm-3 col-xs-12"> <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/bijoy_prasad_barua_phd_0.jpeg" width="117" height="124" alt="Dr. Bijoy "></div>
+                        <div class="col-md-3 col-sm-3 col-xs-12"> <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/prof._bijoy_barua.jpg" width="117" height="124" alt="Dr. Bijoy "></div>
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">
                             <header>
                                 <h2 class="entry-title" style="padding-bottom:3px"><a href="/professor-bijoy-prasad-barua-phd">Professor Bijoy Prasad Barua, PhD</a></h2>

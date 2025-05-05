@@ -18,6 +18,101 @@
         <div class="widget kopa-owl-5-widget">
             <div class="widget-title widget-title-custom text-center">
                 <span></span>
+                <h2>Master’s Excellence Scholarship Program</h2>
+                <p>Graduates from University Grant Commission (UGC) of Bangladesh -approved universities, Malaysian universities, and recognized foreign universities are eligible for up to a 100% tuition fee waiver or scholarship, awarded based on their undergraduate academic performance.</p>
+            </div>
+        </div>
+
+        <h4 class="scholar">Scholarship offer For Masters</h4>
+
+        <div style="overflow-x:auto;">
+            <table class="scholar">
+                <tbody>
+                    <tr>
+                        <th>
+                            CGPA From Bachelor program
+                        </th>
+                        <th>
+                            Percentage of Scholarship
+                        </th>
+                        <th>
+                            CGPA to be obtained
+                        </th>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p>3.76-4.00</p>
+                        </td>
+                        <td>
+                            <p>100%</p>
+                        </td>
+                        <td>
+                            <p>3.50</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p>3.51-3.75</p>
+                        </td>
+                        <td>
+                            <p>75%</p>
+                        </td>
+                        <td>
+                            <p>3.25</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p>3.26-3.50</p>
+                        </td>
+                        <td>
+                            <p>50%</p>
+                        </td>
+                        <td>
+                            <p>3.25</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p>3.01-3.25</p>
+                        </td>
+                        <td>
+                            <p>35%</p>
+                        </td>
+                        <td>
+                            <p>3.00</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p>2.50-3.00</p>
+                        </td>
+                        <td>
+                            <p>20%</p>
+                        </td>
+                        <td>
+                            <p>3.00</p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+<br>
+<h4 class="scholar"><b>University scholarship terms and conditions:</b></h4>
+<ul>
+    <li>If a student qualifies for multiple tuition fee waivers, only the highest waiver will be applied.</li>
+    <li>Students must enroll in a minimum of 6 credits each semester to be eligible for the tuition fee waiver.</li>
+    <li>Students must maintain the required CGPA each semester to keep their eligibility.</li>
+    <li>The Scholarship Committee reserves the right to modify the policy and eligibility criteria at any time based on fund availability. Efforts will be made to provide advance notice of any changes.</li>
+</ul>
+
+<div class="row text-center pt-10">
+    <div class="col-md-12">
+        <div class="widget kopa-owl-5-widget">
+            <div class="widget-title widget-title-custom text-center">
+                <span></span>
                 <h2>Undergraduate Student Financial Assistance</h2>
                 <p>This policy will be applicable for the students enrolled in UCSI University Bangladesh Campus at different undergraduate programs of the university.</p>
             </div>

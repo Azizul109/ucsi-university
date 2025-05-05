@@ -3,7 +3,7 @@
         <div class="inside">
             <div class="contextual-links-region panel-pane pane-block pane-edu-main-menu-mobile">
                 <nav class="main-nav-mobile clearfix"><a class="pull"><span>Main Menu</span><span class="fa fa-align-justify padleft-5"></span></a>
-                    <ul class="main-menu-mobile clearfix" style="display: block;">
+                <ul class="main-menu-mobile clearfix" style="display: none;">
                         <li><a href="#">About Us<span class=""></span></a>
                             <ul class="menu" data-index="0" style="display: none;">
                                 <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/bangladesh/about-the-campus">The University<span class=""></span></a>

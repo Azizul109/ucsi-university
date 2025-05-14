@@ -93,6 +93,16 @@
                 <p style="color: #bf0007; font-size: small;">Maksudur.Rabby@ucsiuniversity.edu.my</p>
             </div>
         </div>
+        <div class="grid-item">
+            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/aziz_abid_pic.png"
+                alt="Person 3">
+            <div
+                style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin-top: 18px; line-height: 10px;">
+                <p><strong>Md Muktadir Aziz Abid</strong></p>
+                <p>Assistant Registrar</p>
+                <!-- <p style="color: #bf0007; font-size: small;">Tasfia.Ibnat@ucsiuniversity.edu.my</p> -->
+            </div>
+        </div>
 
         <div class="grid-item">
             <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/tasfia_ibnat_tushi_2_0.jpg"

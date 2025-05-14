@@ -33,6 +33,20 @@
             <span class="field-content">
                 <li>
                     <article class="entry-item row clearfix">
+                        <div class="col-md-3 col-sm-3 col-xs-12"> <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/dr._prdyut_roy.jpg" width="117" height="124" alt="Professor Prodyut Roy, PhD"></div>
+                        <div class="entry-content col-md-9 col-sm-9 col-xs-12">
+                            <header>
+                                <h2 class="entry-title" style="padding-bottom:3px"><a href="/professor-prodyut-roy-phd">Professor Prodyut Roy, PhD</a></h2>
+                                <div class="designation-box">Assistant Professor</div>
+                            </header>
+                        </div>
+                    </article>
+                </li>
+                <hr>
+            </span>
+            <span class="field-content">
+                <li>
+                    <article class="entry-item row clearfix">
                         <div class="col-md-3 col-sm-3 col-xs-12"> <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/styles/facultylistnew/public/img_0796_0.jpg?itok=cW6aCC-k" width="117" height="124" alt="Mashiat Noor Prapti"></div>
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">
                             <header>

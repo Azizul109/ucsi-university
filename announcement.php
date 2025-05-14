@@ -8,7 +8,15 @@
         </div>
         <div class="widget-content">
             <ul class="table-list">
-            <div class="views-field views-field-title"> <span class="field-content">
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
+                            <div class="Mdate-col">11-May-2025</div>
+                            <div class="media-col">Announcement</div>
+                            <div class="title-col"><a href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/office_notice_buddha_purnima_11_may_2025.pdf" target="_blank">Holiday Notice for Buddha Purnima - 11 May</a></div>
+                        </li>
+                    </span>
+                </div>
+                <div class="views-field views-field-title"> <span class="field-content">
                         <li class="clearfix">
                             <div class="Mdate-col">26-Apr-2025</div>
                             <div class="media-col">Announcement</div>

@@ -987,6 +987,10 @@
                                         <div class="staff-col">Affiliate Dean</div>
                                     </li>
                                     <li class="clearfix">
+                                        <div class="staff-col">Professor Prodyut Roy, PhD</div>
+                                        <div class="staff-col">Assistant Professor</div>
+                                    </li>
+                                    <li class="clearfix">
                                         <div class="staff-col">Ms Mashiat Noor Prapti</div>
                                         <div class="staff-col">Lecturer & Coordinator</div>
                                     </li>

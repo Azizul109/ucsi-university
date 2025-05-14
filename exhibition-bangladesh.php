@@ -150,7 +150,7 @@
                 </div>
             </div>
         </strong></div>
-        <div class="views-field views-field-title"> <strong class="field-content">
+    <div class="views-field views-field-title"> <strong class="field-content">
             <div class="exhibition-list-box">
                 <div class="row">
                     <div class="col-md-2 col-sm-2 col-xs-12">
@@ -172,6 +172,33 @@
                     <div class="col-md-2 col-sm-2 col-xs-12">
                         <div class="details-bg">
                             <p class="title-hidden"><b>Venue:</b></p> Campus
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </strong></div>
+    <div class="views-field views-field-title"> <strong class="field-content">
+            <div class="exhibition-list-box">
+                <div class="row">
+                    <div class="col-md-2 col-sm-2 col-xs-12">
+                        <div class="details-bg">
+                            <p class="title-hidden"><b>Date:</b></p> 17 May 2025 - 22 May 2025
+                        </div>
+                    </div>
+                    <div class="col-md-2 col-sm-2 col-xs-12">
+                        <div class="details-bg">
+                            <p class="title-hidden"><b>Semester:</b></p> May 2025
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-sm-6 col-xs-12 pb-10-mobile">
+                        <div class="details-bg">
+                            <p class="title-hidden"><b>Event:</b></p>
+                            <h6>Scholarship Day</h6><br> 10am – 6pm<br>
+                        </div>
+                    </div>
+                    <div class="col-md-2 col-sm-2 col-xs-12">
+                        <div class="details-bg">
+                            <p class="title-hidden"><b>Venue:</b></p> Admission Office
                         </div>
                     </div>
                 </div>
@@ -231,7 +258,7 @@
                 </div>
             </div>
         </strong></div>
-        <div class="views-field views-field-title"> <strong class="field-content">
+    <div class="views-field views-field-title"> <strong class="field-content">
             <div class="exhibition-list-box">
                 <div class="row">
                     <div class="col-md-2 col-sm-2 col-xs-12">
@@ -258,7 +285,7 @@
                 </div>
             </div>
         </strong></div>
-        <div class="views-field views-field-title"> <strong class="field-content">
+    <div class="views-field views-field-title"> <strong class="field-content">
             <div class="exhibition-list-box">
                 <div class="row">
                     <div class="col-md-2 col-sm-2 col-xs-12">
@@ -285,7 +312,7 @@
                 </div>
             </div>
         </strong></div>
-        <div class="views-field views-field-title"> <strong class="field-content">
+    <div class="views-field views-field-title"> <strong class="field-content">
             <div class="exhibition-list-box">
                 <div class="row">
                     <div class="col-md-2 col-sm-2 col-xs-12">
@@ -312,7 +339,7 @@
                 </div>
             </div>
         </strong></div>
-        <div class="views-field views-field-title"> <strong class="field-content">
+    <div class="views-field views-field-title"> <strong class="field-content">
             <div class="exhibition-list-box">
                 <div class="row">
                     <div class="col-md-2 col-sm-2 col-xs-12">
@@ -339,7 +366,7 @@
                 </div>
             </div>
         </strong></div>
-        <div class="views-field views-field-title"> <strong class="field-content">
+    <div class="views-field views-field-title"> <strong class="field-content">
             <div class="exhibition-list-box">
                 <div class="row">
                     <div class="col-md-2 col-sm-2 col-xs-12">
@@ -366,7 +393,7 @@
                 </div>
             </div>
         </strong></div>
-        <div class="views-field views-field-title"> <strong class="field-content">
+    <div class="views-field views-field-title"> <strong class="field-content">
             <div class="exhibition-list-box">
                 <div class="row">
                     <div class="col-md-2 col-sm-2 col-xs-12">
@@ -393,7 +420,7 @@
                 </div>
             </div>
         </strong></div>
-        <div class="views-field views-field-title"> <strong class="field-content">
+    <div class="views-field views-field-title"> <strong class="field-content">
             <div class="exhibition-list-box">
                 <div class="row">
                     <div class="col-md-2 col-sm-2 col-xs-12">
@@ -420,7 +447,7 @@
                 </div>
             </div>
         </strong></div>
-        <div class="views-field views-field-title"> <strong class="field-content">
+    <div class="views-field views-field-title"> <strong class="field-content">
             <div class="exhibition-list-box">
                 <div class="row">
                     <div class="col-md-2 col-sm-2 col-xs-12">
@@ -447,7 +474,7 @@
                 </div>
             </div>
         </strong></div>
-        <div class="views-field views-field-title"> <strong class="field-content">
+    <div class="views-field views-field-title"> <strong class="field-content">
             <div class="exhibition-list-box">
                 <div class="row">
                     <div class="col-md-2 col-sm-2 col-xs-12">
@@ -474,7 +501,7 @@
                 </div>
             </div>
         </strong></div>
-        <div class="views-field views-field-title"> <strong class="field-content">
+    <div class="views-field views-field-title"> <strong class="field-content">
             <div class="exhibition-list-box">
                 <div class="row">
                     <div class="col-md-2 col-sm-2 col-xs-12">
@@ -501,7 +528,7 @@
                 </div>
             </div>
         </strong></div>
-        <div class="views-field views-field-title"> <strong class="field-content">
+    <div class="views-field views-field-title"> <strong class="field-content">
             <div class="exhibition-list-box">
                 <div class="row">
                     <div class="col-md-2 col-sm-2 col-xs-12">
@@ -528,7 +555,7 @@
                 </div>
             </div>
         </strong></div>
-        <div class="views-field views-field-title"> <strong class="field-content">
+    <div class="views-field views-field-title"> <strong class="field-content">
             <div class="exhibition-list-box">
                 <div class="row">
                     <div class="col-md-2 col-sm-2 col-xs-12">
@@ -555,7 +582,7 @@
                 </div>
             </div>
         </strong></div>
-        <div class="views-field views-field-title"> <strong class="field-content">
+    <div class="views-field views-field-title"> <strong class="field-content">
             <div class="exhibition-list-box">
                 <div class="row">
                     <div class="col-md-2 col-sm-2 col-xs-12">

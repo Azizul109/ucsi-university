@@ -466,7 +466,11 @@
                                     </li>
                                     <li class="clearfix">
                                         <div class="staff-col">Mr Maksudur Rabby</div>
-                                        <div class="staff-col">Executive Officer (Student Central Coordinator)</div>
+                                        <div class="staff-col">Assistant Registrar (Acting)</div>
+                                    </li>
+                                    <li class="clearfix">
+                                        <div class="staff-col">Mr Md Muktadir Aziz Abid</div>
+                                        <div class="staff-col">Assistant Registrar</div>
                                     </li>
                                     <li class="clearfix">
                                         <div class="staff-col">Ms Tasfia Ibnat Tushi</div>
@@ -1141,6 +1145,10 @@
                                     <li class="clearfix">
                                         <div class="staff-col">Mr Rajibul Anam</div>
                                         <div class="staff-col">Adjunct Lecturer</div>
+                                    </li>
+                                    <li class="clearfix">
+                                        <div class="staff-col">Mr Muhammad Ruhul Amin Shourov</div>
+                                        <div class="staff-col">Executive Officer (Faculty Coordinator)</div>
                                     </li>
                                 </ul>
                             </div>

@@ -13,7 +13,7 @@
 
     <div class="pdf-embed" style="width: 100%; height: 500px;">
         <h4 style="text-align: center" class="mb-1 text-4 font-weight-bold">Undergraduate</h4>
-        <iframe src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/course_breakdown_flyer_new.pdf" width="100%" height="100%" frameborder="0" scrolling="no"></iframe>
+        <iframe src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/course_breakdown_flyer_2025.pdf" width="100%" height="100%" frameborder="0" scrolling="no"></iframe>
     </div>
 </div>
 

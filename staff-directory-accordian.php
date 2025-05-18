@@ -285,10 +285,6 @@
                                         <div class="staff-col">Director</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Mr Rafid Sobhan</div>
-                                        <div class="staff-col">Digital Content Executive</div>
-                                    </li>
-                                    <li class="clearfix">
                                         <div class="staff-col">Mr Khokan Hossain</div>
                                         <div class="staff-col">Senior Graphic and Motion Content Designer</div>
                                     </li>
@@ -406,10 +402,6 @@
                                     </li>
                                     <li class="clearfix">
                                         <div class="staff-col">Mr Azizul Farhaz</div>
-                                        <div class="staff-col">Junior Executive Officer (Sales and Marketing)</div>
-                                    </li>
-                                    <li class="clearfix">
-                                        <div class="staff-col">Mr Md Suny Ahamed</div>
                                         <div class="staff-col">Junior Executive Officer (Sales and Marketing)</div>
                                     </li>
                                 </ul>

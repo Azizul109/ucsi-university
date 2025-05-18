@@ -14,6 +14,24 @@
                                         <div class="views-field views-field-title"> <span class="field-content">
                                                 <div class="col-md-4 col-sm-4 col-xs-12">
                                                     <article class="entry-item">
+                                                        <div class="entry-thumb"> <a href="https://ucsiuniversity073.sharepoint.com/:f:/s/GCA.BD/Eimb2XKFpJ5Al2tSrmh3dA8BLgGPxTP_-1OLWDIRy2aCdQ?e=szS9Mh" target="_blank"> <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/orientation-may-2025.jpg" width="398" height="266"> </a></div>
+                                                        <div class="entry-content">
+                                                            <header class="clearfix"> <span class="entry-time-white pull-left">17 May 2025</span> </header>
+                                                            <h3 class="entry-title happenings"><a href="https://ucsiuniversity073.sharepoint.com/:f:/s/GCA.BD/Eimb2XKFpJ5Al2tSrmh3dA8BLgGPxTP_-1OLWDIRy2aCdQ?e=szS9Mh" target="_blank">Orientation - May 2025</a></h3>
+                                                            <div class="qna-2">
+                                                                <div class="question-2"><span></span></div>
+                                                                <div class="answer-2">
+                                                                    <p>The Summer Orientation Program was successfully organized on campus, providing new students with a warm welcome and a comprehensive introduction to campus life. The program featured informative sessions, interactive activities, and campus tours, helping students acclimate and build connections with peers, faculty, and staff. The event concluded on a positive note, fostering enthusiasm and readiness for the upcoming academic journey.</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </article>
+                                                </div>
+                                            </span>
+                                        </div>
+                                        <div class="views-field views-field-title"> <span class="field-content">
+                                                <div class="col-md-4 col-sm-4 col-xs-12">
+                                                    <article class="entry-item">
                                                         <div class="entry-thumb"> <a href="https://ucsiuniversity073.sharepoint.com/sites/GCA.BD/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FGCA%2EBD%2FShared%20Documents%2FGCA%20BD%2FPhotos%2FAdmission%20Fair%2FAdmission%20Fair%20%2D%20April%202025&p=true&ga=1" target="_blank"> <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/img_20250424_112821.jpg" width="398" height="266" alt="" title=""> </a></div>
                                                         <div class="entry-content">
                                                             <header class="clearfix"> <span class="entry-time-white pull-left">24-26 Apr 2025</span> </header>
@@ -40,24 +58,6 @@
                                                                 <div class="question-2"><span></span></div>
                                                                 <div class="answer-2">
                                                                     <p>The Faculty of Business and Management at UCSI University Bangladesh Branch Campus proudly hosted an impactful seminar titled "Sustainable Business, Practical Impact: Insights from the Front Liners".</p>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </article>
-                                                </div>
-                                            </span>
-                                        </div>
-                                        <div class="views-field views-field-title"> <span class="field-content">
-                                                <div class="col-md-4 col-sm-4 col-xs-12">
-                                                    <article class="entry-item">
-                                                        <div class="entry-thumb"> <a href="https://ucsiuniversity073.sharepoint.com/sites/GCA.BD/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FGCA%2EBD%2FShared%20Documents%2FGCA%20BD%2FPhotos%2FStudent%20Events%2FShuvo%20Noboborsho%201432&p=true&ga=1" target="_blank"> <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/bangla_noboborsho_1432.jpg" width="398" height="266"> </a></div>
-                                                        <div class="entry-content">
-                                                            <header class="clearfix"> <span class="entry-time-white pull-left">16 Apr 2025</span> </header>
-                                                            <h3 class="entry-title happenings"><a href="https://ucsiuniversity073.sharepoint.com/sites/GCA.BD/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FGCA%2EBD%2FShared%20Documents%2FGCA%20BD%2FPhotos%2FStudent%20Events%2FShuvo%20Noboborsho%201432&p=true&ga=1" target="_blank">Bangla Noboborsho 1432</a></h3>
-                                                            <div class="qna-2">
-                                                                <div class="question-2"><span></span></div>
-                                                                <div class="answer-2">
-                                                                    <p>On Wednesday, April 16, 2025, the Bangladesh Branch Campus of Malaysian UCSI University celebrated the Pahela Baishakh 1432 Event with festive fervour. The University's Cultural Club and Photography Club jointly organized the event, initiated by the Student Affairs and Alumni (SAA).</p>
                                                                 </div>
                                                             </div>
                                                         </div>

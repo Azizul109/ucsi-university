@@ -78,6 +78,15 @@
                         <p class="facility-paragraph">The University Conference Room is a sophisticated space, designed to facilitate productive meetings, discussions, and academic gatherings. Equipped with comfortable seating, and a professional ambiance, the conference room provides a conducive environment for collaboration and knowledge exchange.</p>
                     </div>
                 </div>
+                                <div class="facility-div">
+                    <div class="facility-video">
+                        <div class="fluid-width-video-wrapper" style="padding-top: 56.3348%;"><iframe src="https://www.youtube.com/embed/DOHrcEgJgDA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="fitvid7"></iframe></div>
+                    </div>
+                    <div class="facility-info">
+                        <h5>Teacher & Student Lounge</h5>
+                        <p class="facility-paragraph">The Teacher & Student Lounge at UCSI University Bangladesh Branch Campus boasts a contemporary design, featuring sleek furniture and a vibrant atmosphere. With thoughtfully curated seating areas and ambient lighting, it’s the perfect spot for teachers & students to relax, socialize, and enjoy a wide range of offerings from the lounge.</p>
+                    </div>
+                </div>
                 <div style="border-bottom: none;" id="last-facility-div" class="facility-div">
                     <div class="facility-video">
                         <div class="fluid-width-video-wrapper" style="padding-top: 56.3348%;"><iframe src="https://www.youtube.com/embed/Zulvy4dyqbQ?si=dNbGLpEUnNQkA12K" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="fitvid8"></iframe></div>

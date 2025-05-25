@@ -1,42 +1,42 @@
 <div class="widget kopa-nothumb-widget">
     <div class="widget-title widget-title-s2 clearfix" style="padding-left:15px;"></div>
     <div class="widget-content">
-        <ul style="list-style-type:none; color:#000; padding-right:30px;"> 
+        <ul style="list-style-type:none; color:#000; padding-right:30px;">
             <span class="field-content">
                 <li>
                     <article class="entry-item row clearfix">
                         <div class="col-md-3 col-sm-3 col-xs-12"> <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/prof._bijoy_barua.jpg" width="117" height="124" alt="Dr. Bijoy "></div>
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">
                             <header>
-                                <h2 class="entry-title" style="padding-bottom:3px"><a href="/professor-bijoy-prasad-barua-phd">Professor Bijoy Prasad Barua, PhD</a></h2>
+                                <h2 class="entry-title" style="padding-bottom:3px"><a href="/professor-bijoy-prasad-barua-phd">Dr. Bijoy Prasad Barua</a></h2>
                                 <div class="designation-box">Dean</div>
                             </header>
                         </div>
                     </article>
                 </li>
                 <hr>
-            </span> 
+            </span>
             <span class="field-content">
                 <li>
                     <article class="entry-item row clearfix">
                         <div class="col-md-3 col-sm-3 col-xs-12"> <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/styles/facultylistnew/public/dr._rogayah.jpg?itok=bo76yUfe" width="117" height="124" alt="dr._rogayah"></div>
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">
                             <header>
-                                <h2 class="entry-title" style="padding-bottom:3px"><a href="/professor-dr-rogayah-bt-razak">Professor Rogayah Bt A Razak, PhD</a></h2>
+                                <h2 class="entry-title" style="padding-bottom:3px"><a href="/professor-dr-rogayah-bt-razak">Dr. Rogayah Bt A Razak</a></h2>
                                 <div class="designation-box">Affiliate Dean</div>
                             </header>
                         </div>
                     </article>
                 </li>
                 <hr>
-            </span> 
+            </span>
             <span class="field-content">
                 <li>
                     <article class="entry-item row clearfix">
                         <div class="col-md-3 col-sm-3 col-xs-12"> <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/dr._prdyut_roy.jpg" width="117" height="124" alt="Professor Prodyut Roy, PhD"></div>
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">
                             <header>
-                                <h2 class="entry-title" style="padding-bottom:3px"><a href="/professor-prodyut-roy-phd">Professor Prodyut Roy, PhD</a></h2>
+                                <h2 class="entry-title" style="padding-bottom:3px"><a href="/professor-prodyut-roy-phd">Dr. Prodyut Roy</a></h2>
                                 <div class="designation-box">Assistant Professor</div>
                             </header>
                         </div>
@@ -57,7 +57,7 @@
                     </article>
                 </li>
                 <hr>
-            </span> 
+            </span>
             <span class="field-content">
                 <li>
                     <article class="entry-item row clearfix">
@@ -71,7 +71,7 @@
                     </article>
                 </li>
                 <hr>
-            </span> 
+            </span>
             <span class="field-content">
                 <li>
                     <article class="entry-item row clearfix">
@@ -85,7 +85,7 @@
                     </article>
                 </li>
                 <hr>
-            </span> 
+            </span>
             <span class="field-content">
                 <li>
                     <article class="entry-item row clearfix">
@@ -99,7 +99,7 @@
                     </article>
                 </li>
                 <hr>
-            </span> 
+            </span>
             <span class="field-content">
                 <li>
                     <article class="entry-item row clearfix">
@@ -121,7 +121,7 @@
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">
                             <header>
                                 <h2 class="entry-title" style="padding-bottom:3px"><a href="/mr-mohammed-faruque">Mr Mohammed Faruque</a></h2>
-                                <div class="designation-box">Adjunct Lecturer</div>
+                                <div class="designation-box">Affiliate Lecturer</div>
                             </header>
                         </div>
                     </article>
@@ -135,7 +135,7 @@
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">
                             <header>
                                 <h2 class="entry-title" style="padding-bottom:3px"><a href="/mr-md-ragib-ekhowan">Mr Md. Ragib Ekhowan</a></h2>
-                                <div class="designation-box">Adjunct Lecturer</div>
+                                <div class="designation-box">Affiliate Lecturer</div>
                             </header>
                         </div>
                     </article>

@@ -11,7 +11,7 @@
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">
                             <header>
                                 <h2 class="entry-title" style="padding-bottom:3px"><a
-                                        href="/professor-dr-golam-ahmed-faruqui">Professor Golam Ahmed Faruqui, PhD</a>
+                                        href="/professor-dr-golam-ahmed-faruqui">Dr. Golam Ahmed Faruqui</a>
                                 </h2>
                                 <div class="designation-box">Dean</div>
                             </header>
@@ -29,8 +29,8 @@
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">
                             <header>
                                 <h2 class="entry-title" style="padding-bottom:3px"><a
-                                        href="/professor-dr-mohammed-mizanur-rahman">Professor Mohammed Mizanur
-                                        Rahman, PhD </a></h2>
+                                        href="/professor-dr-mohammed-mizanur-rahman">Dr. Mohammed Mizanur
+                                        Rahman</a></h2>
                                 <div class="designation-box">Professor</div>
                             </header>
                         </div>
@@ -48,7 +48,7 @@
                             <header>
                                 <h2 class="entry-title" style="padding-bottom:3px"><a
                                         href="/professor-abdul-bayes">Professor Abdul Bayes</a></h2>
-                                <div class="designation-box">Adjunct Professor</div>
+                                <div class="designation-box">Affiliate Professor</div>
                             </header>
                         </div>
                     </article>
@@ -64,8 +64,8 @@
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">
                             <header>
                                 <h2 class="entry-title" style="padding-bottom:3px"><a
-                                        href="/professor-dr-md-abdul-momen">Professor Md Abdul Momen, PhD</a></h2>
-                                <div class="designation-box">Adjunct Professor</div>
+                                        href="/professor-dr-md-abdul-momen">Dr. Md Abdul Momen</a></h2>
+                                <div class="designation-box">Affiliate Professor</div>
                             </header>
                         </div>
                     </article>
@@ -80,8 +80,8 @@
                                 width="117" height="124" alt="Professor Md. Nurun Nabi"></div>
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">
                             <header>
-                                <h2 class="entry-title" style="padding-bottom:3px"><a href="/professor-md-nurun-nabi-phd">Professor Md. Nurun Nabi, PhD</a></h2>
-                                <div class="designation-box">Adjunct Professor</div>
+                                <h2 class="entry-title" style="padding-bottom:3px"><a href="/professor-md-nurun-nabi-phd">Dr. Md. Nurun Nabi</a></h2>
+                                <div class="designation-box">Affiliate Professor</div>
                             </header>
                         </div>
                     </article>
@@ -97,7 +97,7 @@
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">
                             <header>
                                 <h2 class="entry-title" style="padding-bottom:3px"><a href="/major-general-md-mahbubur-rashid">Major General Md Mahbubur Rashid</a></h2>
-                                <div class="designation-box">Adjunct Faculty</div>
+                                <div class="designation-box">Affiliate Faculty</div>
                             </header>
                         </div>
                     </article>
@@ -113,7 +113,7 @@
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">
                             <header>
                                 <h2 class="entry-title" style="padding-bottom:3px"><a href="/major-akm-shakil-newaz-mba-retd">Major AKM Shakil Newaz, MBA (Retd)</a></h2>
-                                <div class="designation-box">Adjunct Faculty</div>
+                                <div class="designation-box">Affiliate Faculty</div>
                             </header>
                         </div>
                     </article>
@@ -163,7 +163,7 @@
                             <header>
                                 <h2 class="entry-title" style="padding-bottom:3px"><a href="/mr-arif-shahriar">Mr Arif
                                         Shahriar</a></h2>
-                                <div class="designation-box">Adjunct Lecturer</div>
+                                <div class="designation-box">Affiliate Lecturer</div>
                             </header>
                         </div>
                     </article>
@@ -180,7 +180,7 @@
                             <header>
                                 <h2 class="entry-title" style="padding-bottom:3px"><a
                                         href="/mr-md-nurul-mannan-choudhury">Mr Md Nurul Mannan Choudhury</a></h2>
-                                <div class="designation-box">Adjunct Lecturer</div>
+                                <div class="designation-box">Affiliate Lecturer</div>
                             </header>
                         </div>
                     </article>

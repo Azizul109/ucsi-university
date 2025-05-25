@@ -1,10 +1,10 @@
     <div class="col-md-12">
-          <div class="widget kopa-owl-5-widget">
-               <div class="widget-title widget-title-custom text-center">
-                    <span></span>
-                    <h2>Schedule Table</h2>
-               </div>
-           </div>
+        <div class="widget kopa-owl-5-widget">
+            <div class="widget-title widget-title-custom text-center">
+                <span></span>
+                <h2>Schedule Table</h2>
+            </div>
+        </div>
         <p>UCSI University Bangladesh Branch Campus Library supports students and researchers through the power of information and learning. Collections include an extensive collection of eBooks (When the service is being introduced), print books and online resources.</p>
         <table class="scholar">
             <tbody>
@@ -21,12 +21,20 @@
                         <p>Saturday</p>
                     </td>
                     <td>
+                        <p>09:30 am - 05:30 pm</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>Sunday</p>
+                    </td>
+                    <td>
                         <p>09:30 am - 07:30 pm</p>
                     </td>
                 </tr>
                 <tr>
                     <td>
-                        <p>Sunday - Monday</p>
+                        <p>Monday</p>
                     </td>
                     <td>
                         <p>09:30 am - 05:30 pm</p>
@@ -34,10 +42,18 @@
                 </tr>
                 <tr>
                     <td>
-                        <p>Tuesday - Thursday</p>
+                        <p>Tuesday - Wednesday</p>
                     </td>
                     <td>
                         <p>09:30 am - 07:30 pm</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>Thursday</p>
+                    </td>
+                    <td>
+                        <p>09:30 am - 05:30 pm</p>
                     </td>
                 </tr>
                 <!-- <tr>

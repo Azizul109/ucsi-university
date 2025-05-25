@@ -389,10 +389,6 @@
                                         <div class="staff-col">Senior Vice President</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Ms Lai Li Peng</div>
-                                        <div class="staff-col">Consultant</div>
-                                    </li>
-                                    <li class="clearfix">
                                         <div class="staff-col">Mr Md Yasin Bari</div>
                                         <div class="staff-col">Team Leader (Marketing)</div>
                                     </li>

@@ -10,6 +10,14 @@
             <ul class="table-list">
                 <div class="views-field views-field-title"> <span class="field-content">
                         <li class="clearfix">
+                            <div class="Mdate-col">19-May-2025</div>
+                            <div class="media-col">Announcement</div>
+                            <div class="title-col"><a href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/supplementary_examination_notice_2025-05.pdf" target="_blank">Supplementary Examination Notice_ 2025-05</a></div>
+                        </li>
+                    </span>
+                </div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
                             <div class="Mdate-col">11-May-2025</div>
                             <div class="media-col">Announcement</div>
                             <div class="title-col"><a href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/office_notice_buddha_purnima_11_may_2025.pdf" target="_blank">Holiday Notice for Buddha Purnima - 11 May</a></div>

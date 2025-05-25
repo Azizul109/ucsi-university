@@ -29,7 +29,7 @@
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">
                             <header>
                                 <h2 class="entry-title" style="padding-bottom:3px"><a
-                                        href="/professor-dr-nangkula-utaberta">Professor Nangkula Utaberta, PhD</a></h2>
+                                        href="/professor-dr-nangkula-utaberta">Dr. Nangkula Utaberta</a></h2>
                                 <div class="designation-box">Affiliate Dean</div>
                             </header>
                         </div>
@@ -46,8 +46,8 @@
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">
                             <header>
                                 <h2 class="entry-title" style="padding-bottom:3px"><a
-                                        href="/assistant-professor-dr-siti-fatimah-binti-hashim">Assistant Professor
-                                        Siti Fatimah Binti Hashim, PhD</a></h2>
+                                        href="/assistant-professor-dr-siti-fatimah-binti-hashim">Dr.
+                                        Siti Fatimah Binti Hashim</a></h2>
                                 <div class="designation-box">Affiliate Dean</div>
                             </header>
                         </div>
@@ -64,8 +64,8 @@
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">
                             <header>
                                 <h2 class="entry-title" style="padding-bottom:3px"><a
-                                        href="/professor-ts-dr-khairul-aidil-azlin-bin-abd-rahman">Professor Ts
-                                        Khairul Aidil Azlin Bin Abd Rahman, PhD</a></h2>
+                                        href="/professor-ts-dr-khairul-aidil-azlin-bin-abd-rahman">Dr. Ts
+                                        Khairul Aidil Azlin Bin Abd Rahman</a></h2>
                                 <div class="designation-box">Affiliate Professor</div>
                             </header>
                         </div>
@@ -82,8 +82,8 @@
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">
                             <header>
                                 <h2 class="entry-title" style="padding-bottom:3px"><a
-                                        href="/associate-prof-ts-dr-nazlina-bt-shaari">Associate Prof. Ts. Nazlina
-                                        bt. Shaari, PhD</a></h2>
+                                        href="/associate-prof-ts-dr-nazlina-bt-shaari">Dr. Ts. Nazlina
+                                        bt. Shaari</a></h2>
                                 <div class="designation-box">Affiliate Associate Professor</div>
                             </header>
                         </div>
@@ -108,6 +108,22 @@
                 </li>
                 <hr>
             </span> -->
+            <span class="field-content">
+                <li>
+                    <article class="entry-item row clearfix">
+                        <div class="col-md-3 col-sm-3 col-xs-12"> <img typeof="foaf:Image"
+                                src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/styles/facultylistnew/public/fabiha-tanjim_1.jpg?itok=-he11Ook"
+                                width="117" height="124" alt="Ms Fabiha Tanjim"></div>
+                        <div class="entry-content col-md-9 col-sm-9 col-xs-12">
+                            <header>
+                                <h2 class="entry-title" style="padding-bottom:3px"><a href="/ms-fabiha-tanjim">Ms Fabiha Tanjim</a></h2>
+                                <div class="designation-box">Lecturer</div>
+                            </header>
+                        </div>
+                    </article>
+                </li>
+                <hr>
+            </span>
             <span class="field-content">
                 <li>
                     <article class="entry-item row clearfix">
@@ -153,23 +169,7 @@
                             <header>
                                 <h2 class="entry-title" style="padding-bottom:3px"><a href="/mr-kazi-shamsul-amin">
                                         Mr Kazi Shamsul Amin</a></h2>
-                                <div class="designation-box">Adjunct Faculty</div>
-                            </header>
-                        </div>
-                    </article>
-                </li>
-                <hr>
-            </span>
-            <span class="field-content">
-                <li>
-                    <article class="entry-item row clearfix">
-                        <div class="col-md-3 col-sm-3 col-xs-12"> <img typeof="foaf:Image"
-                                src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/styles/facultylistnew/public/fabiha-tanjim_1.jpg?itok=-he11Ook"
-                                width="117" height="124" alt="Ms Fabiha Tanjim"></div>
-                        <div class="entry-content col-md-9 col-sm-9 col-xs-12">
-                            <header>
-                                <h2 class="entry-title" style="padding-bottom:3px"><a href="/ms-fabiha-tanjim">Ms Fabiha Tanjim</a></h2>
-                                <div class="designation-box">Lecturer</div>
+                                <div class="designation-box">Affiliate Faculty</div>
                             </header>
                         </div>
                     </article>
@@ -186,7 +186,7 @@
                             <header>
                                 <h2 class="entry-title" style="padding-bottom:3px"><a href="/ms-tasneem-mostofa">Ms
                                         Tasneem Mostofa</a></h2>
-                                <div class="designation-box">Adjunct Lecturer</div>
+                                <div class="designation-box">Affiliate Lecturer</div>
                             </header>
                         </div>
                     </article>

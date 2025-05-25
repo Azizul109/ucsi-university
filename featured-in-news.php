@@ -10,6 +10,22 @@
             <ul class="table-list">
                 <div class="views-field views-field-title"> <span class="field-content">
                         <li class="clearfix">
+                            <div class="Mdate-col">19-May-2025</div>
+                            <div class="media-col">Samakal</div>
+                            <div class="title-col"><a href="https://samakal.com/campus/article/296374/%E0%A6%87%E0%A6%89%E0%A6%B8%E0%A6%BF%E0%A6%8F%E0%A6%B8%E0%A6%86%E0%A6%87-%E0%A6%87%E0%A6%89%E0%A6%A8%E0%A6%BF%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8%E0%A6%BF%E0%A6%9F%E0%A6%BF-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%95%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%BE%E0%A6%B8%E0%A7%87-%E0%A6%93%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A7%87%E0%A6%B6%E0%A6%A8-%E0%A6%85%E0%A6%A8%E0%A7%81%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A6%BF%E0%A6%A4" target="_blank">ইউসিএসআই ইউনিভার্সিটি বাংলাদেশ ক্যাম্পাসে ওরিয়েন্টেশন অনুষ্ঠিত</a></div>
+                        </li>
+                    </span>
+                </div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
+                            <div class="Mdate-col">19-May-2025</div>
+                            <div class="media-col">Amader Shomoy</div>
+                            <div class="title-col"><a href="https://epaper.dainikamadershomoy.com/view/2025/second-edition/05/19/02/02_124" target="_blank">ইউসিএসআই ইউনিভার্সিটির নবীন শিক্ষার্থীদের বরণ</a></div>
+                        </li>
+                    </span>
+                </div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
                             <div class="Mdate-col">18-May-2025</div>
                             <div class="media-col">Ajker Patrika</div>
                             <div class="title-col"><a href="https://www.ajkerpatrika.com/education/campus/ajpdy1jxg0hy3" target="_blank">ইউসিএসআই ইউনিভার্সিটির নবীনবরণ অনুষ্ঠিত</a></div>
@@ -27,14 +43,6 @@
                 <div class="views-field views-field-title"> <span class="field-content">
                         <li class="clearfix">
                             <div class="Mdate-col">18-May-2025</div>
-                            <div class="media-col">Kaler Kantho</div>
-                            <div class="title-col"><a href="https://www.kalerkantho.com/online/campus-online/2025/05/17/1518831" target="_blank">নবীনবরণ করল ইউসিএসআই ইউনিভার্সিটি বাংলাদেশ</a></div>
-                        </li>
-                    </span>
-                </div>
-                <div class="views-field views-field-title"> <span class="field-content">
-                        <li class="clearfix">
-                            <div class="Mdate-col">18-May-2025</div>
                             <div class="media-col">Dainik Shiksha</div>
                             <div class="title-col"><a href="https://www.dainikshiksha.com/bn/news/ucsi-university-bangladesh-branch-campus-300951" target="_blank">ইউসিএসআই ইউনিভার্সিটির বাংলাদেশ ক্যাম্পাসে ওরিয়েন্টেশন অনুষ্ঠিত</a></div>
                         </li>
@@ -42,7 +50,15 @@
                 </div>
                 <div class="views-field views-field-title"> <span class="field-content">
                         <li class="clearfix">
-                            <div class="Mdate-col">18-May-2025</div>
+                            <div class="Mdate-col">17-May-2025</div>
+                            <div class="media-col">Kaler Kantho</div>
+                            <div class="title-col"><a href="https://www.kalerkantho.com/online/campus-online/2025/05/17/1518831" target="_blank">নবীনবরণ করল ইউসিএসআই ইউনিভার্সিটি বাংলাদেশ</a></div>
+                        </li>
+                    </span>
+                </div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
+                            <div class="Mdate-col">17-May-2025</div>
                             <div class="media-col">Ajkaler Khobor</div>
                             <div class="title-col"><a href="https://www.ajkalerkhobor.net/news/181573" target="_blank">ইউসিএসআই ইউনিভার্সিটি বাংলাদেশ ক্যাম্পাসে সামার সেমিস্টারের ওরিয়েন্টেশন</a></div>
                         </li>

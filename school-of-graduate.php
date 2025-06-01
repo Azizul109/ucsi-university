@@ -19,6 +19,24 @@
             <span class="field-content">
                 <li>
                     <article class="entry-item row clearfix">
+                        <div class="col-md-3 col-sm-3 col-xs-12"> <img typeof="foaf:Image"
+                                src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/styles/facultylistnew/public/121.jpg?itok=ozDW3vWB"
+                                width="117" height="124"></div>
+                        <div class="entry-content col-md-9 col-sm-9 col-xs-12">
+                            <header>
+                                <h2 class="entry-title" style="padding-bottom:3px"><a
+                                        href="/professor-dr-mohammed-mizanur-rahman">Dr. Mohammed Mizanur
+                                        Rahman</a></h2>
+                                <div class="designation-box">Professor (Post Doctoral Attachment from KL Campus)</div>
+                            </header>
+                        </div>
+                    </article>
+                </li>
+                <hr>
+            </span>
+            <span class="field-content">
+                <li>
+                    <article class="entry-item row clearfix">
                         <div class="col-md-3 col-sm-3 col-xs-12"> <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/styles/facultylistnew/public/43d66b57-2683-4112-8abf-4c913eb65430_1_-removebg-preview1.png?itok=HLQDpluX" width="117" height="124" alt="43d66b57-2683-4112-8abf-4c913eb65430_1_-removebg-preview1"></div>
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">
                             <header>
@@ -73,26 +91,8 @@
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">
                             <header>
                                 <h2 class="entry-title" style="padding-bottom:3px"><a
-                                        href="/professor-md-kashedul-wahab-tuhin-phd">Dr. Md. Kashedul Wahab Tuhin</a></h2>
+                                        href="/professor-md-kashedul-wahab-tuhin-phd">Dr. Md Kashedul Wahab Tuhin</a></h2>
                                 <div class="designation-box">Affiliate Professor</div>
-                            </header>
-                        </div>
-                    </article>
-                </li>
-                <hr>
-            </span>
-            <span class="field-content">
-                <li>
-                    <article class="entry-item row clearfix">
-                        <div class="col-md-3 col-sm-3 col-xs-12"> <img typeof="foaf:Image"
-                                src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/styles/facultylistnew/public/121.jpg?itok=ozDW3vWB"
-                                width="117" height="124"></div>
-                        <div class="entry-content col-md-9 col-sm-9 col-xs-12">
-                            <header>
-                                <h2 class="entry-title" style="padding-bottom:3px"><a
-                                        href="/professor-dr-mohammed-mizanur-rahman">Dr. Mohammed Mizanur
-                                        Rahman</a></h2>
-                                <div class="designation-box">Coordinator</div>
                             </header>
                         </div>
                     </article>

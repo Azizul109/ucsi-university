@@ -396,10 +396,6 @@
                                         <div class="staff-col">Ms Dipa Dutta</div>
                                         <div class="staff-col">Executive Officer</div>
                                     </li>
-                                    <li class="clearfix">
-                                        <div class="staff-col">Mr Azizul Farhaz</div>
-                                        <div class="staff-col">Junior Executive Officer (Sales and Marketing)</div>
-                                    </li>
                                 </ul>
                             </div>
                         </div><!-- kopa-course-list-table -->
@@ -451,10 +447,6 @@
                                     <li class="clearfix">
                                         <div class="staff-col">Mr Md Abdul Aziz</div>
                                         <div class="staff-col">Executive Officer (Computer Services)</div>
-                                    </li>
-                                    <li class="clearfix">
-                                        <div class="staff-col">Mr Maksudur Rabby</div>
-                                        <div class="staff-col">Assistant Registrar (Acting)</div>
                                     </li>
                                     <li class="clearfix">
                                         <div class="staff-col">Mr Md Muktadir Aziz Abid</div>
@@ -731,6 +723,10 @@
                                     <li class="clearfix">
                                         <div class="staff-col">Professor Zulkornain Yusop, PhD</div>
                                         <div class="staff-col">Dean</div>
+                                    <li class="clearfix">
+                                        <div class="staff-col">Professor Mohammed Mizanur Rahman, PhD</div>
+                                        <div class="staff-col">Professor (Post Doctoral Attachment from KL Campus)</div>
+                                    </li>
                                     </li>
                                     <li class="clearfix">
                                         <div class="staff-col">Affiliate Distinguished Professor Ts Ooi Keng Boon, FASc, PhD</div>
@@ -743,10 +739,6 @@
                                     <li class="clearfix">
                                         <div class="staff-col">Professor Noor Azman Ali, PhD</div>
                                         <div class="staff-col">Affiliate Professor</div>
-                                    </li>
-                                    <li class="clearfix">
-                                        <div class="staff-col">Professor Mohammed Mizanur Rahman, PhD</div>
-                                        <div class="staff-col">Coordinator</div>
                                     </li>
                                     <li class="clearfix">
                                         <div class="staff-col">Professor Md Kashedul Wahab Tuhin, PhD</div>
@@ -788,7 +780,7 @@
                                     </li>
                                     <li class="clearfix">
                                         <div class="staff-col">Professor Mohammed Mizanur Rahman, PhD</div>
-                                        <div class="staff-col">Professor</div>
+                                        <div class="staff-col">Professor (Post Doctoral Attachment from KL Campus)</div>
                                     </li>
                                     <li class="clearfix">
                                         <div class="staff-col">Professor Abdul Bayes</div>

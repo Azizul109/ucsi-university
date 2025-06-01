@@ -31,7 +31,7 @@
                                 <h2 class="entry-title" style="padding-bottom:3px"><a
                                         href="/professor-dr-mohammed-mizanur-rahman">Dr. Mohammed Mizanur
                                         Rahman</a></h2>
-                                <div class="designation-box">Professor</div>
+                                <div class="designation-box">Professor (Post Doctoral Attachment from KL Campus)</div>
                             </header>
                         </div>
                     </article>
@@ -80,7 +80,7 @@
                                 width="117" height="124" alt="Professor Md. Nurun Nabi"></div>
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">
                             <header>
-                                <h2 class="entry-title" style="padding-bottom:3px"><a href="/professor-md-nurun-nabi-phd">Dr. Md. Nurun Nabi</a></h2>
+                                <h2 class="entry-title" style="padding-bottom:3px"><a href="/professor-md-nurun-nabi-phd">Dr. Md Nurun Nabi</a></h2>
                                 <div class="designation-box">Affiliate Professor</div>
                             </header>
                         </div>

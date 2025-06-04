@@ -103,6 +103,23 @@
             </span>
             <span class="field-content">
             </span>
+            <span class="field-content">
+                <li>
+                    <article class="entry-item row clearfix">
+                        <div class="col-md-3 col-sm-3 col-xs-12"> <img typeof="foaf:Image"
+                                src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/aynul_hoque_new.jpg"
+                                width="117" height="124"></div>
+                        <div class="entry-content col-md-9 col-sm-9 col-xs-12">
+                            <header>
+                                <h2 class="entry-title" style="padding-bottom:3px"><a
+                                        href="/dr-md-aynul-hoque">Dr. Md Aynul Hoque</a></h2>
+                                <div class="designation-box">Coordinator </div>
+                            </header>
+                        </div>
+                    </article>
+                </li>
+                <hr>
+            </span>
         </ul>
     </div>
 </div>

@@ -92,6 +92,38 @@
                 <li>
                     <article class="entry-item row clearfix">
                         <div class="col-md-3 col-sm-3 col-xs-12"> <img typeof="foaf:Image"
+                                src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/styles/media_thumbnail/public/mahmud_wahid.jpg?itok=u7O6vAdw"
+                                width="117" height="124" alt="Mr Mahmud Wahid"></div>
+                        <div class="entry-content col-md-9 col-sm-9 col-xs-12">
+                            <header>
+                                <h2 class="entry-title" style="padding-bottom:3px"><a href="/dr-mahmud-wahid">Dr. Mahmud Wahid</a></h2>
+                                <div class="designation-box">Assistant Professor</div>
+                            </header>
+                        </div>
+                    </article>
+                </li>
+                <hr>
+            </span>
+            <span class="field-content">
+                <li>
+                    <article class="entry-item row clearfix">
+                        <div class="col-md-3 col-sm-3 col-xs-12"> <img typeof="foaf:Image"
+                                src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/aynul_hoque_new.jpg"
+                                width="117" height="124" alt="Dr. Md Aynul Hoque"></div>
+                        <div class="entry-content col-md-9 col-sm-9 col-xs-12">
+                            <header>
+                                <h2 class="entry-title" style="padding-bottom:3px"><a href="/dr-md-aynul-hoque">Dr. Md Aynul Hoque</a></h2>
+                                <div class="designation-box">Assistant Professor</div>
+                            </header>
+                        </div>
+                    </article>
+                </li>
+                <hr>
+            </span>
+            <span class="field-content">
+                <li>
+                    <article class="entry-item row clearfix">
+                        <div class="col-md-3 col-sm-3 col-xs-12"> <img typeof="foaf:Image"
                                 src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/styles/facultylistnew/public/maj_gen_mahbubur_rashid_-new-removebg-preview.png?itok=87glBjPs"
                                 width="117" height="124" alt="Major General Md Mahbubur Rashid"></div>
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">
@@ -124,12 +156,12 @@
                 <li>
                     <article class="entry-item row clearfix">
                         <div class="col-md-3 col-sm-3 col-xs-12"> <img typeof="foaf:Image"
-                                src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/styles/media_thumbnail/public/mahmud_wahid.jpg?itok=u7O6vAdw"
-                                width="117" height="124" alt="Mr Mahmud Wahid"></div>
+                                src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/md._kamrul_bari.png"
+                                width="117" height="124" alt="Md. Kamrul Bari FIFA FFA"></div>
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">
                             <header>
-                                <h2 class="entry-title" style="padding-bottom:3px"><a href="/mr-mahmud-wahid">Mr Mahmud Wahid</a></h2>
-                                <div class="designation-box">Assistant Professor</div>
+                                <h2 class="entry-title" style="padding-bottom:3px"><a href="/mr-md-kamrul-bari-fifa-ffa">Mr Md Kamrul Bari FIFA FFA</a></h2>
+                                <div class="designation-box">Affiliate Faculty</div>
                             </header>
                         </div>
                     </article>

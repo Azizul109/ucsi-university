@@ -3,7 +3,7 @@
         <div class="inside">
             <div class="contextual-links-region panel-pane pane-block pane-edu-main-menu-mobile">
                 <nav class="main-nav-mobile clearfix"><a class="pull"><span>Main Menu</span><span class="fa fa-align-justify padleft-5"></span></a>
-                <ul class="main-menu-mobile clearfix" style="display: none;">
+                    <ul class="main-menu-mobile clearfix" style="display: none;">
                         <li><a href="#">About Us<span class=""></span></a>
                             <ul class="menu" data-index="0" style="display: none;">
                                 <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/bangladesh/about-the-campus">The University<span class=""></span></a>
@@ -40,7 +40,7 @@
                             <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/about-us/school-of-graduate-studies"> School of Graduate Studies </a></li>
                             <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/about-us/faculty-of-business-and-management"> Faculty of Business And Management </a></li>
                             <!-- <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/about-us/faculty-of-engineering"> Faculty of Engineering </a></li> -->
-                            <!-- <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/about-us/faculty-of-hospitality-and-tourism-management"> Faculty of Hospitality &amp; Tourism Management </a></li> -->
+                            <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/about-us/faculty-of-hospitality-and-tourism-management"> Faculty of Hospitality &amp; Tourism Management </a></li>
                             <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/about-us/faculty-of-social-sciences-and-liberal-arts"> Faculty of Social Sciences &amp; Liberal Arts </a></li>
                             <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/about-us/faculty-of-creative-arts-design-and-architecture"> Faculty of Creative Arts And Design </a></li>
                             <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/about-us/faculty-of-computer-science-and-digital-innovation"> Faculty of Computer Science And Digital Innovation </a></li>

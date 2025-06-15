@@ -9,8 +9,9 @@ Language Requirements:
     </div>
     <div class="mb-20">
         <p>
-            i.  A bachelor’s degree in a field or related fields with a Minimum CGPA of 2.5 and to fulfil the International English Language requirements. <br /><br />
-            ii. Additional requirements, documentation, and assessment may be applicable in compliance with the rules and regulations of governing authorities.
+            i. A bachelor’s degree in a field or related fields with a Minimum CGPA of 2.5 and to fulfil the International English Language requirements. <br /><br />
+            ii. A bachelor’s degree with CGPA below 2.0 requires a minimum of 5 years of work experience in a relevant field and to fulfill the international English Language requirements. <br /><br />
+            iii. Additional requirements, documentation, and assessment may be applicable in compliance with the rules and regulations of governing authorities.
         </p>
     </div>
 </div>

@@ -27,9 +27,9 @@
         <div class="views-field views-field-title"> <span class="field-content">
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <article class="entry-item">
-                        <div class="entry-thumb"> <a href="https://ucsiuniversity073.sharepoint.com/:f:/s/GCA.BD/Ejk4ISB5Dv1MnFyovGm7wD0BXSg9E-bNgFZIsW6FBQb0mg?e=DmtkO5" target="_blank"> <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/sustainable_business_practical_impact.jpg" width="398" height="266"> </a></div>
+                        <div class="entry-thumb"> <a href="https://ucsiuniversity073.sharepoint.com/:f:/s/GCA.BD/EtrFkT1BJq1KqxV0RV5YWyUBPoDU_fDD_HEnvVg_uK3Glg?e=SjJekT" target="_blank"> <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/sustainable_business_practical_impact.jpg" width="398" height="266"> </a></div>
                         <div class="entry-content clearfix pb-40">
-                            <header class="text-center pt-10"> <span class="entry-categories-2"><a href="https://ucsiuniversity073.sharepoint.com/:f:/s/GCA.BD/Ejk4ISB5Dv1MnFyovGm7wD0BXSg9E-bNgFZIsW6FBQb0mg?e=DmtkO5" target="_blank">Seminar on : Sustainable Business, Practical Impact: Insights from the Front Liners</a></span> </header>
+                            <header class="text-center pt-10"> <span class="entry-categories-2"><a href="https://ucsiuniversity073.sharepoint.com/:f:/s/GCA.BD/EtrFkT1BJq1KqxV0RV5YWyUBPoDU_fDD_HEnvVg_uK3Glg?e=SjJekT" target="_blank">Seminar on : Sustainable Business, Practical Impact: Insights from the Front Liners</a></span> </header>
                         </div>
                     </article>
                 </div>

@@ -55,7 +55,22 @@
                     </article>
                 </li>
                 <hr>
-            </span> <span class="field-content">
+            </span>
+            <span class="field-content">
+                <li>
+                    <article class="entry-item row clearfix">
+                        <div class="col-md-3 col-sm-3 col-xs-12"> <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/dr._md._zulfiker_mahmud.png" width="117" height="124" alt="dr-md-zulfiker-mahmud"></div>
+                        <div class="entry-content col-md-9 col-sm-9 col-xs-12">
+                            <header>
+                                <h2 class="entry-title" style="padding-bottom:3px"><a href="/dr-md-zulfiker-mahmud">Dr. Md Zulfiker Mahmud</a></h2>
+                                <div class="designation-box">Affiliate Faculty</div>
+                            </header>
+                        </div>
+                    </article>
+                </li>
+                <hr>
+            </span>
+            <span class="field-content">
                 <li>
                     <article class="entry-item row clearfix">
                         <div class="col-md-3 col-sm-3 col-xs-12"> <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/styles/facultylistnew/public/mostafizur_rahman_1.jpg?itok=WXYBYQHn" width="117" height="124"></div>

@@ -282,13 +282,13 @@
                 <td>BDT 389,000</td>
                 <td>USD 3,325</td>
             </tr>
-            <!-- <tr>
+            <tr>
             <td>Master in International Hospitality Management</td>
             <td>40</td>
             <td>2 years</td>
             <td>BDT 429,000</td>
             <td>USD 3,667</td>
-        </tr>  -->
+        </tr> 
             <tr>
                 <th style="text-align: center;" colspan="5">Faculty of Business and Management</th>
             </tr>
@@ -369,7 +369,7 @@
                 <td>BDT 1,132,000</td>
                 <td>USD 9,676</td>
             </tr>
-            <!-- <tr>
+            <tr>
             <th style="text-align: center;" colspan="5">Faculty Of Hospitality & Tourism Management</th>
         </tr>
         <tr>
@@ -385,7 +385,7 @@
             <td>4 years</td>
             <td>BDT 1,259,000</td>
             <td>USD 10,761</td>
-        </tr> -->
+        </tr>
             <tr>
                 <th style="text-align: center;" colspan="5">Faculty of Computer Science & Digital Innovation</th>
             </tr>

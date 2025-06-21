@@ -128,6 +128,33 @@
                 <div class="row">
                     <div class="col-md-2 col-sm-2 col-xs-12">
                         <div class="details-bg">
+                            <p class="title-hidden"><b>Date:</b></p> 17 Jun 2025 - 19 Jun 2025
+                        </div>
+                    </div>
+                    <div class="col-md-2 col-sm-2 col-xs-12">
+                        <div class="details-bg">
+                            <p class="title-hidden"><b>Semester:</b></p> May 2025
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-sm-6 col-xs-12 pb-10-mobile">
+                        <div class="details-bg">
+                            <p class="title-hidden"><b>Event:</b></p>
+                            <h6>Admission and Scholarship Fair</h6><br>
+                        </div>
+                    </div>
+                    <div class="col-md-2 col-sm-2 col-xs-12">
+                        <div class="details-bg">
+                            <p class="title-hidden"><b>Venue:</b></p> Campus
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </strong></div>
+    <div class="views-field views-field-title"> <strong class="field-content">
+            <div class="exhibition-list-box">
+                <div class="row">
+                    <div class="col-md-2 col-sm-2 col-xs-12">
+                        <div class="details-bg">
                             <p class="title-hidden"><b>Date:</b></p> 22 May 2025
                         </div>
                     </div>

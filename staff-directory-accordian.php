@@ -396,6 +396,18 @@
                                         <div class="staff-col">Ms Dipa Dutta</div>
                                         <div class="staff-col">Executive Officer</div>
                                     </li>
+                                    <li class="clearfix">
+                                        <div class="staff-col">Ms Rafsina Osman Riya</div>
+                                        <div class="staff-col">Executive Officer</div>
+                                    </li>
+                                    <li class="clearfix">
+                                        <div class="staff-col">Ms Urmi Das</div>
+                                        <div class="staff-col">Executive Officer</div>
+                                    </li>
+                                    <li class="clearfix">
+                                        <div class="staff-col">Mr Md Mostafizur Rahman Sabim</div>
+                                        <div class="staff-col">Executive Officer</div>
+                                    </li>
                                 </ul>
                             </div>
                         </div><!-- kopa-course-list-table -->
@@ -744,6 +756,10 @@
                                         <div class="staff-col">Professor Md Kashedul Wahab Tuhin, PhD</div>
                                         <div class="staff-col">Adjunct Professor</div>
                                     </li>
+                                    <li class="clearfix">
+                                        <div class="staff-col">Dr. Md Aynul Hoque</div>
+                                        <div class="staff-col">Coordinator</div>
+                                    </li>
                                 </ul>
                             </div>
                         </div><!-- kopa-course-list-table -->
@@ -795,12 +811,24 @@
                                         <div class="staff-col">Adjunct Professor</div>
                                     </li>
                                     <li class="clearfix">
+                                        <div class="staff-col">Mr Md Mahmud Wahid</div>
+                                        <div class="staff-col">Assistant Professor</div>
+                                    </li>
+                                    <li class="clearfix">
+                                        <div class="staff-col">Dr. Md Aynul Hoque</div>
+                                        <div class="staff-col">Assistant Professor</div>
+                                    </li>
+                                    <li class="clearfix">
                                         <div class="staff-col">Major General Md Mahbubur Rashid</div>
                                         <div class="staff-col">Adjunct Faculty</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Mr Md Mahmud Wahid</div>
-                                        <div class="staff-col">Assistant Professor</div>
+                                        <div class="staff-col">Major AKM Shakil Newaz, MBA (Retd)</div>
+                                        <div class="staff-col">Adjunct Faculty</div>
+                                    </li>
+                                    <li class="clearfix">
+                                        <div class="staff-col">Mr Md Kamrul Bari FIFA FFA</div>
+                                        <div class="staff-col">Adjunct Faculty</div>
                                     </li>
                                     <li class="clearfix">
                                         <div class="staff-col">Ms Maisha Karim</div>
@@ -1107,12 +1135,16 @@
                                         <div class="staff-col">Affiliate Dean</div>
                                     </li>
                                     <li class="clearfix">
-                                        <div class="staff-col">Professor Ts Ghassan Saleh Hussein Al-Dharhani, PhD</div>
-                                        <div class="staff-col">Affiliate Associate Professor</div>
-                                    </li>
-                                    <li class="clearfix">
                                         <div class="staff-col">Professor Farhana Huq, PhD</div>
                                         <div class="staff-col">Assistant Professor</div>
+                                    </li>
+                                    <li class="clearfix">
+                                        <div class="staff-col">Professor Ts Ghassan Saleh Hussein Al-Dharhani, PhD</div>
+                                        <div class="staff-col">Affiliate Assistant Professor</div>
+                                    </li>
+                                    <li class="clearfix">
+                                        <div class="staff-col">Dr. Pintu Chandra Shill</div>
+                                        <div class="staff-col">Affiliate Faculty</div>
                                     </li>
                                     <li class="clearfix">
                                         <div class="staff-col">Mr H M Mostafizur Rahman</div>

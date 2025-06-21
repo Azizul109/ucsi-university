@@ -11,8 +11,8 @@
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">
                             <header>
                                 <h2 class="entry-title" style="padding-bottom:3px"><a
-                                        href="/associate-professor-dr-hanafi-bin-hamzah">Associate Professor Hanafi
-                                        Bin Hamzah, PhD</a></h2>
+                                        href="/associate-professor-dr-hanafi-bin-hamzah">Dr. Hanafi
+                                        Bin Hamzah</a></h2>
                                 <div class="designation-box">Affiliate Dean</div>
                             </header>
                         </div>
@@ -58,7 +58,7 @@
                 <li>
                     <article class="entry-item row clearfix">
                         <div class="col-md-3 col-sm-3 col-xs-12"> <img typeof="foaf:Image"
-                                src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/styles/facultylistnew/public/aquib_haque.jpeg?itok=gGcjThls"
+                                src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/aquib_haque_0.jpeg"
                                 width="117" height="124" alt="aquib-haque"></div>
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">
                             <header>
@@ -79,7 +79,7 @@
                         <div class="entry-content col-md-9 col-sm-9 col-xs-12">
                             <header>
                                 <h2 class="entry-title" style="padding-bottom:3px"><a
-                                        href="/assistant-professor-mohamad-fadzly-bin-che-omar">Assistant Professor
+                                        href="/assistant-professor-mohamad-fadzly-bin-che-omar">Mr 
                                         Mohamad Fadzly Bin Che Omar</a></h2>
                                 <div class="designation-box">Affiliate Lecturer</div>
                             </header>
@@ -166,7 +166,7 @@
                             <header>
                                 <h2 class="entry-title" style="padding-bottom:3px"><a href="/mr-muhammad-sohel-ahmed">Mr
                                         Muhammad Sohel Ahmed</a></h2>
-                                <div class="designation-box">Adjunct Lecturer</div>
+                                <div class="designation-box">Affiliate Lecturer</div>
                             </header>
                         </div>
                     </article>

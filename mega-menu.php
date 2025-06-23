@@ -60,7 +60,7 @@
                                         <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/exhibitions-and-roadshows"> Exhibitions And Roadshows </a></li>
                                         <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/scholarships"> Scholarships </a></li>
                                         <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/Tuition-Fees"> Tuition Fees </a></li>
-                                        <li> <a href="https://bangladesh.ucsiuniversity.edu.my/downloads"> Downloads </a></li>
+                                        <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/under-maintenance"> Downloads </a></li>
                                     </ul>
                                 </li>
                                 <li class=""> <a href="#" class="sf-with-ul"> Life at UCSI </a>
@@ -99,11 +99,10 @@
                                         <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/featured-in-news/all/all"> Press &amp; Publicity </a></li>
                                         <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/photo-gallery/all/all"> Photo Gallery</a></li>
                                         <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/video-gallery"> Video Gallery </a></li>
-                                        <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/ucsi-bangladesh-horizon"> UCSI Horizon </a></li>
                                         <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/announcement"> Notices &amp; Announcements </a></li>
                                     </ul>
                                 </li>
-                                <li> <a href="https://www.ucsiuniversity.edu.my/"> UCSI University </a></li>
+                                <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/ucsi-bangladesh-horizon"> UCSI Horizon </a></li>
                             </ul>
                         </nav>
                     </div>

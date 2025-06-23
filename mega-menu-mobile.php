@@ -79,11 +79,10 @@
                             <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/featured-in-news/all/all">Press &amp; Publicity</a></li>
                             <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/photo-gallery/all/all">Photo Gallery</a></li>
                             <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/video-gallery">Video Gallery</a></li>
-                            <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/ucsi-bangladesh-horizon">UCSI Horizon</a></li>
                             <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/announcement">Notices &amp; Announcements</a></li>
                         </ul>
                     </li>
-                    <li><a href="https://www.ucsiuniversity.edu.my/">UCSI University</a></li>
+                    <li><a href="https://www.bangladesh.ucsiuniversity.edu.my/ucsi-bangladesh-horizon">UCSI Horizon</a></li>
                     </ul>
                 </nav>
             </div>

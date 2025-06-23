@@ -16,7 +16,7 @@
                 </li>
                 <hr>
             </span>
-            <span class="field-content">
+            <!-- <span class="field-content">
                 <li>
                     <article class="entry-item row clearfix">
                         <div class="col-md-3 col-sm-3 col-xs-12"> <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/styles/facultylistnew/public/dr._rogayah.jpg?itok=bo76yUfe" width="117" height="124" alt="dr._rogayah"></div>
@@ -29,7 +29,7 @@
                     </article>
                 </li>
                 <hr>
-            </span>
+            </span> -->
             <span class="field-content">
                 <li>
                     <article class="entry-item row clearfix">

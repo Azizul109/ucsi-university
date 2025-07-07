@@ -5,7 +5,16 @@
 
 <div class="row awards-row">
     <div class="col-md-4 col-sm-4 col-xs-12">
-        <p><img alt="" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/qs_subject_ranking-2025.png" style="width:83%"></p>
+        <p><img alt="" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/qs_2026100x.png" style="width: 83%"></p>
+    </div>
+    <div class="col-md-8 col-sm-8 col-xs-12">
+        <div class="awards-header">QS World University Rankings 2026</div>
+        <p>UCSI University ranks 269th in the QS World University Rankings 2026, placing in the world’s top 1% for the fourth consecutive year.</p>
+    </div>
+</div>
+<div class="row awards-row">
+    <div class="col-md-4 col-sm-4 col-xs-12">
+        <p><img alt="" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/subject_2025100x.png" style="width:83%"></p>
     </div>
     <div class="col-md-8 col-sm-8 col-xs-12">
         <div class="awards-header">Top 150 Arts and Design</div>

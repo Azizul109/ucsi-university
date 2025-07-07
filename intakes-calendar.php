@@ -1,11 +1,11 @@
-<div>        
+<div>
     <div class="row text-center intakes">
         <div class="col-md-6">
             <div class="row">
                 <div class="col-md-12">
                     <div class="item-box">
-                        <h4>Admission Deadline, May 2025:</h4>
-                        <p>22<sup>th</sup> May 2025</p>
+                        <h4>Admission Deadline,<br> September 2025:</h4>
+                        <p>18<sup>th</sup> September 2025</p>
                     </div>
                 </div>
                 <!-- <div class="col-md-12">
@@ -16,9 +16,9 @@
                 </div> -->
                 <div class="col-md-12">
                     <div class="item-box">
-                        <h4>Class Commencement, May 2025:</h4>
+                        <h4>Class Commencement,<br> September 2025:</h4>
                         <!-- <p><b>(Undergraduate)</b></p> -->
-                        <p>18<sup>th</sup> May 2025</p>
+                        <p>14<sup>th</sup> September 2025</p>
                     </div>
                 </div>
             </div>
@@ -42,18 +42,19 @@
         <a class="link-calender" href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/may_2025_academic_calender_for_ucsi_students_0001.pdf" target="_blank">May 2025 Semester</a>
         <a class="link-calender" href="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/september_2025_academic_calender_for_ucsi_students_0001.pdf" target="_blank">September 2025 Semester</a>
     </div>
-    
-    
+
+
 </div>
 
 
 <style>
     .button-container {
-        display: flex; 
-        justify-content: center; 
-        align-items: center; 
+        display: flex;
+        justify-content: center;
+        align-items: center;
         gap: 40px;
-        margin-top: 20px; /* Added margin for separation */
+        margin-top: 20px;
+        /* Added margin for separation */
     }
 
     .link-calender {
@@ -67,7 +68,8 @@
     }
 
     .link-calender:hover {
-        background-color: #810d0d; /* Darken the color on hover */
+        background-color: #810d0d;
+        /* Darken the color on hover */
         color: white;
     }
 </style>

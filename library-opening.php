@@ -26,7 +26,7 @@
                 </tr>
                 <tr>
                     <td>
-                        <p>Sunday</p>
+                        <p>Sunday - Tuesday</p>
                     </td>
                     <td>
                         <p>09:30 am - 07:30 pm</p>
@@ -34,28 +34,20 @@
                 </tr>
                 <tr>
                     <td>
-                        <p>Monday</p>
+                        <p>Wednesday - Thursday</p>
                     </td>
                     <td>
                         <p>09:30 am - 05:30 pm</p>
                     </td>
                 </tr>
-                <tr>
-                    <td>
-                        <p>Tuesday - Wednesday</p>
-                    </td>
-                    <td>
-                        <p>09:30 am - 07:30 pm</p>
-                    </td>
-                </tr>
-                <tr>
+                <!-- <tr>
                     <td>
                         <p>Thursday</p>
                     </td>
                     <td>
                         <p>09:30 am - 05:30 pm</p>
                     </td>
-                </tr>
+                </tr> -->
                 <!-- <tr>
                     <td>
                         <p>Friday </p>
@@ -69,7 +61,7 @@
                         <p>Friday </p>
                     </td>
                     <td>
-                        <p>Weekly Holiday</p>
+                        <p>Closed</p>
                     </td>
                 </tr>
                 <tr>
@@ -77,7 +69,7 @@
                         <p>Government Declared Public Holiday</p>
                     </td>
                     <td>
-                        <p>CLOSED</p>
+                        <p>Closed</p>
                     </td>
                 </tr>
             </tbody>

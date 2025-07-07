@@ -3,6 +3,30 @@
         <div class="views-field views-field-title"> <span class="field-content">
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <article class="entry-item">
+                        <div class="entry-thumb"> <a href="https://ucsiuniversity073.sharepoint.com/:f:/s/GCA.BD/EiNjsQlxAYZGoQnQSrHKiNkBi4Y43CQwMebQrBCmtmCLlA?e=aWLP2f" target="_blank"> <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/brand_ambassador.jpg" width="398" height="266"> </a></div>
+                        <div class="entry-content clearfix pb-40">
+                            <header class="text-center pt-10"> <span class="entry-categories-2"><a href="https://ucsiuniversity073.sharepoint.com/:f:/s/GCA.BD/EiNjsQlxAYZGoQnQSrHKiNkBi4Y43CQwMebQrBCmtmCLlA?e=aWLP2f" target="_blank">Brand Ambassador Award Event</a></span> </header>
+                        </div>
+                    </article>
+                </div>
+            </span>
+        </div>
+        <div class="views-field views-field-title"> <span class="field-content">
+                <div class="col-md-6 col-sm-6 col-xs-12">
+                    <article class="entry-item">
+                        <div class="entry-thumb"> <a href="https://ucsiuniversity073.sharepoint.com/:f:/s/GCA.BD/ElYzttSwCOJLgy9cl6KOsIMBfWMFqqR7Mt1JrQRoJSnuww?e=rG2idN" target="_blank"> <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/deans_honour_list_-_january_2025.jpg" width="398" height="266"> </a></div>
+                        <div class="entry-content clearfix pb-40">
+                            <header class="text-center pt-10"> <span class="entry-categories-2"><a href="https://ucsiuniversity073.sharepoint.com/:f:/s/GCA.BD/ElYzttSwCOJLgy9cl6KOsIMBfWMFqqR7Mt1JrQRoJSnuww?e=rG2idN" target="_blank">Dean's Honour List - January 2025</a></span> </header>
+                        </div>
+                    </article>
+                </div>
+            </span>
+        </div>
+    </div>
+    <div class="row">
+        <div class="views-field views-field-title"> <span class="field-content">
+                <div class="col-md-6 col-sm-6 col-xs-12">
+                    <article class="entry-item">
                         <div class="entry-thumb"> <a href="https://ucsiuniversity073.sharepoint.com/:f:/s/GCA.BD/Eimb2XKFpJ5Al2tSrmh3dA8BLgGPxTP_-1OLWDIRy2aCdQ?e=szS9Mh" target="_blank"> <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/orientation-may-2025.jpg" width="398" height="266"> </a></div>
                         <div class="entry-content clearfix pb-40">
                             <header class="text-center pt-10"> <span class="entry-categories-2"><a href="https://ucsiuniversity073.sharepoint.com/:f:/s/GCA.BD/Eimb2XKFpJ5Al2tSrmh3dA8BLgGPxTP_-1OLWDIRy2aCdQ?e=szS9Mh" target="_blank">Orientation - May 2025</a></span> </header>

@@ -137,7 +137,7 @@
             </div>
         </div>
         <div class="grid-item">
-            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/rakib_hasan.png" alt="Person 3">
+            <img src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/mr_md_rakib_hasan_co-op.jpeg" alt="Person 3">
             <div
                 style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin-top: 18px; line-height: 10px;">
                 <p><strong>Mr Md Rakib Hasan</strong></p>

@@ -23,7 +23,7 @@
     storied commercial building with modern classrooms, lab, library, and other facilities. Some Faculty Members 
     at this university are from Malaysia and renowned foreign universities with Master’s & PhD Degrees.</p>
 
-<p> The University is ranked 265th worldwide according to QS World University Rankings in 2025. It is also ranked 
+<p> The University is ranked 269th worldwide according to QS World University Rankings in 2026. It is also ranked 
     45th according to QS Asian University Rankings in 2025. </p>
 
 <p> The UCSI University Bangladesh Branch Campus is committed to delivering top-notch teaching and learning

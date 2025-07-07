@@ -16,20 +16,6 @@
                 </li>
                 <hr>
             </span>
-            <!-- <span class="field-content">
-                <li>
-                    <article class="entry-item row clearfix">
-                        <div class="col-md-3 col-sm-3 col-xs-12"> <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/styles/facultylistnew/public/dr._rogayah.jpg?itok=bo76yUfe" width="117" height="124" alt="dr._rogayah"></div>
-                        <div class="entry-content col-md-9 col-sm-9 col-xs-12">
-                            <header>
-                                <h2 class="entry-title" style="padding-bottom:3px"><a href="/professor-dr-rogayah-bt-razak">Dr. Rogayah Bt A Razak</a></h2>
-                                <div class="designation-box">Affiliate Dean</div>
-                            </header>
-                        </div>
-                    </article>
-                </li>
-                <hr>
-            </span> -->
             <span class="field-content">
                 <li>
                     <article class="entry-item row clearfix">
@@ -66,6 +52,20 @@
                             <header>
                                 <h2 class="entry-title" style="padding-bottom:3px"><a href="/ms-nuzhat-ahmad">Ms Nuzhat Ahmad</a></h2>
                                 <div class="designation-box">Lecturer</div>
+                            </header>
+                        </div>
+                    </article>
+                </li>
+                <hr>
+            </span>
+            <span class="field-content">
+                <li>
+                    <article class="entry-item row clearfix">
+                        <div class="col-md-3 col-sm-3 col-xs-12"> <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/styles/facultylistnew/public/dr._rogayah.jpg?itok=bo76yUfe" width="117" height="124" alt="dr._rogayah"></div>
+                        <div class="entry-content col-md-9 col-sm-9 col-xs-12">
+                            <header>
+                                <h2 class="entry-title" style="padding-bottom:3px"><a href="/professor-dr-rogayah-bt-razak">Dr. Rogayah Bt A Razak</a></h2>
+                                <div class="designation-box">Affiliate Dean</div>
                             </header>
                         </div>
                     </article>

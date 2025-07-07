@@ -320,6 +320,10 @@
                                         <div class="staff-col">Mst Shanjida Alam</div>
                                         <div class="staff-col">Executive Officer (Graphic Designer)</div>
                                     </li>
+                                    <li class="clearfix">
+                                        <div class="staff-col">Mr. Mehedi Hassan Khan</div>
+                                        <div class="staff-col">Junior Executive Officer (CAD)</div>
+                                    </li>
                                 </ul>
                             </div>
                         </div><!-- kopa-course-list-table -->
@@ -1042,6 +1046,10 @@
                                     <li class="clearfix">
                                         <div class="staff-col">Ms Nuzhat Ahmad</div>
                                         <div class="staff-col">Lecturer</div>
+                                    </li>
+                                    <li class="clearfix">
+                                        <div class="staff-col">Dr. Rogayah Bt A Razak</div>
+                                        <div class="staff-col">Affiliate Dean</div>
                                     </li>
                                     <li class="clearfix">
                                         <div class="staff-col">Mr Kazi Shamsul Amin</div>

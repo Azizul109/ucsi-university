@@ -1,6 +1,6 @@
 <div class="widget kopa-course-list-3-widget">
     <h4 class="widget-title widget-title-s10">
-    SCHOOL OF GRADUATE STUDIES
+        SCHOOL OF GRADUATE STUDIES
     </h4>
     <div class="kopa-course-list-table">
         <div class="table-header clearfix">
@@ -29,16 +29,16 @@
                         </li>
                     </span>
                 </div>
-                <!-- <div class="views-field views-field-title">
+                <div class="views-field views-field-title">
                     <span class="field-content">
                         <li class="clearfix">
                             <div class="name-col">
-                                <a href="https://www.bangladesh.ucsiuniversity.edu.my/programmes/master-international-hospitality-management-bangladesh">Master In International Hospitality Management</a>
+                                <a href="https://www.bangladesh.ucsiuniversity.edu.my/programmes/master-international-hospitality-management-2">Master In International Hospitality Management</a>
                             </div>
                             <div class="date-col">January, May and September</div>
                         </li>
                     </span>
-                </div> -->
+                </div>
             </ul>
         </div>
     </div>
@@ -49,7 +49,7 @@
 
 <div class="widget kopa-course-list-3-widget">
     <h4 class="widget-title widget-title-s10">
-    FAST TRACK MASTER’S IN SPECIALISED AREA
+        FAST TRACK MASTER’S IN SPECIALISED AREA
     </h4>
     <div class="kopa-course-list-table">
         <div class="table-header clearfix">
@@ -78,7 +78,7 @@
                         </li>
                     </span>
                 </div>
-                <div class="views-field views-field-title">
+                <!-- <div class="views-field views-field-title">
                     <span class="field-content">
                         <li class="clearfix">
                             <div class="name-col">
@@ -88,7 +88,7 @@
                         </li>
                     </span>
                 </div>
-                <!-- <div class="views-field views-field-title">
+                <div class="views-field views-field-title">
                     <span class="field-content">
                         <li class="clearfix">
                             <div class="name-col">

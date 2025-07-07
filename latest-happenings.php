@@ -14,6 +14,44 @@
                                         <div class="views-field views-field-title"> <span class="field-content">
                                                 <div class="col-md-4 col-sm-4 col-xs-12">
                                                     <article class="entry-item">
+                                                        <div class="entry-thumb"> <a href="https://ucsiuniversity073.sharepoint.com/:f:/s/GCA.BD/EiNjsQlxAYZGoQnQSrHKiNkBi4Y43CQwMebQrBCmtmCLlA?e=aWLP2f" target="_blank"> <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/brand_ambassador.jpg" width="398" height="266" alt="" title=""> </a></div>
+                                                        <div class="entry-content">
+                                                            <header class="clearfix"> <span class="entry-time-white pull-left">26 Jun 2025</span> </header>
+                                                            <h3 class="entry-title happenings"><a href="https://ucsiuniversity073.sharepoint.com/:f:/s/GCA.BD/EiNjsQlxAYZGoQnQSrHKiNkBi4Y43CQwMebQrBCmtmCLlA?e=aWLP2f" target="_blank">Brand Ambassador Award Event</a></h3>
+                                                            <div class="qna-2">
+                                                                <div class="question-2"><span></span></div>
+                                                                <div class="answer-2">
+                                                                    <p>UCSI University Bangladesh Branch Campus honored six top-performing students with the prestigious Brand Ambassador Award for achieving the highest GPA in the January 2025 semester. The awards were presented during a vibrant ceremony on June 26 at the university’s hall room.
+
+                                                                        His Excellency Mohd Shuhada Othman, High Commissioner of Malaysia to Bangladesh, attended as the chief guest and handed over the crests and certificates to the Brand Ambassadors, as well as to ten Student Club Presidents.</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </article>
+                                                </div>
+                                            </span>
+                                        </div>
+                                        <div class="views-field views-field-title"> <span class="field-content">
+                                                <div class="col-md-4 col-sm-4 col-xs-12">
+                                                    <article class="entry-item">
+                                                        <div class="entry-thumb"> <a href="https://ucsiuniversity073.sharepoint.com/:f:/s/GCA.BD/ElYzttSwCOJLgy9cl6KOsIMBfWMFqqR7Mt1JrQRoJSnuww?e=rG2idN" target="_blank"> <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/deans_honour_list_-_january_2025.jpg" width="398" height="266" alt="" title=""> </a></div>
+                                                        <div class="entry-content">
+                                                            <header class="clearfix"> <span class="entry-time-white pull-left">03 Jun 2025</span> </header>
+                                                            <h3 class="entry-title happenings"><a href="https://ucsiuniversity073.sharepoint.com/:f:/s/GCA.BD/ElYzttSwCOJLgy9cl6KOsIMBfWMFqqR7Mt1JrQRoJSnuww?e=rG2idN" target="_blank">Dean's Honour List - January 2025</a></h3>
+                                                            <div class="qna-2">
+                                                                <div class="question-2"><span></span></div>
+                                                                <div class="answer-2">
+                                                                    <p>UCSI University Bangladesh honored top academic achievers at its January 2025 ceremony, presenting Awards of Academic Excellence for their stellar semester results (typically GPA-based), in a celebration hosted by senior faculty and administrators</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </article>
+                                                </div>
+                                            </span>
+                                        </div>
+                                        <div class="views-field views-field-title"> <span class="field-content">
+                                                <div class="col-md-4 col-sm-4 col-xs-12">
+                                                    <article class="entry-item">
                                                         <div class="entry-thumb"> <a href="https://ucsiuniversity073.sharepoint.com/:f:/s/GCA.BD/Eimb2XKFpJ5Al2tSrmh3dA8BLgGPxTP_-1OLWDIRy2aCdQ?e=szS9Mh" target="_blank"> <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/orientation-may-2025.jpg" width="398" height="266"> </a></div>
                                                         <div class="entry-content">
                                                             <header class="clearfix"> <span class="entry-time-white pull-left">17 May 2025</span> </header>
@@ -29,7 +67,7 @@
                                                 </div>
                                             </span>
                                         </div>
-                                        <div class="views-field views-field-title"> <span class="field-content">
+                                        <!-- <div class="views-field views-field-title"> <span class="field-content">
                                                 <div class="col-md-4 col-sm-4 col-xs-12">
                                                     <article class="entry-item">
                                                         <div class="entry-thumb"> <a href="https://ucsiuniversity073.sharepoint.com/sites/GCA.BD/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FGCA%2EBD%2FShared%20Documents%2FGCA%20BD%2FPhotos%2FAdmission%20Fair%2FAdmission%20Fair%20%2D%20April%202025&p=true&ga=1" target="_blank"> <img typeof="foaf:Image" src="https://www.bangladesh.ucsiuniversity.edu.my/sites/default/files/img_20250424_112821.jpg" width="398" height="266" alt="" title=""> </a></div>
@@ -64,7 +102,7 @@
                                                     </article>
                                                 </div>
                                             </span>
-                                        </div>
+                                        </div> -->
                                     </div>
                                 </div>
                                 <script type="text/javascript">

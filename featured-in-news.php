@@ -10,6 +10,142 @@
             <ul class="table-list">
                 <div class="views-field views-field-title"> <span class="field-content">
                         <li class="clearfix">
+                            <div class="Mdate-col">28-jun-2025</div>
+                            <div class="media-col">Ajker Patrika</div>
+                            <div class="title-col"><a href="https://www.ajkerpatrika.com/education/campus/ajpsm7tysaua5" target="_blank">৬ শিক্ষার্থীকে ব্র্যান্ড অ্যাম্বাসেডর অ্যাওয়ার্ড দিল ইউসিএসআই ইউনিভার্সিটি</a></div>
+                        </li>
+                    </span>
+                </div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
+                            <div class="Mdate-col">28-jun-2025</div>
+                            <div class="media-col">Desh Television</div>
+                            <div class="title-col"><a href="https://www.facebook.com/watch/?v=735626652299716&rdid=tuwLL8HdjRb06l34" target="_blank">৬ শিক্ষার্থীকে ব্র্যান্ড অ্যাম্বাসেডর অ্যাওয়ার্ড দিল ইউসিএসআই ইউনিভার্সিটি</a></div>
+                        </li>
+                    </span>
+                </div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
+                            <div class="Mdate-col">27-jun-2025</div>
+                            <div class="media-col">DBC News</div>
+                            <div class="title-col"><a href="https://www.facebook.com/share/v/1Ade17HNt8/" target="_blank">৬ শিক্ষার্থীকে পুরস্কার দিল ইউসিএসআই ইউনিভার্সিটি</a></div>
+                        </li>
+                    </span>
+                </div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
+                            <div class="Mdate-col">27-jun-2025</div>
+                            <div class="media-col">NEWS24 youtube</div>
+                            <div class="title-col"><a href="https://www.youtube.com/watch?v=4crFCq4Mjoo" target="_blank">৬ শিক্ষার্থীকে ব্র্যান্ড অ্যাম্বাসেডর অ্যাওয়ার্ড দিলো ইউসিএসআই</a></div>
+                        </li>
+                    </span>
+                </div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
+                            <div class="Mdate-col">27-jun-2025</div>
+                            <div class="media-col">The Daily Inqilab</div>
+                            <div class="title-col"><a href="https://dailyinqilab.com/motropolis/news/776804" target="_blank">ইউসিএসআই ইউনিভার্সিটি বাংলাদেশ ক্যাম্পাসের ৬ শিক্ষার্থী পেলেন ব্রান্ড অ্যাম্বাসেডর অ্যাওয়ার্ড</a></div>
+                        </li>
+                    </span>
+                </div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
+                            <div class="Mdate-col">27-jun-2025</div>
+                            <div class="media-col">Bangladesh Pratidin</div>
+                            <div class="title-col"><a href="https://www.bd-pratidin.com/campus-online/2025/06/27/1130531" target="_blank">ইউসিএসআই ইউনিভার্সিটির ৬ শিক্ষার্থী পেলেন ব্রান্ড অ্যাম্বাসেডর অ্যাওয়ার্ড</a></div>
+                        </li>
+                    </span>
+                </div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
+                            <div class="Mdate-col">27-jun-2025</div>
+                            <div class="media-col">NEWS24</div>
+                            <div class="title-col"><a href="https://www.facebook.com/news24bd.tv/videos/%E0%A7%AC-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A7%80%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A7%8D%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A1-%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%A1%E0%A6%B0-%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A1-%E0%A6%A6%E0%A6%BF%E0%A6%B2%E0%A7%8B-%E0%A6%87%E0%A6%89%E0%A6%B8%E0%A6%BF%E0%A6%8F%E0%A6%B8%E0%A6%86%E0%A6%87-news24/2061729360979895/" target="_blank">৬ শিক্ষার্থীকে ব্র্যান্ড অ্যাম্বাসেডর অ্যাওয়ার্ড দিলো ইউসিএসআই</a></div>
+                        </li>
+                    </span>
+                </div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
+                            <div class="Mdate-col">27-jun-2025</div>
+                            <div class="media-col">DBC News Youtube</div>
+                            <div class="title-col"><a href="https://www.youtube.com/watch?v=kBNzzJiXN4o" target="_blank">ইউসিএসআই ইউনিভার্সিটির ৬ শিক্ষার্থী পেলেন ব্রান্ড অ্যাম্বাসেডর অ্যাওয়ার্ড</a></div>
+                        </li>
+                    </span>
+                </div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
+                            <div class="Mdate-col">27-jun-2025</div>
+                            <div class="media-col">DBC News</div>
+                            <div class="title-col"><a href="https://dbcnews.tv/articles/146025" target="_blank">ইউসিএসআই ইউনিভার্সিটির ৬ শিক্ষার্থী পেলেন ব্রান্ড অ্যাম্বাসেডর অ্যাওয়ার্ড</a></div>
+                        </li>
+                    </span>
+                </div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
+                            <div class="Mdate-col">26-jun-2025</div>
+                            <div class="media-col">The Daily Voice Of Asia</div>
+                            <div class="title-col"><a href="https://dailyvoa.com/827" target="_blank">UCSI University Bangladesh Campus Awards Six Students with Brand Ambassador Honors</a></div>
+                        </li>
+                    </span>
+                </div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
+                            <div class="Mdate-col">26-jun-2025</div>
+                            <div class="media-col">Daily Nagorik Sangbad</div>
+                            <div class="title-col"><a href="https://dailynagoriksangbad.com/9858" target="_blank">ইউসিএসআই ইউনিভার্সিটি বাংলাদেশ ক্যাম্পাসের ৬ শিক্ষার্থী পেলেন ব্রান্ড অ্যাম্বাসেডর অ্যাওয়ার্ড</a></div>
+                        </li>
+                    </span>
+                </div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
+                            <div class="Mdate-col">26-jun-2025</div>
+                            <div class="media-col">The Daily Campus</div>
+                            <div class="title-col"><a href="https://thedailycampus.com/private-university/206770" target="_blank">ইউসিএসআই ইউনিভার্সিটির ৬ শিক্ষার্থী পেলেন ব্রান্ড অ্যাম্বাসেডর অ্যাওয়ার্ড</a></div>
+                        </li>
+                    </span>
+                </div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
+                            <div class="Mdate-col">26-jun-2025</div>
+                            <div class="media-col">Ajkaler Khobor</div>
+                            <div class="title-col"><a href="https://ajkalerkhobor.net/news/183840" target="_blank">ইউসিএসআই ইউনিভার্সিটির ৬ শিক্ষার্থী পেলেন ব্রান্ড অ্যাম্বাসেডর অ্যাওয়ার্ড</a></div>
+                        </li>
+                    </span>
+                </div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
+                            <div class="Mdate-col">25-jun-2025</div>
+                            <div class="media-col">The Daily Campus</div>
+                            <div class="title-col"><a href="https://thedailycampus.com/private-university/206592" target="_blank">ইউসিএসআই ইউনিভার্সিটির ৬ শিক্ষার্থী হলেন ব্র্যান্ড অ্যাম্বাসেডর</a></div>
+                        </li>
+                    </span>
+                </div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
+                            <div class="Mdate-col">25-jun-2025</div>
+                            <div class="media-col">Dainik Shiksha</div>
+                            <div class="title-col"><a href="https://www.dainikshiksha.com/bn/news/6-students-are-brand-ambassadors-at-ucsi-universitys-bangladesh-campus-334312" target="_blank">ইউসিএসআই ইউনিভার্সিটির বাংলাদেশ ক্যাম্পাসে ব্রান্ড অ্যাম্বাসেডর ৬ শিক্ষার্থী</a></div>
+                        </li>
+                    </span>
+                </div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
+                            <div class="Mdate-col">25-jun-2025</div>
+                            <div class="media-col">Ajkaler Khobor</div>
+                            <div class="title-col"><a href="https://ajkalerkhobor.net/news/183774" target="_blank">ইউসিএসআই ইউনিভার্সিটি বাংলাদেশ ক্যাম্পাসের ব্রান্ড অ্যাম্বাসেডর হলেন ৬ শিক্ষার্থী</a></div>
+                        </li>
+                    </span>
+                </div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
+                            <div class="Mdate-col">25-jun-2025</div>
+                            <div class="media-col">Daily Nagorik Sangbad</div>
+                            <div class="title-col"><a href="https://dailynagoriksangbad.com/9844" target="_blank">ইউসিএসআই ইউনিভার্সিটি বাংলাদেশ ব্রাঞ্চ ক্যাম্পাসের ৬ শিক্ষার্থী হলেন ব্রান্ড অ্যাম্বাসেডর</a></div>
+                        </li>
+                    </span>
+                </div>
+                <div class="views-field views-field-title"> <span class="field-content">
+                        <li class="clearfix">
                             <div class="Mdate-col">19-May-2025</div>
                             <div class="media-col">Samakal</div>
                             <div class="title-col"><a href="https://samakal.com/campus/article/296374/%E0%A6%87%E0%A6%89%E0%A6%B8%E0%A6%BF%E0%A6%8F%E0%A6%B8%E0%A6%86%E0%A6%87-%E0%A6%87%E0%A6%89%E0%A6%A8%E0%A6%BF%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8%E0%A6%BF%E0%A6%9F%E0%A6%BF-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%95%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%BE%E0%A6%B8%E0%A7%87-%E0%A6%93%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A7%87%E0%A6%B6%E0%A6%A8-%E0%A6%85%E0%A6%A8%E0%A7%81%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A6%BF%E0%A6%A4" target="_blank">ইউসিএসআই ইউনিভার্সিটি বাংলাদেশ ক্যাম্পাসে ওরিয়েন্টেশন অনুষ্ঠিত</a></div>

@@ -60,7 +60,7 @@
                                         <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/exhibitions-and-roadshows"> Exhibitions And Roadshows </a></li>
                                         <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/scholarships"> Scholarships </a></li>
                                         <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/Tuition-Fees"> Tuition Fees </a></li>
-                                        <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/under-maintenance"> Downloads </a></li>
+                                        <li> <a href="https://www.bangladesh.ucsiuniversity.edu.my/downloads-2025"> Downloads </a></li>
                                     </ul>
                                 </li>
                                 <li class=""> <a href="#" class="sf-with-ul"> Life at UCSI </a>
